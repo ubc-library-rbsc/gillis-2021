@@ -27,13 +27,13 @@ tagline: A big test
 # this description might appear in search result lists, keep around 160 characters max
 description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CSY
+author: Sasha
 
 ##########
 # COLLECTION SETTINGS
 #
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: gillis-metadata-test001 
+metadata: gillis2021-metadata 
 
 ##########
 # GOOGLE SERVICES [optional!]
