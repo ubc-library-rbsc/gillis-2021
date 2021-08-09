@@ -25,7 +25,7 @@ Having the ability to do something and yet not having the access or means to act
 
 There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during the period fo forced dispersal. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.
 
-#### Photographs
+### Photographs
 
 While their access to picture-making equipment may have been limited or outright denied, photographs are clearly incredibly important to the letter writers, as evidenced by their many requests that Joan send them photos of herself or of home.
 
@@ -47,7 +47,7 @@ Sumi wrote: “A man from the Lethbridge studio came over to Raymond and establi
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
-#### Letter Writing
+### Letter Writing
 
 “But, oh! fat, large letters every time! That’s what I like. I don’t know how you do it, but gosh, it’s so interesting, that I read it over I don’t know how many times. There isn’t any interesting things to write around here, so you can write all the news back home.” 
 
