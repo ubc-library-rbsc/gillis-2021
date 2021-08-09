@@ -6,7 +6,9 @@ permalink: /communications.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/ubc-library-rbsc/gillis-2021_draft/main/objects/test-feature-image.jpg" title="Communications" text=""%}
+#Communications
+
+{% include feature/quotecarouseltest.html %}
 
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
@@ -21,8 +23,6 @@ https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/nagamori.html#nag
 
 Sumi Mototsune also communicates an awareness of the looming restrictions on the use of cameras, noting in one letter to Joan that “Were [sic] still allowed to have a camera yet, but since we haven’t one, we’ll have to borrow someones. We’re intending to take pictures before our cameras get banned, if they ever do. “
 https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/mototsune19420731.html#mototsune1942073123
-
-{% include feature/quotecarouseltest.html %}
 
 Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied (Ketchell 2005, 6). Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.
 
