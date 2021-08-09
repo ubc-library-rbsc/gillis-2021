@@ -5,6 +5,7 @@ permalink: /communications.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/ubc-library-rbsc/gillis-2021_draft/main/objects/test-feature-image.jpg" title="Communications" text=""%}
 
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
