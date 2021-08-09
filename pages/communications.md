@@ -81,6 +81,6 @@ Of the letters from the Gillis fonds that are included in this exhibit, none of 
 We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.
 
 [INSERT THE OLD PEAT PLANT EXAMPLE FROM YOSH]
-{% include feature/card.html header="Example: The Old Peat Plant" title="No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what?" text="Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid=https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png width="25" centered=true %}
+{% include feature/card.html header="Example: The Old Peat Plant" text=""No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what?"Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid=https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png width="25" centered=true %}
 
 Add some interpretive explanation of the peat example maybe make this it’s own little box?
