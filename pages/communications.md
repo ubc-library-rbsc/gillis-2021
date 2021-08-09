@@ -37,7 +37,7 @@ Yoshio xxx
 
 Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.
 
-Art historian Namiko Kunimoto writes, “As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’.”
+> Art historian Namiko Kunimoto writes, “As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’.”
 
 When they could, the letter writers also sent photos in return.
 
