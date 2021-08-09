@@ -76,11 +76,10 @@ https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/nagamori.html#nag
 
 Of the letters from the Gillis fonds that are included in this exhibit, none of them were expressly censured by those that read them. It is possible that, through trial and error, the letter writers knew what not to include, or perhaps it is that there was much less concern on the part of the censor regarding what information about the conditions Japanese Canadians were living in was getting out to a white teenager in B.C. Either way, despite the fact that there are no marks of censorship on the letters, traces of their having read the letters remain in the form of stamps on the envelopes confirming their passing inspection.
 
-{% include feature/item-figure.html objectid=https://cdn.discordapp.com/attachments/798302352737566730/868189180126199839/Screen_Shot_2021-07-23_at_10.53.46_AM.png
- width="100" %}
+{% include feature/item-figure.html objectid="/objects/CensorStamp.jpg" width="100" %}
 We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.
 
 [INSERT THE OLD PEAT PLANT EXAMPLE FROM YOSH]
-{% include feature/card.html header="Example: The Old Peat Plant" text=""No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what?"Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid=https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png width="25" centered=true %}
+{% include feature/card.html header="Example: The Old Peat Plant" text=""No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what?"Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="/objects/CensorshipPeatPlantExample.jpg" width="75" centered=true %}
 
 Add some interpretive explanation of the peat example maybe make this it’s own little box?
