@@ -29,21 +29,11 @@ There is a theme across a large array of experiences from Japanese Canadians’ 
 
 While their access to picture-making equipment may have been limited or outright denied, photographs are clearly incredibly important to the letter writers, as evidenced by their many requests that Joan send them photos of herself or of home.
 
-"I will be very grateful to you if you can spare some few to me" Sumi asked of Joan. She later remarked, “I love pictures and I could look at them all everyday without getting a bit fed up. That’s how much I like them.”
-
-Albert and Tad never failed to request in their letters that Joan send photos of herself to them. 
-
-Yoshio xxx
-
 Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.
 
 > Art historian Namiko Kunimoto writes, “As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’.”
 
-When they could, the letter writers also sent photos in return.
-
-When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
-
-Sumi wrote: “A man from the Lethbridge studio came over to Raymond and established a little room to take pictures. I think he’s going back to Lethbridge this Saturday. He is quick in developing pictures so lot [sic] of people get their pictures taken. Usually, he has them develop-ed the next day.”
+When they could, the letter writers also sent photos in return. When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
