@@ -8,8 +8,6 @@ permalink: /communications.html
 
 # Communications
 
-{% include feature/quotecarouseltest.html centered=true %}
-
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
 When Japanese Canadians were forcibly displaced, they not only were forcibly removed from their homes, but also restricted in their ability to gain and distribute information.
@@ -19,7 +17,6 @@ Access to radios and cameras in particular was severely limited, often completel
 It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.
 
 {% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. That radio wouldn’t be in any use here I don’t think because the dials are different here We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
-
 
 Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied (Ketchell 2005, 6). Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.
 
@@ -38,7 +35,6 @@ When they could, the letter writers also sent photos in return. When they did no
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
 ### Letter Writing
-{% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" alt="Quote from Sumi Mototsune" width="75" caption="A quote from Sumi Mototsune describing her excitement when receiving letters from Joan" %}
 
 The visual communication of photographs and photograph exchange was made possible by the central activity that this exhibit celebrates: letter writing.
 
@@ -52,7 +48,7 @@ Many of the correspondents expressed a vicariousness that they were able to expe
 
 Albert: You know, three weeks after Christmas Eve, when I got your letter, I spent it all over again -- in your house! Boy it was swell! https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/ohama.html#ohama112
 
-{% include feature/card.html header="Example: Please Write" text="Image Description: A collage of correspondents asking Joan to write to them. Post Postscripts asking for her to write as soon as she could are common throughout the letters. As are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="/objects/PleaseWriteSoon.jpg" width="75" centered=true %}
+{% include feature/card.html header="Example: Please Write" text="Image Description: A collage of correspondents asking Joan to write to them. Postscripts asking for her to write as soon as she could are common throughout the letters. As are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="/objects/PleaseWriteSoon.jpg" width="75" centered=true %}
 
 But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in New Westminster, neither her letters nor those of the letter writers were free from the scrutiny of the Canadian government.
 
