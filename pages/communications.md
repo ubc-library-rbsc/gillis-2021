@@ -37,7 +37,7 @@ When they could, the letter writers also sent photos in return. When they did no
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
-{% include feature/button.html text="Click here to check out the 'Photographs' tag on this exhibit's subject visualization page" link="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs" color="Secondary" %}
+{% include feature/button.html text="Click here to check out the 'Photographs' tag on this exhibit's subject visualization page" link="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs" color="info" %}
 
 ### Letter Writing
 {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" alt="Quote from Sumi Mototsune" width="75" caption="A quote from Sumi Mototsune describing her excitement when receiving letters from Joan" %}
