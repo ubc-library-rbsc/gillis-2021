@@ -60,8 +60,7 @@ But while Joan was able to provide many tales of Queen Elizabeth High School and
 
 In addition to restrictions on certain forms of communication and information exchange, letters written to and by Japanese Canadians were subject to censure beginning in March of 1942. This process, in combination with the relative remoteness of many of the farms or towns that forcibly displaced families were sent to, greatly impacted how frequently letters could be sent and received.
 
-Tad remarks to Joan: “Every letter we’re getting now is cencored [sic] and just to send a letter 30 miles it takes over a week, because every letter we write goes back to B.C. to be cencored [sic].”
-https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/nagamori.html#nagamori30
+{% include feature/blockquote.html text:"Every letter we’re getting now is [censored] and just to send a letter 30 miles it takes over a week, because every letter we write goes back to B.C. to be [censored]." author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
 
 Of the letters from the Gillis fonds that are included in this exhibit, none of them were expressly censured by those that read them. It is possible that, through trial and error, the letter writers knew what not to include, or perhaps it is that there was much less concern on the part of the censor regarding what information about the conditions Japanese Canadians were living in was getting out to a white teenager in B.C. Either way, despite the fact that there are no marks of censorship on the letters, traces of their having read the letters remain in the form of stamps on the envelopes confirming their passing inspection.
 
