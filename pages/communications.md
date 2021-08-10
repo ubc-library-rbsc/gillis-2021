@@ -52,7 +52,7 @@ Many of the correspondents expressed a vicariousness that they were able to expe
 
 Albert: You know, three weeks after Christmas Eve, when I got your letter, I spent it all over again -- in your house! Boy it was swell! https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/ohama.html#ohama112
 
-{% include feature/card.html header="Example: Please Write" text="Image Description: A collage of correspondents asking Joan to write to them. Post Postscripts asking for her to write as soon as she could are common throughout the letters. As are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="https://cdn.discordapp.com/attachments/798302352737566730/874518054304903278/PleaseWriteSoon.png" width="75" centered=true %}
+{% include feature/card.html header="Example: Please Write" text="Image Description: A collage of correspondents asking Joan to write to them. Post Postscripts asking for her to write as soon as she could are common throughout the letters. As are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="/objects/PleaseWriteSoon.jpg" width="75" centered=true %}
 
 But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in New Westminster, neither her letters nor those of the letter writers were free from the scrutiny of the Canadian government.
 
