@@ -52,9 +52,7 @@ To explore more about the importance of photographs as expressed in the Gillis l
 
 ### Letter Writing
 
-“But, oh! fat, large letters every time! That’s what I like. I don’t know how you do it, but gosh, it’s so interesting, that I read it over I don’t know how many times. There isn’t any interesting things to write around here, so you can write all the news back home.” 
-
-https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/mototsune19420530.html#mototsune194205305
+{% include feature/item-figure.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" width="100" %}
 
 The visual communication of photographs and photograph exchange was made possible by the central activity that this exhibit celebrates: letter writing.
 
