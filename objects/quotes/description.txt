@@ -1,1 +1,0 @@
-Quotes are image files created to allow quotes to be displayed.
