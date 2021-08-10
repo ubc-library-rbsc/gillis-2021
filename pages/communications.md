@@ -57,7 +57,8 @@ The visual communication of photographs and photograph exchange was made possibl
 
 Just as photographs could provide visual reminders of home, letters from Joan represented one of the only sources of news from home available. Even if they could have had better access to media such as the radio or newspapers, several of the letter writers noted that it would be of little use because it would only be news of their present location.
 
-Sumi wrote, “We don’t get any newspaper so we don’t know anything. Whenever Dad goes to town, he buys a “Lethbridge Herald News” paper. It has only the half of the pages from that of Sun or Province, and there is no news of Vancouver or New Westminster. The other day, I sent a letter to “The Vancouver Daily Provinces” asking them if they can send a newspaper over here to Raymond. Do you think they will?”
+{% include feature/blockquote.html text="We don’t get any newspaper so we don’t know anything. Whenever Dad goes to town, he buys a “Lethbridge Herald News” paper. It has only the half of the pages from that of Sun or Province, and there is no news of Vancouver or New Westminster. The other day, I sent a letter to “The Vancouver Daily Provinces” asking them if they can send a newspaper over here to Raymond. Do you think they will?" author="Sumi Mototsune" %}
+
 
 The news that Joan was able to provide in her letters was precious.
 Sumi describes her eagerness in receiving them: I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times.
