@@ -19,6 +19,9 @@ Having the ability to do something and yet not having the access or means to act
 There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during the period fo forced dispersal. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.
 
 ## Photographs
+
+{% include feature/image.html objectid="https://transit6.cargocollective.com/1/10/326832/9687348/kodakcameras-1-of-1_1700_c.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="50" %}
+
 While their access to picture-making equipment may have been limited or outright denied, photographs are clearly incredibly important to the letter writers, as evidenced by their many requests that Joan send them photos of herself or of home.
 
 Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.
