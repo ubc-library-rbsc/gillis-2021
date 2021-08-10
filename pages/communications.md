@@ -52,7 +52,7 @@ To explore more about the importance of photographs as expressed in the Gillis l
 
 ### Letter Writing
 
-{% include feature/item-figure.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" width="50" %}
+{% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" alt="Quote from Sumi Mototsune" width="75" caption="A quote from Sumi Mototsune describing her excitement when receiving letters from Joan" %}
 
 The visual communication of photographs and photograph exchange was made possible by the central activity that this exhibit celebrates: letter writing.
 
