@@ -67,6 +67,6 @@ Of the letters from the Gillis fonds that are included in this exhibit, none of 
 {% include feature/item-figure.html objectid="gillis006" width="100" %}
 We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.
 
-{% include feature/card.html header="Example: The Old Peat Plant" text=" No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? -- Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="gillis007" width="75" centered=true %}
+{% include feature/card.html header="Example: The Old Peat Plant" text=" No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? -- Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="/objects/CensorshipPeatPlantExample.jpg" width="75" centered=true %}
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
