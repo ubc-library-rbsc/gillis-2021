@@ -37,6 +37,8 @@ When they could, the letter writers also sent photos in return. When they did no
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
+{% include feature/button.html text="Click here to check out the 'Photographs' tag on this exhibit's subject visualization page" link="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs" color="Secondary" %}
+
 ### Letter Writing
 {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" alt="Quote from Sumi Mototsune" width="75" caption="A quote from Sumi Mototsune describing her excitement when receiving letters from Joan" %}
 
@@ -46,8 +48,8 @@ Just as photographs could provide visual reminders of home, letters from Joan re
 
 {% include feature/blockquote.html text="We don’t get any newspaper so we don’t know anything. Whenever Dad goes to town, he buys a “Lethbridge Herald News” paper. It has only the half of the pages from that of Sun or Province, and there is no news of Vancouver or New Westminster. The other day, I sent a letter to “The Vancouver Daily Provinces” asking them if they can send a newspaper over here to Raymond. Do you think they will?" author="Sumi Mototsune" citation="Letter to Joan Gillis, May 30, 1942" %}
 
-
 The news that Joan was able to provide in her letters was precious.
+
 Sumi describes her eagerness in receiving them: I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times.
 
 Postscripts asking for her to write as soon as she could are common throughout the letters. As are descriptions of how her letters were able to give them a slice of the life they were missing.
@@ -68,3 +70,5 @@ Of the letters from the Gillis fonds that are included in this exhibit, none of 
 We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.
 
 {% include feature/card.html header="Example: The Old Peat Plant" text=" No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? -- Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="gillis007" width="75" centered=true %}
+
+To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
