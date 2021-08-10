@@ -7,6 +7,7 @@ permalink: /communications.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+# Communications
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
 When Japanese Canadians were forcibly displaced, they not only were forcibly removed from their homes, but also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, often completely denied to uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.
@@ -17,7 +18,7 @@ Having the ability to do something and yet not having the access or means to act
 
 There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during the period fo forced dispersal. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.
 
-Photographs
+## Photographs
 While their access to picture-making equipment may have been limited or outright denied, photographs are clearly incredibly important to the letter writers, as evidenced by their many requests that Joan send them photos of herself or of home.
 
 Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.
@@ -28,7 +29,7 @@ When they could, the letter writers also sent photos in return. When they did no
 
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
-Letter Writing
+## Letter Writing
 
 The visual communication of photographs and photograph exchange was made possible by the central activity that this exhibit celebrates: letter writing.
 
@@ -43,7 +44,7 @@ The news that Joan was able to provide in her letters was precious. Sumi describ
 
 But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in New Westminster, neither her letters nor those of the letter writers were free from the scrutiny of the Canadian government.
 
-Censorship
+###### Censorship
 In addition to restrictions on certain forms of communication and information exchange, letters written to and by Japanese Canadians were subject to censure beginning in March of 1942. This process, in combination with the relative remoteness of many of the farms or towns that forcibly displaced families were sent to, greatly impacted how frequently letters could be sent and received.
 
 Tad remarks to Joan: “Every letter we’re getting now is cencored [sic] and just to send a letter 30 miles it takes over a week, because every letter we write goes back to B.C. to be cencored [sic].” https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/nagamori.html#nagamori30
