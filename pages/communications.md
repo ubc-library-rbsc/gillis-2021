@@ -18,11 +18,8 @@ Access to radios and cameras in particular was severely limited, often completel
 
 It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.
 
-In one letter, Tad Nagamori writes, “Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. That radio wouldn’t be in any use here I don’t think because the dials are different here We have sent for our camera about two weeks ago but it still hasn’t arrived”
-https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/nagamori.html#nagamori41
+{% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. That radio wouldn’t be in any use here I don’t think because the dials are different here We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
 
-Sumi Mototsune also communicates an awareness of the looming restrictions on the use of cameras, noting in one letter to Joan that “Were [sic] still allowed to have a camera yet, but since we haven’t one, we’ll have to borrow someones. We’re intending to take pictures before our cameras get banned, if they ever do. “
-https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/mototsune19420731.html#mototsune1942073123
 
 Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied (Ketchell 2005, 6). Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.
 
