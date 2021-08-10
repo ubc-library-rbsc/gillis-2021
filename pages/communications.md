@@ -8,7 +8,7 @@ permalink: /communications.html
 
 # Communications
 
-{% include feature/quotecarouseltest.html %}
+{% include feature/quotecarouseltest.html centered=true %}
 
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
