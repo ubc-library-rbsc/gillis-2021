@@ -51,8 +51,7 @@ Sumi wrote: “A man from the Lethbridge studio came over to Raymond and establi
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
 ### Letter Writing
-
-{% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" alt="Quote from Sumi Mototsune" width="75" caption="A quote from Sumi Mototsune describing her excitement when receiving letters from Joan" %}
+{% include feature/image-external.html src="https://cdn.discordapp.com/attachments/798302352737566730/874443049315479592/largerquotedraft.png" width="75"%}
 
 The visual communication of photographs and photograph exchange was made possible by the central activity that this exhibit celebrates: letter writing.
 
