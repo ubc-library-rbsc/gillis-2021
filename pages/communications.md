@@ -6,7 +6,7 @@ permalink: /communications.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-#Communications
+# Communications
 
 {% include feature/quotecarouseltest.html %}
 
