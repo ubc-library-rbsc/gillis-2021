@@ -9,7 +9,6 @@ permalink: /communications.html
 #Communications
 
 {% include feature/quotecarouseltest.html %}
-{% include feature/timelinejs.html json="https://docs.google.com/spreadsheets/d/1ZEbKYEWbFjwbasQfeP5bnllM6emd4sp_tM6Jk4W78h0/edit?usp=sharing" %}
 
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
