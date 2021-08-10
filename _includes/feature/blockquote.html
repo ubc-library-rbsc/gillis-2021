@@ -7,10 +7,11 @@
     Options:
     - "text" = main text
     - "author" = author
+    - "citation" = citation
 
 {%- endcomment -%}
 
 <blockquote class="blockquote text-center">
   <p class="mb-0">{{include.text}}</p>
-  <footer class="blockquote-footer">{{include.author}}</footer>
+  <footer class="blockquote-footer">{{include.author}} {% if include.citation %} in cite <<cite title="{{include.citation}}">{{include.citation}}</cite> {% endif %}</footer>
 </blockquote>
