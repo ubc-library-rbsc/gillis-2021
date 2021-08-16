@@ -37,6 +37,8 @@ There are many stages to beet farming, each of which requires a significant amou
   </div>
 </div>
 
+{% include feature/button.html text="To read more of what correspondents wrote about the experiences working on beet farms, check out the 'Beet-farms' tag on this exhibit's subject visualization page." link="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms" color="primary" %}
+
 ## Additional Sources of Work
 
 Often times, the pay of sugar beet farming was not enough. Families often had to find other ways to make ends meet within the restrictions placed upon their movement and labour by the Canadian government. For some, this involved doing other work for their “boss” or helping out on larger farms that were being worked by other families. Other times this involved finding other types of work.
