@@ -21,12 +21,7 @@ For more about the living conditions of our correspondents, see the Homelife sec
 				
 For better or worse, staying together as a family in these conditions also meant working together as a family. Japanese Canadians of all ages and genders worked the beet farms, performing hard labour for long hours in order to scrape together enough money to live on.
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm-6"> {% include feature/card.html header="Japanese Canadian Sugar Beet Farm Workers in Manitoba" text="This image (found in the Canadian Centennial Project fonds at the Nikkei National Museum -- 2010.23.2.4.139) shows a group of unidentified seven men, one woman and one young boy, some of whom are crouching and kneeling and some of whom are standing and leaning on farming tools, posing for a picture in a field full of sugar beets at Tully's farm in Manitoba" objectid="https://nikkeimuseum.org/files/nikkeImgFMP12/JCNM%20Database/files/ARTEFACT/Image_Image%201/13011/2010-23-2-4-139.jpg" width="100" centered=true %}
-</div>
-  </div>
-</div>
+{% include feature/image.html objectid="https://nikkeimuseum.org/files/nikkeImgFMP12/JCNM%20Database/files/ARTEFACT/Image_Image%201/13011/2010-23-2-4-139.jpg" alt="A group of unidentified seven men, one woman and one young boy, some of whom are crouching and kneeling and some of whom are standing and leaning on farming tools, posing for a picture in a field full of sugar beets" caption="This image (found in the Canadian Centennial Project fonds at the Nikkei National Museum -- 2010.23.2.4.139) shows a group of unidentified seven men, one woman and one young boy, some of whom are crouching and kneeling and some of whom are standing and leaning on farming tools, posing for a picture in a field full of sugar beets at Tully's farm in Manitoba" width="100" %}
 
 <div class="container">
   <div class="row">
