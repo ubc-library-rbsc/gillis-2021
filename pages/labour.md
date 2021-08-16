@@ -21,11 +21,12 @@ For more about the living conditions of our correspondents, see the Homelife sec
 				
 For better or worse, staying together as a family in these conditions also meant working together as a family. Japanese Canadians of all ages and genders worked the beet farms, performing hard labour for long hours in order to scrape together enough money to live on.
 
-There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. 
-
 <div class="container">
   <div class="row">
     <div class="col-sm-6">
+
+There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. Japanese Canadians performed all of these tasks primarily by hand.
+	    
 {% include feature/blockquote.html text="To [top] this sugar beet we use a heavy knife with a curved hook at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton." author="Tad Nagamori" citation="Letter to Joan Gillis, October 4, 1942" %}
      </div>
     <div class="col-sm-6">
