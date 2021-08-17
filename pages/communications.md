@@ -30,6 +30,8 @@ Photographs from before their forced removal offered an important way for Nikkei
 
 When they could, the letter writers also sent photos in return. When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
 
+{% include feature/photoscarousel.html %} Image description: Photographs that were sent to Joan by the correspondents.
+
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
 ## Letter Writing
