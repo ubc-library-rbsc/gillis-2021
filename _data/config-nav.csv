@@ -1,6 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/
-Browse,/browse.html
+Browse,,
 By Subject,/subjects.html, Browse
 By Location,/locations.html, Browse
 By Map,/map.html, Browse
