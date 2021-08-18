@@ -5,18 +5,23 @@ permalink: alternate.html
 ---
 {%- assign items = site.data[site.metadata] -%}
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
 
     {% include index/description.html %}
-    {% include feature/item-figure.html objectid="gillis005" width="75" %}
 
   </div>
 
- <div class="col-md-12"
+ <div class="col-md-8">
   
    <big>Introduction</big><br>
   
 <p style="text-indent: 25px;">Between December 1941 and March 1942, nearly 80 years ago, the Canadian Federal Government passed numerous Orders in Council that reduced the freedom of Japanese Candians to live on the Pacific coast. These included orders that required registration with the RCMP (P.C. 9591, December 7, 1941 and P.C. 9760, December 16, 1941), the assertion of control over Japanese Canadian owned or operated vessels (P.C. 9761, December 16, 1941), and the establishment of a restricted zone from which individuals who were viewed as “enemy aliens” could be forcibly removed and dispossessed (P.C. 365, January 16, 1942, P.C. 1486, and P.C. 1665). These orders led to the forced dispersal of almost 22,000 Japanese Canadians from British Columbia, who were given very limited options for where they could go, especially if they wanted to remain together as a family. <br>
+  
+  </div>
+   <div class="col-md-4">
+    {% include feature/item-figure.html objectid="gillis005" width="75" %}
+  </div>
+   <div class="col-md-12">
 
 <p style="text-indent: 25px;">Regardless of where exactly they ended up, the life that Japanese Canadians had to lead in their forced dispersal was not easy. Stripped of the possessions and capital they had earned in B.C., families were forced to do a large amount of manual labour for little pay, often meaning that children, too, had to sacrifice their education and the ability to know a childhood without work in order to survive. <br>
 
