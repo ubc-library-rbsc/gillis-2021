@@ -1,10 +1,16 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,,
-By Subject,/subjects.html,Browse
-By Location,/locations.html,Browse
-By Map,/map.html,Browse
-By Time,/timeline.html,Browse
+Browse Letters,,
+By Subject,/subjects.html,Browse Letters
+By Location,/map.html,Browse Letters
+By Time,/timeline.html,Browse Letters
+Meet the Corresponents,,
+Teruko Ikeda,/teruko.html,Meet the Correspondents
+Sumi Mototsune,/sumi.html,Meet the Correspondents
+Tad Nagamori,/tad.html,Meet the Correspondents
+Yoshio Nakamura,/yoshio.html,Meet the Correspondents
+Albert Ohama,/albert.html,Meet the Correspondents
+Jackie Takahashi,/jackie.html,Meet the Correspondents
 Communications,/communications.html,
 Labour,/labour.html,
 Data,/data.html,
