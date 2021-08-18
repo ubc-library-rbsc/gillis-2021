@@ -1,6 +1,6 @@
 ---
 title: Subjects
-layout: visualization
+layout: default
 permalink: /subjects.html
 
 ---
