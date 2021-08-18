@@ -1,13 +1,10 @@
 ---
 title: Subjects
-layout: pages
+layout: default
 permalink: /subjects.html
 
 ---
 
-    <main role="main mt-4 tufte-content">
-      <article>
-      
 <!-- list of colors provided by https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/ -->
 <style>
   
