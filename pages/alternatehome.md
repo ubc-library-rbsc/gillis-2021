@@ -5,11 +5,14 @@ permalink: alternate.html
 ---
 {%- assign items = site.data[site.metadata] -%}
 
+   <div class="row justify-content-center">
+  
   <div class="col-md-8">
 
     {% include index/description.html %}
 
   </div>
+   </div>
 
  <div class="row">
  <div class="col-md-8; float: left">
