@@ -3016,8 +3016,8 @@ reminiscing about shared experiences</option>
   </div>
 </div>
     <!-- Optional JS for Bootstrap: jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="/gillis-2021_ohd/assets/js/jquery-3.3.1.min.js"></script>
-<script src="/gillis-2021_ohd/assets/js/bootstrap.bundle.min.js"></script>
+<script src="/gillis-2021/assets/js/jquery-3.3.1.min.js"></script>
+<script src="/gillis-2021/assets/js/bootstrap.bundle.min.js"></script>
 <!-- load other js -->
 <script type="text/javascript">
   $("#filters").on('change', function() {
