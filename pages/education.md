@@ -72,12 +72,12 @@ The correspondents also write romantically about their time spent with Joan and 
 </div>
 
 To explore more about the experience of Japanese Canadian students during the period of forced dispersal, as expressed in the Gillis letters, check out the 'Education' tag on this exhibit's subject visualization page [link].
-
+<br><br>
 <small>
-	1. Order in Council, P.C. 365, January 16, 1942. 
-	2. [REF]
-	3. Ibid., [#]
-	4. Ketchell, Shelly Ikebuchi. "Carceral Ambivalence: Japanese Canadian ‘Internment’ and the Sugar Beet Programme during WWII." <i>Surveillance & Society</i> 7, no. 1 (2009): 25. https://doi.org/10.24908/ss.v7i1.3305.
-	5. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 188-191. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.
-	6. Oikawa, Mona. "Economies of the Carceral: The 'Self-Support' Camps, Sugar Beet Farms, and Domestic Work." In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 173. Toronto: University of Toronto Press, 2012. 
+	1. Order in Council, P.C. 365, January 16, 1942.<br>
+	2. [REF]<br>
+	3. Ibid., [#].<br>
+	4. Ketchell, Shelly Ikebuchi. "Carceral Ambivalence: Japanese Canadian ‘Internment’ and the Sugar Beet Programme during WWII." <i>Surveillance & Society</i> 7, no. 1 (2009): 25. <a href="https://doi.org/10.24908/ss.v7i1.3305">https://doi.org/10.24908/ss.v7i1.3305</a>.<br>
+	5. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 188-191. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
+	6. Oikawa, Mona. "Economies of the Carceral: The 'Self-Support' Camps, Sugar Beet Farms, and Domestic Work." In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 173. Toronto: University of Toronto Press, 2012.
 </small>
