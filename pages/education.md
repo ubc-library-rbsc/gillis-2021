@@ -12,7 +12,7 @@ permalink: /education.html
 {% include feature/nav-menu.html sections="Forced Dispersal; Obstacles to Education; School as Community" %}
 
 ## Forced Dispersal
-<br><br>
+<br>
 
 Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council (REF P.C. 365) enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.
 
