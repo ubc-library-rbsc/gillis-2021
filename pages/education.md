@@ -12,7 +12,6 @@ permalink: /education.html
 {% include feature/nav-menu.html sections="Forced Dispersal; Obstacles to Education; School as Community" %}
 
 ## Forced Dispersal
-<br>
 
 Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council (REF P.C. 365) enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.
 
@@ -55,7 +54,6 @@ Though the postponement of their studies was entirely out of their control, the 
 {% include feature/blockquote.html text="They said that I cannot receive my Senior Matric this year 'cause the credits are rather on the low side. That is, they took away so much that I'll have to go back another year. Same with Tom Tsukishima." author="Yoshio Nakamura" citation="Letter to Joan Gillis, July 20, 1943" %}
 
 ## School as Community
-<br>
 
 Despite the many discriminatory restrictions in place for them in their new schools, Joan’s correspondents also frequently speak about school as a source of community and hope. Jackie, Yoshio, and Teruko Ikeda all mention the joy of student socials and of the recreational activities offered through school. For many of these students, school offered a rare chance to meet old friends who had also been displaced and be reminded of the community they had once held together in B.C.
 
