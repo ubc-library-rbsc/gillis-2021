@@ -25,7 +25,7 @@ For better or worse, staying together as a family in these conditions also meant
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-6">
+    <div class="col-sm-6 my-auto">
 
 There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. 
 
