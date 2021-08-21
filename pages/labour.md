@@ -17,7 +17,7 @@ Much of the work done by the families of the correspondents centres around sugar
 
 Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Ketchell notes, “ it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the B.C.S.C. and towns and cities in Alberta and Manitoba” (99).
 
-For more about the living conditions of our correspondents, see the Homelife section [link].
+<small><a href="https://ubc-library-rbsc.github.io/gillis-2021/homelife.html"> You can learn more about the living conditions of our correspondents on the Homelife theme page</a>.</small>
 				
 For better or worse, staying together as a family in these conditions also meant working together as a family. Japanese Canadians of all ages and genders worked the beet farms, performing hard labour for long hours in order to scrape together enough money to live on.
 
