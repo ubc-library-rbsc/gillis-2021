@@ -17,14 +17,14 @@ Having met many of her Japanese Canadian friends through both classes and work o
 
 In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version of something very similar, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes, <br><br>
 
-<div class="card">
+<div class="card bg-light mb-3" style="max-width: 18rem;">
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <i><p>After that life at school was swell for awhile. The reason why I say "For a while," is because in March all the boys like myself "the Japanese-Canadians" were called into a counselling room and were told that we were barred from further participation in the high school army cadet corps. In all my school career that was my first and worst heart-breaking experience. [...]<br><br>
+      <p>After that life at school was swell for awhile. The reason why I say "For a while," is because in March all the boys like myself "the Japanese-Canadians" were called into a counselling room and were told that we were barred from further participation in the high school army cadet corps. In all my school career that was my first and worst heart-breaking experience. [...]<br><br>
 			
 		You should have seen the expression on their faces; dumbfounded; and looked as if they were all asking the same question "Why do they have to do this to us?" Then sadly with bowed heads we silently listened. I couldn't imagine such an order coming from a ministry of Education. The Cadet Corps was one subject in the curriculum I loved very much. [...]<br><br>
 			
-		Around about this time studying became less and less important to me and to a lot of others like myself. Long before the Easter holiday I hardly ever took my books home and did not prepare my lessons. The time came one April afternoon when we were told that we were going to Alberta. This was the sixteenth day of April 1942.</p></i>
+		Around about this time studying became less and less important to me and to a lot of others like myself. Long before the Easter holiday I hardly ever took my books home and did not prepare my lessons. The time came one April afternoon when we were told that we were going to Alberta. This was the sixteenth day of April 1942.</p>
       <footer class="blockquote-footer">Yoshio Nakamura in a letter to Joan Gillis, <cite title="Source Title">January 3, 1945</cite></footer>
     </blockquote>
   </div>
