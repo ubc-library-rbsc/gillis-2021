@@ -64,13 +64,10 @@ The correspondents also write romantically about their time spent with Joan and 
   <img class="card-img-top" src="https://cdn.discordapp.com/attachments/798302352737566730/878769425937989632/y_nakamura_qu1.jpg" alt="Card image cap">
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <i><p>Say, thanks for sending me the Q.E. Vue Joan, it sure was swell. To tell you the utmost truth I just about felt like crying when I read about the graduation and to think that I would have been there too. Gosh! I sure had a swell time while I attended good old, I mean new Q.E.</p></i>
+      <p>"Say, thanks for sending me the Q.E. Vue Joan, it sure was swell. To tell you the utmost truth I just about felt like crying when I read about the graduation and to think that I would have been there too. Gosh! I sure had a swell time while I attended good old, I mean new Q.E."</p>
       <footer class="blockquote-footer">Yoshio Nakamura in a letter to Joan Gillis, <cite title="Source Title">January 20, 1920</cite></footer>
     </blockquote>
   </div>
 </div>
 
 To explore more about the experience of Japanese Canadian students during the period of forced dispersal, as expressed in the Gillis letters, check out the 'Education' tag on this exhibit's subject visualization page [link].
-
-
-
