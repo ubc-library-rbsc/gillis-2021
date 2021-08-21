@@ -8,10 +8,12 @@ permalink: /education.html
 ---
 
 # Education 
+<br><br>
 
 {% include feature/nav-menu.html sections="Forced Dispersal; Obstacles to Education; School as Community" %}
 
-## Forced Dispersal 
+## Forced Dispersal
+<br><br>
 
 Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council (REF P.C. 365) enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.
 
@@ -30,11 +32,17 @@ In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narra
   </div>
 </div>
 
+
+> {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="50" %}
+
+> {% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. ... We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
+
 <br><br>Opportunities for education were highly dependent on the conditions of forced dispersal for each family. The federal government initially tried to shift the responsibility of maintaining schooling for Japanese Canadian children to provincial governments and Ministries of Education (REF1). Though the B.C. Security Commission [BCSC] established by the federal government did eventually start correspondence courses for some 60 high school students in B.C., these were primarily taught by untrained volunteers, some of whom were incarcerated in the camps themselves, or who had only just graduated high school (REF1).
 
 These correspondence courses were only offered to students interned at Hastings Park or those who had been sent to the surrounding camps in the Interior. However, most of the correspondents featured in this exhibit are part of the number of families who were sent to work on sugar beet farms in the Prairies, and were thus subject to different limitations.
 
 ## Obstacles to Education
+<br><br>
 
 {% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
 
@@ -53,6 +61,7 @@ Though the postponement of their studies was entirely out of their control, the 
 {% include feature/blockquote.html text="They said that I cannot receive my Senior Matric this year 'cause the credits are rather on the low side. That is, they took away so much that I'll have to go back another year. Same with Tom Tsukishima." author="Yoshio Nakamura" citation="Letter to Joan Gillis, July 20, 1943" %}
 
 ## School as Community
+<br><br>
 
 Despite the many discriminatory restrictions in place for them in their new schools, Joan’s correspondents also frequently speak about school as a source of community and hope. Jackie Yoshio, and Teruko Ikeda all mention the joy of student socials and of the recreational activities offered through school.
 
