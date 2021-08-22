@@ -8,12 +8,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap'); 
 
-h1, h2, h3, h4, h5, h6{
-     font-family: 'Poppins', sans-serif !important; 
-}
+$header-font-family: 'Poppins', sans-serif !important; 
 
-body {
-  font-family: Spectral, serif !important;
-}
+$base-font-family: Spectral, serif !important;
 
 </style>
