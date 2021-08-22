@@ -46,8 +46,11 @@ permalink: /labour.html
 
 <div class="container"
 	<div class="row d-flex justify-content-center">
-	<div class="col-md-6">
+		<div class="col-md-6">
 {% include feature/card.html header="Working Together" text="Image description: Jackie Takahashi [right], Yoshio Nakamura [left], and another Japanese Canadian boy riding a tractor. Some forcibly displaced families were able to take on additional work helping other families they knew from B.C. In one letter to Joan, Jackie mentions, 'We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days.'<sup>6</sup>" objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-2-5-test.jpg" width="100" centered=true %}
+		</div>
+	</div>
+</div>
 
 <p style="text-indent: 25px;">In addition to restrictions on location and types of labour, the types of work that Japanese Canadians could find greatly depended on their gender. Men tended to find work, as Jackie Takahashi did, in logging or other farming work, while women were more likely to doing house-work or to find factory or administrative work in towns or major cities.</p>
 
