@@ -18,8 +18,8 @@ permalink: /labour.html
 
 <div class="container">
   <div class="row justify-content-center">
-    <div class="col-md-6">
-      {% include feature/alert.html text="You can learn more about the living conditions of our correspondents on the <a href='https://ubc-library-rbsc.github.io/gillis-2021/homelife.html'>'Homelife' page.</a>" color="info" align="center"%}
+    <div class="col-md-8">
+      {% include feature/alert.html text="<small>You can learn more about the living conditions of our correspondents on the <a href='https://ubc-library-rbsc.github.io/gillis-2021/homelife.html'>'Homelife' page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
@@ -46,7 +46,7 @@ permalink: /labour.html
 
 <div class="container">
   <div class="row justify-content-center">
-    <div class="col-md-6">
+    <div class="col-md-8">
       {% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms'>subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
