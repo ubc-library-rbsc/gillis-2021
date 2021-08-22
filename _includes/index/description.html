@@ -2,7 +2,6 @@
   <div class="card-body">
     <h5 class="card-title">Description</h5>
     <p class="card-text">{{ site.description }}</p>
-    {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}
-    {% if about > 0 %{% include index/homepage-modal.html %}{% endif %}
+ {% include index/homepage-modal.html %}
   </div>
 </div>
