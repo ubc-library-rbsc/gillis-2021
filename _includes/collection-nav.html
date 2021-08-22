@@ -6,9 +6,6 @@
 
         <div class="collapse navbar-collapse" id="page-nav">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="http://google.com">Google Test</a>
-                </li>
                 {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%} 
                 {% for nav in navItems %}
                 {% if nav.stub %}
