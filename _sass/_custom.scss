@@ -3,13 +3,10 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-<style>
-
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap'); 
 
-$header-font-family: 'Poppins', sans-serif !important; 
+$header-font-family: 'Poppins', sans-serif; 
 
-$base-font-family: Spectral, serif !important;
+$base-font-family: Spectral, serif;
 
-</style>
