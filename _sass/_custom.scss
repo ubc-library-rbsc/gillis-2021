@@ -3,14 +3,17 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Spectral&display=swap');
-    
-$font-family-sans-serif: 'Poppins', sans-serif !default;
-    
-$font-family-serif: 'Spectral', serif !default;
+<style>
 
-$headings-font-family: $font-family-sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Spectral&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap'); 
+
+h1, h2, h3, h4, h5, h6{
+     font-family: 'Poppins', sans-serif !important; 
+}
 
 body {
-  font-family: serif !default;
+  font-family: Spectral, serif !important;
 }
+
+</style>
