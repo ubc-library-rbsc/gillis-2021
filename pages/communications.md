@@ -13,7 +13,7 @@ permalink: /communications.html
 When Japanese Canadians were forcibly displaced, they not only were forcibly removed from their homes, but also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, often completely denied to forcibly uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 my-auto">
             {% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. ... We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
         </div>
         <div class="col-md-6">
