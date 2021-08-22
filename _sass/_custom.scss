@@ -6,5 +6,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap'); 
 
-$header-font-family: 'Spectral', serif !important; 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
 
+body {
+  font-family: 'Spectral', serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333333;
+  background-color: #ffffff;
+}
