@@ -18,7 +18,7 @@ permalink: /labour.html
 
 <div class="container">
   <div class="row">
-    <div class="col align-self-center">
+    <div class="col-md-6 align-self-center">
       {% include feature/alert.html text="You can learn more about the living conditions of our correspondents on the <a href='https://ubc-library-rbsc.github.io/gillis-2021/homelife.html'>'Homelife' page.</a>" color="info" align="center"%}
     </div>
   </div>
