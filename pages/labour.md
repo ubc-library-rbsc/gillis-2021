@@ -37,7 +37,7 @@ permalink: /labour.html
   </div>
 </div>
 
-{% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms">subject visualization page.</a></small>" %}
+{% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms">subject visualization page.</a></small>" color="warning" align="center"%}
 
 ## Additional Sources of Work
 
