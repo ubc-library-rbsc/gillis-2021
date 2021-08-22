@@ -2,6 +2,7 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse Letters,,
 By Item,/browse.html,Browse Letters
+By Author,/authors.html,Browse Letters
 By Subject,/subjects.html,Browse Letters
 By Location,/map.html,Browse Letters
 By Time,/timeline.html,Browse Letters
