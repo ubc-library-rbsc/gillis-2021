@@ -16,7 +16,7 @@ permalink: /labour.html
 <p style="text-indent: 25px;"> Much of the work done by the families of the correspondents centres around sugar beet farming. The “option” to work on sugar beet farms provided an important opportunity for Japanese Canadian families to experience their forced removal from B.C. together rather than apart--options such as work camps were highly gendered in nature and led to the separation of men from women and children. According to scholars, this benefit of togetherness-in-forced-dispersal was something that was highly emphasized by the Canadian government when the sugar beet farming was presented to families <sup>1</sup></p>
 <p style="text-indent: 25px;"> Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Shelley Ketchell notes, “it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the [British Columbia Security Commission] and towns and cities in Alberta and Manitoba”<sup>2</sup> </p>
 
-{% include feature/alert.html text="<small>You can learn more about the living conditions of our correspondents on the 'Homelife' theme page. <a href="https://ubc-library-rbsc.github.io/gillis-2021/homelife.html"> Click here.</a>.</small>" color="warning" align="center" %}
+{% include feature/alert.html text="You can learn more about the living conditions of our correspondents on the 'Homelife' theme page. <a href="https://ubc-library-rbsc.github.io/gillis-2021/homelife.html"> Click here.</a>." color="warning" align="center" %}
 
 {% include feature/card.html header="Why Sugar Beets?" text="Sugar beets are high in sucrose and are commonly used in Canada and the United States for the production of white sugar. In Canada, sugar beets are particularly valuable because Canada does not have the right climate to grow sugar cane, the other most common source of raw material for sugar. Sugar beets continue to be key to the production of sugar in Canada -- in 2006, Statistics Canada estimated that farmers in Alberta produced 963,000 tonnes of sugar beets that went on to become 124,000 tonnes of beet sugar<sup>3</sup>; in 2018, 1.38 million tonnes of sugar beets were produced<sup>4</sup>." objectid="" width="100" centered=true %}
 				
@@ -40,7 +40,7 @@ permalink: /labour.html
 <div class="container">
   <div class="row">
     <div class="col align-self-center">
-      {% include feature/alert.html text="<small>You can learn more about the sugar beet farming experiences of our correspondents by checking out the 'Beet-farms' tag on the subject visualization page. <a href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms"> Click here. </a> </small>" color="warning" align="center" %}
+      {% include feature/alert.html text="You can learn more about the sugar beet farming experiences of our correspondents by checking out the 'Beet-farms' tag on the subject visualization page. <a href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms"> Click here. </a>" color="warning" align="center" %}
     </div>
   </div>
 </div>
