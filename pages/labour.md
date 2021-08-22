@@ -47,7 +47,7 @@ permalink: /labour.html
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-6">
-      {% include feature/alert.html text="To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms'>subject visualization page.</a>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms'>subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
