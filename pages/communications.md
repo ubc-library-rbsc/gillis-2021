@@ -30,9 +30,6 @@ Photographs from before their forced removal offered an important way for Nikkei
 
 When they could, the letter writers also sent photos in return. When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
 
-
-{% include feature/photoscarousel.html %} Image description: Photographs that were sent to Joan by the correspondents.
-
 To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
 
 ## Letter Writing
@@ -45,8 +42,7 @@ Just as photographs could provide visual reminders of home, letters from Joan re
 
 The news that Joan was able to provide in her letters was precious. Sumi describes her eagerness in receiving them: I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times.
 
-{% include feature/card.html header="Example: Please Write Soon" text="Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. Postscripts asking for her to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="https://cdn.discordapp.com/attachments/798302352737566730/874518054304903278/PleaseWriteSoon.png" width="75" centered=true %}
-
+{% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small> <br> Postscripts asking for her to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="https://cdn.discordapp.com/attachments/798302352737566730/874518054304903278/PleaseWriteSoon.png" width="75" centered=true %}
 
 But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in New Westminster, neither her letters nor those of the letter writers were free from the scrutiny of the Canadian government.
 
