@@ -13,9 +13,9 @@ permalink: /labour.html
 
 ## Sugar Beet Farms
 
-Much of the work done by the families of the correspondents centres around sugar beet farming. The “option” to work on sugar beet farms provided an important opportunity for Japanese Canadian families to experience their forced removal from B.C. together rather than apart--options such as work camps were highly gendered in nature and led to the separation of men from women and children. According to scholars, this benefit of togetherness-in-forced-dispersal was something that was highly emphasized by the Canadian government when the sugar beet farming was presented to families (Ketchell 2004, 99).
+Much of the work done by the families of the correspondents centres around sugar beet farming. The “option” to work on sugar beet farms provided an important opportunity for Japanese Canadian families to experience their forced removal from B.C. together rather than apart--options such as work camps were highly gendered in nature and led to the separation of men from women and children. According to scholars, this benefit of togetherness-in-forced-dispersal was something that was highly emphasized by the Canadian government when the sugar beet farming was presented to families <sup>1</sup>
 
-Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Ketchell notes, “ it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the B.C.S.C. and towns and cities in Alberta and Manitoba” (99).
+Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Shelley Ketchell notes, “it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the [British Columbia Security Commission] and towns and cities in Alberta and Manitoba”<sup>2</sup>
 
 <small>You can learn more about the living conditions of our correspondents on the <a href="https://ubc-library-rbsc.github.io/gillis-2021/homelife.html">'Homelife' theme page</a>.</small>
 				
@@ -55,3 +55,9 @@ The toughest day we had out here was about 30 degrees below with a wind that alm
 
 ## Describing Work in Letters
 ###### Optimism
+
+<small> Citations <br>
+1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 99. <br>
+2. Ibid.
+	
+	</small>
