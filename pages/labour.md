@@ -81,11 +81,10 @@ permalink: /labour.html
 
 <p style="text-indent: 25px;"> While much of the letters demonstrate how youthful these correspondents were, the manner in which they communicated their situations to Joan shows the maturity they were forced to develop when they were forcibly displaced. Making the best of a bad situation, they used their letters to hold onto their youth, but also could not help but omit some of the harshest elements of their experiences in acknowledgement of Joan's greater innocence back home.</p>
 
-<small> Citations <br>
-1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 99. <br>
-2. Ibid. <br>
-3. Statistics Canada, "That beet is sweet!," <i>Canadian Agriculture at a Glance</i>, April 4, 2009, https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/article/10576-eng.htm. <br>
-4. Glen Hallick, "Alberta, Ontario sugar beet producers hope for good year," <i>Markets Farm</i>,  July 19th, 2019, https://www.agcanada.com/daily/alberta-ontario-sugar-beet-producers-hope-for-good-year. <br>
-5. Albert Ohama, Letter to Joan Gillis - July 4, 1942.<br>
-6. Jackie Takahashi, Letter to Joan Gillis - July 24, 1942.
-</small>
+<small> Citations </small> <br>
+<small>1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 99.</small> <br>
+<small>2. Ibid.</small> <br>
+<small>3. Statistics Canada, "That beet is sweet!," <i>Canadian Agriculture at a Glance</i>, April 4, 2009, https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/article/10576-eng.htm.</small> <br>
+<small>4. Glen Hallick, "Alberta, Ontario sugar beet producers hope for good year," <i>Markets Farm</i>,  July 19th, 2019, https://www.agcanada.com/daily/alberta-ontario-sugar-beet-producers-hope-for-good-year.</small><br>
+<small>5. Albert Ohama, Letter to Joan Gillis - July 4, 1942.</small><br>
+<small>6. Jackie Takahashi, Letter to Joan Gillis - July 24, 1942.</small>

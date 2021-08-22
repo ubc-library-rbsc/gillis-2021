@@ -23,7 +23,7 @@ When Japanese Canadians were forcibly displaced, they not only were forcibly rem
 </div>
 
 
-Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied (Ketchell 2005, 6). Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.
+Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.
 
 There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during the period fo forced dispersal. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.
 
@@ -33,7 +33,7 @@ While their access to picture-making equipment may have been limited or outright
 
 Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.
 
-{% include feature/blockquote.html text="As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’" author="Namiko Kunimoto (2004)" citation="Intimate Archives: Japanese-Canadian family photography, 1939–1949" %}
+{% include feature/blockquote.html text="As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’" author="Namiko Kunimoto (2004)" citation="Intimate Archives: Japanese-Canadian family photography, 1939–1949<sup>2</sup>" %}
 
 When they could, the letter writers also sent photos in return. When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
 
@@ -63,3 +63,7 @@ Of the letters from the Gillis fonds that are included in this exhibit, none of 
 {% include feature/item-figure.html objectid="gillis006" width="100" %} We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.
 
 {% include feature/card.html header="Example: The Old Peat Plant" text=" No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? -- Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png" width="75" centered=true %}
+
+<small>Citations</small>
+<small>1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 6.</small> <br>
+<small>2. Namiko Kunimoto, "Intimate Archives: Japanese-Canadian family photography, 1939–1949," <em> Art History</em> 27, no. 1 (2004), 133.</small>
