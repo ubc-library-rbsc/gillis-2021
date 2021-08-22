@@ -38,8 +38,8 @@ permalink: /labour.html
   </div>
 </div>
 <div class="container">
-  <div class="row justify-content-md-center">
-    <div class=col-md-6>
+  <div class="row">
+    <div class="col align-self-center">
       {% include feature/alert.html text="<small>You can learn more about the sugar beet farming experiences of our correspondents by checking out the 'Beet-farms' tag on the subject visualization page. <a href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms"> Click here. </a> </small>" color="warning" align="center" %}
     </div>
   </div>
