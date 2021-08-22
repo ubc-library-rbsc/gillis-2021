@@ -51,13 +51,15 @@ permalink: /labour.html
 
 <p style="text-indent: 25px;">Weather greatly affected when and how work was able to get done. Many of the letters describe conditions in which it was impossible to keep working because of inclement weather. Other times, even when families could work, they had to do so in extreme weather conditions.</p>
 
-<div class="h-stack g-3">
-  <div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-5 my-auto">
     {% include feature/blockquote.html text="The toughest day we had out here was about 30 degrees below with a wind that almost tore our skins apart from our bones. This day me and my dad went out a mile to get beet leaves for our boss’s cattle. The beet leaves were stuck tight together so we needed a pick to separate them from the ground. My dad had 1 1/2 inches of [icicle] on his [mustache] when we came back with a load." author="Tad Nagamori" citation="Letter to Joan Gillis, January 9, 1943" %}
-  </div>
-  <div class="vr"></div>
-  <div>
+    </div>
+    <div class="vr"></div>
+    <div class="col-sm-5 my-auto">
     {% include feature/blockquote.html text="Nearly everyday except Sundays and 1st of July, I've been working out on the prairies. Wow! is it ever hot! We hayed for a week in the blazing heat. It was 114° F at 6 P.M. so you can guess how hot it was at 1 or 2 P.M. Sweat just pours down in streams and water just flows nearly continuously down the hatch. I guess we drink a gallon or two of water each day. I've been mowing and raking hay these last few days and we start to hay again on Thursday." author="Yoshio Nakamura" citation="Letter to Joan Gillis and friends, July 20, 1943" %}
+    </div>
   </div>
 </div>
 
