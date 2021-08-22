@@ -5,6 +5,233 @@ permalink: /subjects.html
 
 ---
 
+<!doctype html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Visualizations | Gillis Project OHD - In-progress demo of OHD as used for letters</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/favicon.ico">
+<meta http-equiv="Content-Language" content="en-us" >
+<link rel="stylesheet" href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/assets/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/assets/css/custom.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+
+
+<meta name="author" content="" >
+<meta name="keywords" content="" >
+<meta name="description" content="In progress">
+<!-- Open Graph meta -->
+<meta property="og:title" content="Visualizations" />
+<meta property="og:description" content="In progress" />
+
+<meta property="og:site_name" content="Gillis Project OHD" />
+<meta property="og:url" content="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html" />
+<meta property="og:locale" content="en_US" />
+<!-- schema.org JSON-LD -->
+<script type="application/ld+json">{ "@context":"http://schema.org", "@type":"WebPage", "headline":"Visualizations", "author": { "@type":"Person", "name":""}, "description":"In progress",  "url":"https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html" }</script> 
+
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="https://cdil.us/statistics/";
+      _paq.push(['setTrackerUrl', u+'matomo.php']);
+      _paq.push(['setSiteId', '4']);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+  </script>
+  <!-- End Matomo Code -->
+
+  </head>
+
+  <body>
+    <div class="container">
+    <div class="row mt-4">
+        <div class="col-md-9">
+            <h1 class="h1 text-dark w-auto" ><a  class="text-dark" href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/" >Gillis Project OHD</a></h1> <p class="h5 text-muted border-bottom  pb-1 mb-3 ">  In-progress demo of OHD as used for letters  </p>
+               </h1>
+        </div>
+        <div class="col-md-3 d-none d-lg-block text-right">
+            <a class="btn btn-outline-light" href="https://rbsc.library.ubc.ca/" target="_blank" rel="noopener">
+                <img class="img-fluid" src="" title="Rare Books and Special Collections, University of British Columbia" alt="Rare Books and Special Collections, University of British Columbia home" >
+            </a>
+        </div>
+    </div>
+</div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav"
+            aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <span class="d-lg-none text-right col-4">
+            <a href="https://rbsc.library.ubc.ca/" target="_blank" rel="noopener">
+                <img class="img-fluid" id="mobile-nav-image" src="" title="Rare Books and Special Collections, University of British Columbia" alt="Rare Books and Special Collections, University of British Columbia home" >
+            </a>
+        </span>
+
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav mr-auto h6">
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/gillis-2021_ohd/%20/">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link" href="/gillis-2021_ohd/about.html">About</a>
+                </li>
+                
+                <li class="nav-item active">
+                    <a class="nav-link" href="/gillis-2021_ohd/subjects.html">Subjects</a>
+                </li>
+                
+                <li class="nav-item dropdown disabled">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Interviews
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/all.html">All Interviews</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/ikeda.html">Teruko Ikeda</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/mototsune.html">Sumi Mototosune</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/nagamori.html">Tadashi Nagamori</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/nakamura.html">Yoshio Nakamura</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/ohama.html">Albert Ohama</a>
+                        
+                        <a class="dropdown-item"
+                            href="/gillis-2021_ohd/transcripts/takahashi.html">Jackie Takahashi</a>
+                        
+                    </ul>
+                </li>
+            </ul>
+            <script>
+                function site_search() {
+                    var query = document.getElementById("site-search").value;
+                    window.open("https://ubc-library-rbsc.github.io/gillis-2021_ohd/transcripts/all.html?q=" + encodeURIComponent(query), "_self");
+                }
+            </script>
+            <form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
+                <input id="site-search" class="form-control mr-sm-2" type="text" placeholder="Search"
+                    aria-label="Search">
+                <button class="btn btn-outline-dark text-white border my-2 my-sm-0" type="submit"><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-search" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+    <path fill-rule="evenodd" d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+  </svg>
+                </button>
+            </form>
+        </div>
+    </div>
+</nav>
+    
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav mr-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/gillis-2021/">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle active" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Browse Letters</a>
+                    <div class="dropdown-menu">
+                        
+                        <a class="dropdown-item " href="/gillis-2021/browse.html">By Item</a>
+                        
+                        <a class="dropdown-item active" href="/gillis-2021/subjects.html">By Subject</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/map.html">By Location</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/timeline.html">By Time</a>
+                        
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Meet the Correspondents</a>
+                    <div class="dropdown-menu">
+                        
+                        <a class="dropdown-item " href="/gillis-2021/teruko.html">Teruko Ikeda</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/sumi.html">Sumi Mototsune</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/tad.html">Tad Nagamori</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/yoshio.html">Yoshio Nakamura</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/albert.html">Albert Ohama</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/jackie.html">Jackie Takahashi</a>
+                        
+                    </div>
+                </li>
+                
+                <li class="nav-item dropdown">
+                    <a class="nav-link  dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Explore Themes</a>
+                    <div class="dropdown-menu">
+                        
+                        <a class="dropdown-item " href="/gillis-2021/education.html">Education</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/homelife.html">Homelife</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/labour.html">Labour</a>
+                        
+                        <a class="dropdown-item " href="/gillis-2021/communications.html">Communications</a>
+                        
+                    </div>
+                </li>
+                
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/gillis-2021/about.html">About</a>
+                </li></ul>
+            
+            <script>
+    function site_search() {
+        var query = document.getElementById("site-search").value;
+        window.open("/gillis-2021/search/index.html?q=" + encodeURIComponent(query), "_self" );
+    }
+</script>
+<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
+    <div class="input-group">
+        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
+        <div class="input-group-append">
+            <button class="btn btn-light" type="submit">
+                <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
+                <span class="sr-only">Search</span>
+            </button>
+        </div>
+    </div>
+</form>
+            
+        </div>
+    </div>
+</nav>
+    
+    <main role="main mt-4 tufte-content">
+      <article>
+      
 <!-- list of colors provided by https://sashat.me/2017/01/11/list-of-20-simple-distinct-colors/ -->
 <style>
   
@@ -62,57 +289,56 @@ for landowner/supervisor/'boss'] { fill: #bcf60c;}
   <div class="row">
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Belonging" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On ideas around home or belonging (to a place)">
+      <svg class="legend" width="100%" height="25px" data-id="Belonging" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On home and belonging">
         <circle cx="25" cy="10" r="10"  class="Belonging"></circle><text x="38" y="15">Belonging</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Recreation" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On activities unrelated to education or labour (e.g. sports, hobbies)">
+      <svg class="legend" width="100%" height="25px" data-id="Recreation" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On recreation">
         <circle cx="25" cy="10" r="10"  class="Recreation"></circle><text x="38" y="15">Recreation</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Homesickness" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On missing B.C., comparisons to the past,
-reminiscing about shared experiences">
+      <svg class="legend" width="100%" height="25px" data-id="Homesickness" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On homesickness">
         <circle cx="25" cy="10" r="10"  class="Homesickness"></circle><text x="38" y="15">Homesickness</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Beet-farms" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On work on the beet farms or details of harvests">
+      <svg class="legend" width="100%" height="25px" data-id="Beet-farms" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On beet farms">
         <circle cx="25" cy="10" r="10"  class="Beet-farms"></circle><text x="38" y="15">Beet-farms</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Labour-conditions" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On the manual work they are doing or the land they do it on">
+      <svg class="legend" width="100%" height="25px" data-id="Labour-conditions" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On labour conditions">
         <circle cx="25" cy="10" r="10"  class="Labour-conditions"></circle><text x="38" y="15">Labour-conditions</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Photographs" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On photographs they are planning to send or have received">
+      <svg class="legend" width="100%" height="25px" data-id="Photographs" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On photographs">
         <circle cx="25" cy="10" r="10"  class="Photographs"></circle><text x="38" y="15">Photographs</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Joan" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On their relationship with Joan or questions about Joan&#39;s life">
+      <svg class="legend" width="100%" height="25px" data-id="Joan" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On Joan">
         <circle cx="25" cy="10" r="10"  class="Joan"></circle><text x="38" y="15">Joan</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Communications" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On the logistics of mail, censorship, communications">
+      <svg class="legend" width="100%" height="25px" data-id="Communications" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On communications and mail">
         <circle cx="25" cy="10" r="10"  class="Communications"></circle><text x="38" y="15">Communications</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
       <svg class="legend" width="100%" height="25px" data-id="[insert proper term
-for landowner/supervisor/'boss']" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On Use when creator talks about the [insert term]">
+for landowner/supervisor/'boss']" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On farm owners">
         <circle cx="25" cy="10" r="10"  class="[insert proper term
 for landowner/supervisor/'boss']"></circle><text x="38" y="15">[insert proper term
 for landowner/supervisor/'boss']</text>
@@ -120,49 +346,49 @@ for landowner/supervisor/'boss']</text>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Education" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On school, specific classes or subjects, educational progress, etc. ">
+      <svg class="legend" width="100%" height="25px" data-id="Education" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On education">
         <circle cx="25" cy="10" r="10"  class="Education"></circle><text x="38" y="15">Education</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Writing" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On the form or timeliness of their writing">
+      <svg class="legend" width="100%" height="25px" data-id="Writing" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On writing">
         <circle cx="25" cy="10" r="10"  class="Writing"></circle><text x="38" y="15">Writing</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="WWII" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On war-related news, or use of war-related language">
+      <svg class="legend" width="100%" height="25px" data-id="WWII" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On the second world war">
         <circle cx="25" cy="10" r="10"  class="WWII"></circle><text x="38" y="15">WWII</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Patriotism" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On love for Canada as a country, or desires to serve for Canada">
+      <svg class="legend" width="100%" height="25px" data-id="Patriotism" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On patriotism">
         <circle cx="25" cy="10" r="10"  class="Patriotism"></circle><text x="38" y="15">Patriotism</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Living-conditions" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On the conditions of their forced relocation: where they are, what it&#39;s like">
+      <svg class="legend" width="100%" height="25px" data-id="Living-conditions" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On living conditions">
         <circle cx="25" cy="10" r="10"  class="Living-conditions"></circle><text x="38" y="15">Living-conditions</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Gender-dynamics" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On gendered divisions of labour or social life">
+      <svg class="legend" width="100%" height="25px" data-id="Gender-dynamics" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On gender dynamics">
         <circle cx="25" cy="10" r="10"  class="Gender-dynamics"></circle><text x="38" y="15">Gender-dynamics</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Optimism" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On optimism about the future or an underplaying of their current struggles">
+      <svg class="legend" width="100%" height="25px" data-id="Optimism" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On optimism">
         <circle cx="25" cy="10" r="10"  class="Optimism"></circle><text x="38" y="15">Optimism</text>
       </svg>
     </div>
     
     <div class="col-md-2 col-4 ">
-      <svg class="legend" width="100%" height="25px" data-id="Forced-dispersal" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On forced dispersal of Japanese Canadians">
+      <svg class="legend" width="100%" height="25px" data-id="Forced-dispersal" style="cursor:pointer;" data-toggle="tooltip" data-placement="left" title="On forced dispersal">
         <circle cx="25" cy="10" r="10"  class="Forced-dispersal"></circle><text x="38" y="15">Forced-dispersal</text>
       </svg>
     </div>
@@ -174,6 +400,268 @@ for landowner/supervisor/'boss']</text>
   <br />
   <br />
   
+  <div class="vizdiv">
+    <h3 x="0" y="0" data-id="ikeda" style="cursor:pointer;" class="mt-4 toggle_int ikeda">Ikeda <i class="fas fa-filter"></i> <small>Click to filter</small></h3>
+    <svg class="chart ikeda" width="100%" height="100px" style="overflow: visible">
+      
+      
+      
+      
+      <rect x="2.7027027027027026%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="c/o L. Brandley"></rect>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda2">
+        <rect x="5.405405405405405%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Box 299,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda3">
+        <rect x="8.108108108108107%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Raymond, Alta.,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda4">
+        <rect x="10.81081081081081%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Feb 14."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda5">
+        <rect x="13.513513513513512%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda6">
+        <rect x="16.216216216216214%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="I received your letter few weeks ago and was very glad to receive it. I am sorry for not writing any sooner but under certain circumstances I could not.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda7">
+        <rect x="18.91891891891892%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Living-conditions" title="Well Joan, hows the weather treating you? We’re having one of the coldest winter Alberta has had in yrs. Brr -- , it sure was cold walking almost a mile on the cold days but I managed to live through somehow. I’m sure it was cold in B.C. this yr. for a large number of schools had been closed.(Subjects: Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda8">
+        <rect x="21.62162162162162%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Joan" title="It was one of the coldest winter you had in yrs. wasn’t it? Will it effect [sic] you very much? Has Q.E. opened up yet?(Subjects: Joan)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda9">
+        <rect x="24.324324324324323%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Mail" title="It certainly is news to hear that [Muriel???] left Q.E. Gee, I can’t imagine it. She wrote to me last in December and I haven’t heard from her since. If she happens to write to you would you give me her new address.(Subjects: Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda10">
+        <rect x="27.027027027027025%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal" title="Theres most of our group in Raymond but there are few families gone to Magrath, Sterling and Welling.(Subjects: Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda11">
+        <rect x="29.72972972972973%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Belonging" title="I’ve seen Jackie, Johnny, Tan, Tashiko, Suzie etc a few times. I’m sure glad Sumi is with me.(Subjects: Belonging)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda12">
+        <rect x="32.43243243243243%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="so you see I’m not so lonely as I thought I’d be when I first started school. We take most of the same subjects only Sumi takes French and I take Book Kg.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda13">
+        <rect x="35.13513513513514%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="Raymond won playing basketball, against Sterling a few weeks ago and on Fri-12, Raymond went to Magrath to play but they had lost the game.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda14">
+        <rect x="37.83783783783784%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="On Fri 12, they had the young peoples social at the Hungarian Hall and I’m sure everyone had a grand time. Gee! I wanted to go but I was sick so I couldn’t go. And Thurs. we had something down at the Buddhist church and I couldn’t go. Darn it, Everything has to go wrong at the wrong time.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda15">
+        <rect x="40.54054054054054%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="Yoshio N. came from Magrath to to the Social for the first time. I’m sure he had a swell time.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda16">
+        <rect x="43.24324324324324%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Mail" title="Say have you heard from Emee. If you have could you give me her address.(Subjects: Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda17">
+        <rect x="45.945945945945944%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="By the way hows your little friend of Sonny Ohama. Gee! we miss him but I guess you miss him just as much or even more. or is it Albert that you miss)."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda18">
+        <rect x="48.648648648648646%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Well, I better close for now. Give my best regards to the girls in your class. Write to me soon, won’t you. Good-bye."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda19">
+        <rect x="51.35135135135135%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Sincerely yours"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda20">
+        <rect x="54.05405405405405%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Teruko Ikeda."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda21">
+        <rect x="56.75675675675676%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title=""></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda22">
+        <rect x="59.45945945945946%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="May 10, 1943"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda23">
+        <rect x="62.16216216216216%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda24">
+        <rect x="64.86486486486486%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="Its almost a few decades ago I had received your letter and I am sorry I had not written to you any sooner. I know your anxious to hear some news of Raymond so I’ll start and get down to business, even though there isn’t much news to write.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda25">
+        <rect x="67.56756756756756%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="My, its a lovely time to start snowing again when the beets are almost ready to be thinned by some farmers. Its fairly cold to-day and the temperature has dropped considerably. It started to snow around five and everythings white but I wouldn’t be a bit surprised to see it all melted by to-morrow night.(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda26">
+        <rect x="70.27027027027027%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="I hope you had a real good Easter holidays as for me I spent my Easter holidays going to school. I didn’t mind very much for I believed I learned something.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda27">
+        <rect x="72.97297297297297%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="Last week I forgot to take my excuse for being absent from school so the old Principal Jacobs gave me some detention to do. Boy, was I boiling. I could have knocked his block off, that is if he had one.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda28">
+        <rect x="75.67567567567568%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="On Friday the grade tens and some other grades were shown a moving picture about Spies. But you know every time there is something like that I’m never there to see it.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda29">
+        <rect x="78.37837837837837%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Gender-dynamics Education WWII" title="Say, I heard Q.E. had cadets for girls. Are you taking cadets? I sure think its a good idea to have an organization for girls as well as for boys.(Subjects: Gender-dynamics, Education, WWII)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda30">
+        <rect x="81.08108108108108%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Gender-dynamics Education WWII" title="R.H.S. has cadets only for boys but I’ve never seen them practising because they have it at night.(Subjects: Gender-dynamics, Education, WWII)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda31">
+        <rect x="83.78378378378378%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="From last week I started to go [???] a school girl at Mrs. Hudsons and I am staying there till I have to go into [???]. This family is very nice to me and I sure think a lot of them. Mrs. Hudson teaches at the Mammoth school out at the Ridge.(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda32">
+        <rect x="86.48648648648648%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="News or no news, I like to announce the birth of [some little???] kittens which where [sic] born last week. They’re still blind but are getting fluffier and cuter each day. There been quite a few weddings this spring and I think theres going to be a [???] wedding on Sat.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda33">
+        <rect x="89.18918918918918%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="Its half past ten now and I still have to write a composition for to-morrow. It really was supposed to be handed in on Fri. but I wasn’t there so I have a chance till to-morrow. Thank Goodness. I guess you could picture me and Emee going to you for help every time we had any written work to hand in when I mention “Composition.”(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda34">
+        <rect x="91.89189189189189%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Well, I better close now. Good-bye and good-luck till I write again"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda35">
+        <rect x="94.5945945945946%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Your Friend"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda36">
+        <rect x="97.29729729729729%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Teruko Ikeda"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda37">
+        <rect x="100.0%" y="20" width="2.7027027027027026%" height="50" data-toggle="tooltip" data-placement="top" class="Photographs Writing" title="P.S. I would appreciate very much if you’d send me your snapshot. Maybe your wondering why I write on this paper instead of writing tablet but the truth is I’m too busy to buy one just now so I’ll have one by next time.(Subjects: Photographs, Writing)"></rect>
+      </a>
+      </svg>
+  </div>
   <div class="vizdiv">
     <h3 x="0" y="0" data-id="mototsune" style="cursor:pointer;" class="mt-4 toggle_int mototsune">Mototsune <i class="fas fa-filter"></i> <small>Click to filter</small></h3>
     <svg class="chart mototsune" width="100%" height="100px" style="overflow: visible">
@@ -3912,6 +4400,793 @@ for landowner/supervisor/'boss']</text>
       </svg>
   </div>
   <div class="vizdiv">
+    <h3 x="0" y="0" data-id="nakamura" style="cursor:pointer;" class="mt-4 toggle_int nakamura">Nakamura <i class="fas fa-filter"></i> <small>Click to filter</small></h3>
+    <svg class="chart nakamura" width="100%" height="100px" style="overflow: visible">
+      
+      
+      
+      
+      <rect x="0.8928571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="c/o A. O. Peterson,"></rect>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura2">
+        <rect x="1.7857142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Box 173, Magrath, Alberta"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura3">
+        <rect x="2.678571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura4">
+        <rect x="3.5714285714285716%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing Mail" title="Here I am again. I hope that I am not bothering you too much; "You know Final Exams and all that." I'm awfully sorry I did not answer yours of the 1st of this month, any to quick. You know me "The lazy good-for nothing I guess." Well to start off with I enjoyed your letter very very much. I really did.(Subjects: Writing, Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura5">
+        <rect x="4.464285714285714%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Beet-farms Labor-conditions [insert proper term for landowner/supervisor/'boss']" title="The real reason I could not write any sooner was because I hurt my right hand. I was helping my boss pile up some scrap iron he had around his big farm when an old iron plow fell across the back of my ooh! knuckles?? (how do you spell it?) metacarpals and carpals. The Boss thought it was broken but I said it didn't hurt much (not much oh yes!) You know how it is when a person is around when you get hurt. Well, we finished in about 1 1/2 hrs. I got off from work so I had my hand plastered and bandaged for a couple of days. I took it off on 14th "yesterday", and boy was it swollen up.(Subjects: Beet-farms, Labor-conditions, [insert proper term for landowner/supervisor/'boss'])"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura6">
+        <rect x="5.357142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="It's still a bit swollen but I can write now. I'm always writing about my own sorrows etc so don't mind me.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura7">
+        <rect x="6.25%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Living-conditions" title="We had snow last night. Imagine! 3 inches of snow in the middle of May. And icicles and ice... Gosh! I was surprised enough when we had snow twice in April. And talk about mud. Oh! It's just mud anyway. Even on the No. 5 Alberta Highway it's just about 6 inches mud. Then when you get in the side roads its a foot thick. (I mean it's very muddy). Cars cannot run on the roads when it rains.(Subjects: Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura8">
+        <rect x="7.142857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness Living-conditions" title="How's B.C.? To-day as I was listening to CBC about 8.30 to 9 P.M. (7:30-8:00 PM your way) I heard the announcer say "As I look across the Inlet from the " " Hotel (I forgot the hotel I could see the colorful Hillsides, the spring or was it early summer, atmosphere is in our surroundings in Western B.C." Something to that effect anyway. It sure reminded me of Surrey. Gee! I was hoping that he would go on but he started on some talk about the Blind being trained for defense work such as serving on Canteen trucks etc. I sure miss the funnies! We take the Lethbridge Herald a corny paper that comes whenever it feels like coming. It's supposed to be a daily paper.(Subjects: Homesickness, Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura9">
+        <rect x="8.035714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="It has no news of B.C. so we are arranging to have the Sun or Province paper sent to us from an Agent in Raymond or Magrath. Oh! yes. Thanks for that paper clipping. It sure was thoughtful of you to do so."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura10">
+        <rect x="8.928571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Mail" title="Say if you ever hear from Yoshiyuki or Albert or any of those boys who went to a different place from myself, will you please send me their addresses? I sent a letter to Mr. Matheson and Miss Nordberg, but I didn't hear from them since. Gosh! I'm just about going to be disappointed. I'll wait a few more days to get an answer, and if I don't, then I really will be disappointed. I've been waiting since May 1st.(Subjects: Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura11">
+        <rect x="9.821428571428571%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation Living-conditions" title="I spent my birthday in Alberta (at home). It was the 11th day of May. I never dreamt that I would be spending or rather have my birthday celebration in Alberta, of all places. Oh! the weather was awful. The road muddy. Then when it cleared a bit, my brother and his friend and I decided to go to Lethbridge 25-30 miles away, but oh! darn the rain, no car could go because of the mud, so I stayed home and read a book, I mean some Saturday Evening Posts.(Subjects: Recreation, Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura12">
+        <rect x="10.714285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Living-conditions" title="There's lots of gophers here. Hundreds of them.(Subjects: Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura13">
+        <rect x="11.607142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="The boss' son (6 ft?) and I went to shoot some to-day. We shot quite a number. Cruel aren't we.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura14">
+        <rect x="12.5%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Mail Writing" title="I must close now, my hand still aches a bit. I'll write some more of nothing, but please ask Anne, Betty, Margaret and [...?] to write to me so I can get their addresses and answer them. Please!(Subjects: Mail, Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura15">
+        <rect x="13.392857142857144%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="So long."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura16">
+        <rect x="14.285714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yours Sincerely,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura17">
+        <rect x="15.178571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yosh Nakamura"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura18">
+        <rect x="16.071428571428573%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="P.S. If you can't make heads or tales of this scrawl, just burn it.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura19">
+        <rect x="16.964285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Box 173, Magrath, Alta"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura20">
+        <rect x="17.857142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="July 20/43."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura21">
+        <rect x="18.75%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Gang-"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura22">
+        <rect x="19.642857142857142%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="I guess it's useless to start apologizing and making excuses for not writing these past centuries. I must have had a touch of laziness again. Well, may I begin to tell you all or nearly all that happened since I last wrote? O.K.? Swell.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura23">
+        <rect x="20.53571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation Education" title="To begin with the last time I wrote was in March wasn't it? or was it before that. About that time we were all practising to put on a concert or "Club Review" as we called it, on the end of March. (Subjects: Recreation, Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura24">
+        <rect x="21.42857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness Recreation" title="You know, something like the big concert we had in Q.E.? only it wasn't half so good.(Subjects: Homesickness, Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura25">
+        <rect x="22.321428571428573%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Living-conditions Recreation Education" title="The surprising part of it was that they never had such a concert like this before in Magrath. We had a packed house both times. (We put it on 2 nights.) It was the greatest success Magrath has ever put on. School inspectors and other school teachers etc. commented on it very highly. They has such things as dancing displays, plays (short) tumbling (I gave them a sample of Q.E. tumbling) with 3 other boys; the school band (5 piece)(Subjects: Living-conditions, Recreation, Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura26">
+        <rect x="23.214285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="songs by the glee club and a few other items. There was a dance after each performance (I mean at the end of each night.). That concert was the talk of the town for a month.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura27">
+        <rect x="24.107142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Photographs" title="We had pictures taken etc. I got hold of me print of myself on top of a pyramid and had it autographed by the other fellows I'll get hold of another and send it over. We had fun doing it too.(Subjects: Photographs)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura28">
+        <rect x="25.0%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="All the time in between, we played badminton.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura29">
+        <rect x="25.892857142857142%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="A week after the concert we had Easter exams. Pretty fair tests. Only some dopey girls (excuse me) cheated and got caught. Boy, was there a row over it.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura30">
+        <rect x="26.78571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions [insert proper term for landowner/supervisor/'boss']" title="Easter holidays came and I went to herd sheep about 60-70 miles from here. My boss has a couple of thousand head of sheep there. There were 3 of us boys and 2 men working there. It was lambing season so we were very busy. My boss couldn't get anybody to take my place so I had to stay away from school all May. I really was a shepherd of the hills then. I had to watch and take care of 1500 head of ewes and little lambs. The last week I was there I had to take the herd a few miles away from the other sheep so that they do not mix. I had to stay all by myself for a week.(Subjects: Labour-conditions, [insert proper term for landowner/supervisor/'boss'])"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura31">
+        <rect x="27.67857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions [insert proper term for landowner/supervisor/'boss']" title="I had to cook by myself. I never saw a human being for 4 days. wow! what misery! Since it was better to leave the sheep outside of the corral, I had to watch them longer. The darn sheep head for all over the places as soon as it gets light and I do not stop till dark. I watched them all day and bring them back at night. I watch them till about 9-9:30 P.M. In the morning I have to get up between 4.30 A.M. and 5 A.M., catch a bite to eat and put some oranges etc. in my pocket for a mid-morning bite and off I go. I'll tell you now that I'll never do that again. I went there expecting to be home in 1 week but I had to stay 22 days! My boss sure was glad cause I stayed for him. If it was some grumpy old guy I might have left but he's been very good to us so I stayed for him. While I was there I found lots of pieces of petrified wood. If you'd like to see some I'll send some over. Let me know eh? I turned a combination of geologist and a herder. I found a number of pieces of petrified wood. Big and small; from 1 oz. to 15 lbs.(Subjects: Labour-conditions, [insert proper term for landowner/supervisor/'boss'])"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura32">
+        <rect x="28.571428571428573%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Beet-farms" title="So much for that. When I came home I found that the beets were awaiting me. Well for(Subjects: Beet-farms)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura33">
+        <rect x="29.464285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Beet-farms Labour-conditions" title="nearly a month I thinned beets ugh! what a job but was it a relief when we finished in June, about the 24th.(Subjects: Beet-farms, Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura34">
+        <rect x="30.357142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="I went back to school just before this and found out that I was recommended in all subjects. They said that I cannot receive my Senior Matric this year 'cause the credits are rather on the low side. That is, they took away so much that I'll have to go back another year. Same with Tom Tsukishima. I'm thinking of going back next year.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura35">
+        <rect x="31.25%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness Education" title="Say, thanks for sending me the Q.E. Vue Joan, it sure was swell. To tell you the utmost truth I just about felt like crying when I read about the graduation and to think that I would have been there too. Gosh! I sure had a swell time while I attended good old, I mean new Q.E. Gosh! but I've finally lost hope of getting that Q.E. pin which I was supposed to have won. I wrote to "Stinky" but no response. I guess he decided that it was just a waste to send it to me eh?(Subjects: Homesickness, Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura36">
+        <rect x="32.142857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="What are you all doing nowadays? Having fun? I hope so."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura37">
+        <rect x="33.035714285714285%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions Living-conditions" title="Nearly everyday except Sundays and 1st of July, I've been working out on the prairies. Wow! is it ever hot! We hayed(Subjects: Labour-conditions, Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura38">
+        <rect x="33.92857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="for a week in the blazing heat. It was 114° F at 6 P.M. so you can guess how hot it was at 1 or 2 P.M. Sweat just pours down in streams and water just flows nearly continuously down the hatch. I guess we drink a gallon or two of water each day. I've been mowing and raking hay these last few days and we start to hay again on Thursday."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura39">
+        <rect x="34.82142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="On the 24th of July a holiday for Magrath (It's birthday) us Evacuees play ball against the Local boys. We have formed a team and have practised every Sunday for about a month. We have fun tho'. Last Sunday after ball practise we had a wiener roast beside a canal and enjoyed it very much. The brains of a working boy drains and wanes fast so I'll close now before I lose all of my precious knowledge juice.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura40">
+        <rect x="35.714285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="So long-"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura41">
+        <rect x="36.60714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="As ever"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura42">
+        <rect x="37.5%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yoshio"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura43">
+        <rect x="38.392857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="P.S. Hoping against hope that you were able to read the ink lines.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura44">
+        <rect x="39.285714285714285%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Jan. 3, 1945,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura45">
+        <rect x="40.17857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan -"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura46">
+        <rect x="41.07142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="To-day is the 3rd of January. oh yes! May I wish you a Happy New Year? Did you have a White Xmas? I had a pretty nice Xmas–and New Years too."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura47">
+        <rect x="41.964285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="To-day is Wednesday and a half holiday in the afternoon at the store. I've been working in the store for over a month now and I like it very much.(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura48">
+        <rect x="42.85714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="Gosh but I've been going to parties and shows and games so much that I have never slept earlier than 2:30 A.M. each night. Last night was the last one, I hope. We had a grand time at the parties though.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura49">
+        <rect x="43.75%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Mail" title="Gosh! Joan, I'm sorry I did not send the parcel sooner. I have to go to work by 8 A.M. and after work at 6, I come home do bit of this and that; have supper and off we go.(Subjects: Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura50">
+        <rect x="44.642857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="How are you getting along in school now. How does it feel to be a senior–the Undergrads. Gee! everytime I think of the school I sure sit and dream of what I might have done in the last year.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura51">
+        <rect x="45.535714285714285%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="I was going to write some more of the story? wasn't I. Well, here I start again on the 2nd half of the 1st Chapt.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura52">
+        <rect x="46.42857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title=""The 7th of dec. was on a Sunday. On Monday I went to school wondering how I was going to go through the whole day as if nothing had happened and wondering"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura53">
+        <rect x="47.32142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Education" title="how the teacher and other students would [red text: ?] react toward me. Most of my worries were over that 1st period. The bell rang for the 1st period and quietly we all went to the assigned rooms for Algebra. Our principal taught us that subject. When he came in I could see that he was under some sort of a strain, probably, I thought, as I was. When he got to the desk he looked toward me and said, jokingly. "How did the basketball game turn out?" Knowing that our high school team lost to another high school about 20 miles away; that last Friday evening. He asked me a few more questions and I answered with a laugh as best I could. I knew then that he was trying to ease the tension caused by this suddenly erupted chaos. Words cannot express what those few words did to me and others [red text: who] that were in the same [red text: position] boat as I was. The lesson went over in the usual pattern. For at least a month I went through lessons in a semi-strained way.(Subjects: Education)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura54">
+        <rect x="48.214285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal Education WWII" title="After that life at school was swell for awhile. The reason why I say "For a while," is [red text: that] because in March all the boys like myself "the Japanese-Canadians" were called into a counselling room and were told that we were barred from further participation in the high school army cadet corps. In all my school career that was my first and worst heart-breaking experience. There were thirty of us in that room wondering why we were called here. We laughed and joked till the principal came in and conveyed to us the ill-news. You should have seen the expression on their faces; dumbfounded; and looked as if they were all asking the same question "Why do they have to do this to us?" Then sadly with bowed heads we silently listened. I couldn't imagine such an order coming from a ministry of Education. The Cadet Corps was one subject in the curriculum I loved very much. I liked that branch so much that I studied all the notes that were given me. We drilled and practised quite a lot. The Battalion was divided into units consisting of the First Aid Corps, Signal Corps, and Officer training Corp. All those wishing to become officers and noncoms(Subjects: Forced-dispersal, Education, WWII)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura55">
+        <rect x="49.10714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal Education WWII" title="were given tests based on what we had learned so far. Out of the cadets who wrote the exams five corporals were picked, of [red text: whom] which I was one. Later we became candidates for officers training. We studied map reading and other subjects which were essential. The whole course was very interesting. I can say very easily that the rest of the boys like myself liked that very much. The action of barring us from participation in the cadet corps put a brand on us in a way. When the rest of the students would be having corps practise we would be doing other things less interesting. Even if it was supposed to be interesting one [red text: could] cannot expect us to like it. Around about this time studying became less and less important to me and to a lot of others like myself. Long before the Easter holiday I hardly ever took my books home and did not prepare my lessons. The time came one April afternoon when we were told that we were going to Alberta. This was the sixteenth day of April 1942."(Subjects: Forced-dispersal, Education, WWII)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura56">
+        <rect x="50.0%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="Well Joan, I'll leave it at that for now. I still have a lot of mistakes and everything wrong with the grammar and punctuation and etc. so you'll have to sort of put it together like a puzzle. If you have time, Joan, I'd like very much if you would re-read the 1st and this last part and sort of fix it up; and tell me where I should fill in more and etc. Will you please? I do not intend this to be a story or an essay–I'd like to sort of have it like a long letter to a friend.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura57">
+        <rect x="50.892857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="This last Friday I met Sonny and Mae in Raymond for the first time in 3 years. Gee! but I was sure glad to see them; I mey Ally too. He came to see me yesterday again and we went to a show and talked after till after midnight."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura58">
+        <rect x="51.785714285714285%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Mail" title="By the way Joan, where do Betty and Margie teach? Do you know their address. I sent a card to May Webb but as yet I have no answer. I heard that Dot Kan is still stationed in Calgary so I may see her. I sure wish I could see you, Betty and Margie soon. We may not recognize each other first but after all 3 years or more is a long time. Remember when Betty went past Calgary? Well, I never got the letter in time to know she was going past Calgary and did not know what time and date she'd pass so I couldn't go to Calgary. Gosh! but I sure wished I knew what date and time. I'll write again soon Joan so untill then solong(Subjects: Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura59">
+        <rect x="52.67857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="As ever"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura60">
+        <rect x="53.57142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yosh"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura61">
+        <rect x="54.464285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Photographs" title="P.S. Send me some snaps of yourself Joan. Will you please?(Subjects: Photographs)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura62">
+        <rect x="55.35714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Magrath, Alta."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura63">
+        <rect x="56.25%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Sept. 19/45"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura64">
+        <rect x="57.142857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan;"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura65">
+        <rect x="58.03571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="I am really at a loss as to how I should apologize for the long silence. I have to apologize to a number of other people too, cause I did not write for so long. e.g. Masao, May Ohama, May Webb, Bob Inouye, Dott Kan etc.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura66">
+        <rect x="58.92857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="This summer we had to work such long hours and nearly all the Sundays. We worked from 12 to 14 hours a day in the busy times. Now we work between 10 to 12 hours. All summer I only had 2 Sundays off. I really loathe to work on Sabbath day, but it was work that had to be done—irrigating. I am glad, so very glad, that we have finished with it now. After we finish(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura67">
+        <rect x="59.82142857142858%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Beet-farms Labour-conditions Writing" title="topping the beets I’ll be happier still. (Subjects: Beet-farms, Labour-conditions, Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura68">
+        <rect x="60.714285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="Had I really wanted to write and made myself write, I could have done so, but in the hot sweltering heat when one works for so long it just drives the energy from your body and after you have supper at anytime between 7.30 and 9 P.M.—sleep and rest is all you think off.(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura69">
+        <rect x="61.60714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="I really should have written long ago but another reason is plain laziness. Shall I come back and start writing a letter? Okay.(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura70">
+        <rect x="62.5%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Joan Labour-conditions" title="First of all, how are you Joan? I hope you are in the best of health. Are you going to normal school now? I am still working on the Farm. I do not know if I will work in the store this winter or not.(Subjects: Joan, Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura71">
+        <rect x="63.392857142857146%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yesterday I went to the dentist in Lethbridge and suffered from 11 AM till after 3 PM. I did not have dinner so I got a bite to eat & ran to the bus terminal to catch the bus. Since yesterday morning we have had snow and later rain till this morning. The sun is out now for a change."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura72">
+        <rect x="64.28571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation Optimism" title="On Sunday we played a baseball game against a Raymond team and won 8—0. I got hit on the nose when I slid into a base. It’s healing now. On the end of August I had my Summer holidays and I went up to Waterton Lakes again. I had a grant time fishing, boating and biking. Gee! Joan, it’s really wonderful to be there for a few days. Even tho’ it’s only once a year.(Subjects: Recreation, Optimism)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura73">
+        <rect x="65.17857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Living-conditions" title="The air is fresh and so—well it seems to be free of dust.(Subjects: Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura74">
+        <rect x="66.07142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Joan" title="What have you been doing all summer Joan? Have you seen Betty and Margaret lately?(Subjects: Joan)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura75">
+        <rect x="66.96428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Patriotism WWII" title="Over a month ago I wrote to a Lieutenant C. Thomas ‘cause he’s the one that was recruiting us Niseis for the Can. Army. He was supposed to come to Alta but he did not so I wrote to him over a month ago telling him that I wished to volunteer in the Army Intelligence Corps. I have been awaiting answer a long time not receiving a reply, I wrote again after hearing that they needed Niseis for the army. I still have no answer yet.(Subjects: Patriotism, WWII)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura76">
+        <rect x="67.85714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Patriotism WWII Belonging Forced-dispersal" title="Since V.J. day I gave up hope but when I read that Japanese-Canadians are still needed for Intelligence I wrote a second time and as yet no answer. Even tho’ the war is finished now, I may be of use if they do accept me. For years now I have been waiting for the war to end, but now that it has ended I am at a loss as to what to do. It seems I have a war to fight from now. A sight that does not need physical energy but mental. Our fight for our freedom as Canadians. We have to fight to make up our minds where we should move to. At present we are not allowed to move to B.C.(Subjects: Patriotism, WWII, Belonging, Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura77">
+        <rect x="68.75%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal Living-conditions" title="As far as we know now we are free to move to points East from the 15th of November. Even if we do move east on the 15th we are subject to relocation again. It’s all so funny, so complicated. If I were just a lone ranger I would not worry so much but as it is I am a member of a family of 6. So far we have no decided on any place to move. I think we will be on this farm till next fall anyway as far as we know now.(Subjects: Forced-dispersal, Living-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura78">
+        <rect x="69.64285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness" title="Gee, Joan, I’d give anything to go back to a place near Westminster. I wonder(Subjects: Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura79">
+        <rect x="70.53571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness" title="how it is back there. I’ll bet the Maple leaves are red, yellow brown and all colours; Leaves falling down everytime a breeze comes blowing.(Subjects: Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura80">
+        <rect x="71.42857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal Homesickness" title="I wish that I was in the East when I first moved—then I might have been in the army intelligence and would have been to Vancouver for advanced training.(Subjects: Forced-dispersal, Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura81">
+        <rect x="72.32142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness" title="Some more of the Japanese-Canadians who have finished their basic training in Ontario have gone to Vancouver on Sept 5 for advanced training—Gee! Joan it makes me almost cry right now—the time is 9:15 and the radio is just bringing forth(Subjects: Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura82">
+        <rect x="73.21428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Belonging Homesickness" title="the swellest song “Home Sweet Home.” All the verses too. Golly—it makes a guy feel pretty lonely after not having a real home for 3 ½ years.(Subjects: Belonging, Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura83">
+        <rect x="74.10714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Communications Forced-dispersal" title="I’m sorry I ran off the subject. Thanks very much for the Q.E. Vue. It was swell. I was really interested on the two views on the Japanese question. One boy really spoke from a democratic point of view and the other from the general point of view of people who are more or less leaning towards the “expulsion league.” If you can—I’d like to write a friendly letter to both—I’d like to have their addresses. I have a few copies of the pamphlets(Subjects: Communications, Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura84">
+        <rect x="75.0%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="WWII Forced-dispersal" title="Showing what (1)—The Japanese-Americans did for the war effort. (2) Japanese-Canadians—This pamphlet was written by a Mr. Norman. It answers a lot of questions that are in the minds of the general public. At present I have not any but I’ll get some and send you a copy of each. I want to send a copy to each of those two boys. I think those two boys will appreciate getting true facts on a question they themselves did not know very well. Although what they both wrote, there was a lot of truth in it, yet there were other things that were not.(Subjects: WWII, Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura85">
+        <rect x="75.89285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Forced-dispersal" title="A lot of the people such as doctors, Bishops, and well-to-do farmers do not favor us or take our side (and I think that they are really swell) but they do express the democratic point of view, which Canada is following or is supposed to be in regards to the Japanese Canadians.(Subjects: Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura86">
+        <rect x="76.78571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Patriotism Forced-dispersal" title="I, like hundreds of other Canadian born boys, am officially a citizen of Canada for which I was willing to serve as she wanted me to. I have done nothing bad, yet I am treated as I am. (Subjects: Patriotism, Forced-dispersal)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura87">
+        <rect x="77.67857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Optimism" title="I am hoping that some day, justice and true democracy will come to me.(Subjects: Optimism)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura88">
+        <rect x="78.57142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Belonging" title="Racial prejudice and discrimination are two things that are certainly not a part of democracy.(Subjects: Belonging)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura89">
+        <rect x="79.46428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Belonging" title="President Roosevelt made that clear in one of his later speeches. He is my ideal of “Democracy.” He was very fair but stern to the enemy, he was fair and equal to all Americans—be they Negros, Japanese, Chinese or Caucasians. I think that he was the greatest man ever to watch over a nation. Abraham Lincoln ranks with him for he was the father of Democracy.(Subjects: Belonging)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura90">
+        <rect x="80.35714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Photographs" title="There I went off again. The hanky I am enclosing is a souvenir of Waterton Lakes Park. I’ll send some pictures soon.(Subjects: Photographs)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura91">
+        <rect x="81.25%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing" title="Once again I am sorry that I did not write to you more sooner. Please forgive my not writing. Hoping that I will hear from you sometime. I am(Subjects: Writing)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura92">
+        <rect x="82.14285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="As ever"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura93">
+        <rect x="83.03571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yosh."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura94">
+        <rect x="83.92857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="P.S. The program that is on right now certainly is bringing a lot of swell songs."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura95">
+        <rect x="84.82142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Belonging Homesickness" title="P.S. The radio is playing “I dream of you”. I do really, and of the rest of the old gang. Some day, even tho’ we be almost strangers, I will visit that way.(Subjects: Belonging, Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura96">
+        <rect x="85.71428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="General Delivery."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura97">
+        <rect x="86.60714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Magrath, Alta."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura98">
+        <rect x="87.5%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="July 27/48."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura99">
+        <rect x="88.39285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Dear Joan,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura100">
+        <rect x="89.28571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="After a century of silence, here I am once more. Miracles do happen don't they."></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura101">
+        <rect x="90.17857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness" title="How are you Joan? are you getting tanned on the beaches–those wonderful salt-water beaches? I can almost smell the sea now.(Subjects: Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura102">
+        <rect x="91.07142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Writing Mail" title="Joan–it's really difficult for me to write a letter nowadays because I have never written one for years,–well, almost a year. It's been quite a while since I wrote you last (and how) and a lot has happened around here lately too.(Subjects: Writing, Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura103">
+        <rect x="91.96428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="WWII Labour-conditions" title="For example, I am now AC2, Nakamura R.C.A.F. as of July 20. I had been trying to get in for some time and finally after I sent my report cards, references etc(Subjects: WWII, Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura104">
+        <rect x="92.85714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="WWII Labour-conditions" title="I received a telegram of my acceptance as photographer! I went to Calgary and had to write 5 exams and had a medical. After 2 days on July 20th I was sworn in. And now I am on my way to Trenton Ontario on August 17th. I get 12 weeks basic training there and then I go to Rockcliffe Ontario to train as a photographer.(Subjects: WWII, Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura105">
+        <rect x="93.75%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Homesickness" title="I was hoping that I could go out to the Coast on my holidays but that will have to wait.(Subjects: Homesickness)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura106">
+        <rect x="94.64285714285715%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Labour-conditions" title="You may be wondering why I joined R.C.A.F. Well Joan, I just couldn't see any future for myself in working in a store, or working in Alta. I know that I will be able to study and kept our of mischief(Subjects: Labour-conditions)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura107">
+        <rect x="95.53571428571429%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Optimism" title="in the Air Force. I hope that it will do me a lot of good so that I may be able to do something with myself later on.(Subjects: Optimism)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura108">
+        <rect x="96.42857142857143%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Photographs Mail" title="By the way, do you see Betty? I am enclosing a pic of myself for you and Betty. Could you give it to Betty? I shall write to her next time.(Subjects: Photographs, Mail)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura109">
+        <rect x="97.32142857142857%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="Last week end I went to Waterton Lakes and spend a couple of days there. It was really swell to get among the trees and hills. I went to the Canyon Church Camp, a camp sponsored by the United Church. We went for hikes, swimming, fishing, climbing and at night we had(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura110">
+        <rect x="98.21428571428572%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="Recreation" title="dances, skits and sing songs. I had a merry time. I'll have to close for now; it's getting past the wee hours. Will you write and let me know how you and the rest of the gang are doing? Bye for now.(Subjects: Recreation)"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura111">
+        <rect x="99.10714285714286%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="As ever,"></rect>
+      </a>
+      
+      
+      
+      
+       <a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura112">
+        <rect x="100.0%" y="20" width="0.8928571428571429%" height="50" data-toggle="tooltip" data-placement="top" class="" title="Yosh."></rect>
+      </a>
+      </svg>
+  </div>
+  <div class="vizdiv">
     <h3 x="0" y="0" data-id="ohama" style="cursor:pointer;" class="mt-4 toggle_int ohama">Ohama <i class="fas fa-filter"></i> <small>Click to filter</small></h3>
     <svg class="chart ohama" width="100%" height="100px" style="overflow: visible">
       
@@ -6054,5234 +7329,8 @@ for landowner/supervisor/'boss']")"></rect>
   
   
   <div class="contentsdiv">
-    <h3 class="my-4 ohama"><a href="/gillis-2021_ohd/transcripts/ohama.html">Ohama</a></h3>
-    <table id="contents-container" class="my-4 border ohama bg-light">
-      <tr id="1" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama1">ohama-1</a></td>
-        <td class="words">
-          <div id="spoken">Hi Joan!</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama1">Letter 1</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="2" class="Optimism">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama2">ohama-2</a></td>
-        <td class="words">
-          <div id="spoken">Having swell trip. Lots of people but not crowded. “Not alone but lonesome”. Trains awful jerky.</div>
-        </td>
-        <td class="timestamp"><br />Optimism</td>
-      </tr>
-
-      
-  
-  
-      <tr id="3" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama3">ohama-3</a></td>
-        <td class="words">
-          <div id="spoken">I will write later. Beautiful scenery.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="4" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama4">ohama-4</a></td>
-        <td class="words">
-          <div id="spoken">Sure miss the old gang.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="5" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama5">ohama-5</a></td>
-        <td class="words">
-          <div id="spoken">Al Ohama</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="6" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama6">ohama-6</a></td>
-        <td class="words">
-          <div id="spoken">July 4, 1942</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama6">Letter 2</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="7" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama7">ohama-7</a></td>
-        <td class="words">
-          <div id="spoken">Ranier, Atla.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="8" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama8">ohama-8</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan:</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="9" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama9">ohama-9</a></td>
-        <td class="words">
-          <div id="spoken">Hello there! I just received your letter last mail-day. Gee it was swell to hear from you. Thanks a million for writing.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="10" class="Writing Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama10">ohama-10</a></td>
-        <td class="words">
-          <div id="spoken">Gosh, I’ve been a terrible pal. You’ve got all the right in the world to be angry with me, Joan. I love being busy -- but not so busy that I should neglect writing to you. Gee, Joan, I’m awful sorry, I guess I was never cut-out to write letters. But from now on you can be sure you’ll hear from me often--</div>
-        </td>
-        <td class="timestamp"><br />Writing<br>Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="11" class="Writing Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama11">ohama-11</a></td>
-        <td class="words">
-          <div id="spoken">maybe too often. I hope you don’t think I’ve forgotten you. Do you? I was swell of youto write -- and -- gosh',' I just feel awful about it. Anyway we’re writing to each other now-- and thats what counts. Isn’t it? I still feel terrible and I guess I always will--unless you Say you’ll forgive me. Please!</div>
-        </td>
-        <td class="timestamp"><br />Writing<br>Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="12" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama12">ohama-12</a></td>
-        <td class="words">
-          <div id="spoken">Well to change the subject to something much more important, how are you, Joay[?]? How are your Mom and Dad? And little Donnie? I just know everythings all right. How are all your friends?</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="13" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama13">ohama-13</a></td>
-        <td class="words">
-          <div id="spoken">I hope I’m still one of them. Let’s talk about you, Joan, shall we? Say, did you know you are a beautiful little flatterer? You had me “redder than a beet.” Really! But really Joan, you’re so understanding and everythin’, I think your [sic] swell. Honestly!! And, gosh, where did you learn to write so well. Honestly, when I read your letter, I think I’m sittin’ right next to you.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="14" class="Homesickness Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama14">ohama-14</a></td>
-        <td class="words">
-          <div id="spoken">Are you enjoying your holiday? Wasn’t that last minute of school, a grand and glorious Feelin’? I can just picture you, Joan, slamming your</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br>Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="15" class="Homesickness Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama15">ohama-15</a></td>
-        <td class="words">
-          <div id="spoken">books in your suitcase and probably giving a shout of joy. I bet you made faces at the teachers you disliked. Say for instance,</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br>Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="16" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama16">ohama-16</a></td>
-        <td class="words">
-          <div id="spoken">“Jackie Hockin[?].” Gosh, Joan, I hope and pray you didn’t have her next time. She’s just like you said, “Stupid,” and gosh I mean stupid. She’s the most ignorant person I know. I ought to know. She taught me for a couple of years and look what she done to me. Ha ha. Honestly though, I think she’s not fit to teach. But then, who am I to judge?</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="17" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama17">ohama-17</a></td>
-        <td class="words">
-          <div id="spoken">I am sorry to hear Mr. [???] is leaving you. He was swell to us. I haven’t much To say for Mr. Sanford. You won’t lose much by his going -- but Keatley! Ye gad! What a prize-sop[?]! Phooey on him!</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="18" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama18">ohama-18</a></td>
-        <td class="words">
-          <div id="spoken">Gee isn’t it terrible weather we’ve been havin! I guess it’s the same here as in Surrey, coz we’ve been havin' rain, rain and more rain. Honestly the last week (4 days) was the only “hot” days we’ve had since coming out here. Gosh! but was it hot. Whew! I never seen nothin’ like it.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="19" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama19">ohama-19</a></td>
-        <td class="words">
-          <div id="spoken">I think I could fry an egg on a chunk of iron (we have no sidewalks).</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="20" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama20">ohama-20</a></td>
-        <td class="words">
-          <div id="spoken">At present we’ve been haying, and gosh is that a job. We’ve got some 30-odd acres of hay to put up. We cut it last week and now we are Bringin’ it in our hay-racks. We are blowin’ it into the barn loft with a grain separator. Gee this is the hardest job yet -- Oh! come to think of it, I hate fixin’ fence themost and we spent about 2 weeks fixin’ about 10 miles of fence. Gee that’s a job and</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="21" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama21">ohama-21</a></td>
-        <td class="words">
-          <div id="spoken">I’ve got plenty of scars to show you, Joan. That darn barb wire can sure make some really nasty cuts.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="22" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama22">ohama-22</a></td>
-        <td class="words">
-          <div id="spoken">Say, by the way, now that you’ve got your holiday, what are you doin’? Are you workin’ somewhere?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="23" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama23">ohama-23</a></td>
-        <td class="words">
-          <div id="spoken">And, Joan, will you do me a favor--eat plenty of cherries for me--but don’t eat the green ones, I don’t want you to get sick. Gosh, I like cherries, don’t you?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="24" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama24">ohama-24</a></td>
-        <td class="words">
-          <div id="spoken">Joan, have you been in [???] swimmin’ lately? I guess we are pretty lucky ‘coz we’ve got a swell lake to swim only a few steps from the house.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="25" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama25">ohama-25</a></td>
-        <td class="words">
-          <div id="spoken">Which reminds me, you ask about</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="26" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama26">ohama-26</a></td>
-        <td class="words">
-          <div id="spoken">the farm so I’ll tell you about it. I guess Sonny has told you most of the things though. Well it’s not such a big farm as compared to some of them a round here, it’s got 3/4 [???].</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="27" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama27">ohama-27</a></td>
-        <td class="words">
-          <div id="spoken">(I guess it’s large compared to our 10 acres back home -- but it’s far from being home.)</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="28" class=""[insert proper term for landowner/supervisor/'boss']"">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama28">ohama-28</a></td>
-        <td class="words">
-          <div id="spoken">You see we’re running the farm for a Mr. Burnett. He moved out to Calgary, so we’ve got the whole farm to ourselves.</div>
-        </td>
-        <td class="timestamp"><br />"[insert proper term for landowner/supervisor/'boss']"</td>
-      </tr>
-
-      
-  
-  
-      <tr id="29" class="Beet-farms Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama29">ohama-29</a></td>
-        <td class="words">
-          <div id="spoken">I guess we are pretty lucky at least I sure hate to work sugar-beets. It’s such a monotonous job. Well, anyway, we’ve got lots of cows (2), only 3 are milking cows.</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br>Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="30" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama30">ohama-30</a></td>
-        <td class="words">
-          <div id="spoken">By the way, Sonny does all the chores. He milks like an “old maid” now. We have lots of horses about 25 but only 8 are working horses the rest of them are wild and they just romp around in the pasture back of our fields. We have two swell ridin’ horses. Gee, their [sic] beauties. I fell off once when I was too lazy to put on the saddle. (I couldn’t catch the horse again so I had to walk)</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="31" class="Photographs  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama31">ohama-31</a></td>
-        <td class="words">
-          <div id="spoken">I’ll send you some pictures of them and the farm as soon as I can.</div>
-        </td>
-        <td class="timestamp"><br />Photographs<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="32" class="Photographs Joan Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama32">ohama-32</a></td>
-        <td class="words">
-          <div id="spoken">And Joan, remember those pictures you took when Sonny</div>
-        </td>
-        <td class="timestamp"><br />Photographs<br>Joan<br>Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="33" class="Photographs Joan Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama33">ohama-33</a></td>
-        <td class="words">
-          <div id="spoken">Was over to your party, well he’s got them developed and he’s gonna send them to you -- but not until I get some prints. Some of them are swell.</div>
-        </td>
-        <td class="timestamp"><br />Photographs<br>Joan<br>Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="34" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama34">ohama-34</a></td>
-        <td class="words">
-          <div id="spoken">Well, back here on the farm, all our crops are in, and they are coming along swell. We’ve got acres and acres of grain, and lots of spuds and vegetables like that. Gee it sure is some job keeping them clear of weeds.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="35" class="WWII">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama35">ohama-35</a></td>
-        <td class="words">
-          <div id="spoken">Say, Joan, how is your “Victory Garden” coming along? Swell, I hope.</div>
-        </td>
-        <td class="timestamp"><br />WWII</td>
-      </tr>
-
-      
-  
-  
-      <tr id="36" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama36">ohama-36</a></td>
-        <td class="words">
-          <div id="spoken">Say, Joan, one funny thing that I learned out here is that back home we cleared trees to plant</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="37" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama37">ohama-37</a></td>
-        <td class="words">
-          <div id="spoken">things and out here we plant trees to get a wind-brake and to have some shade. Funny isn’t it?</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="38" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama38">ohama-38</a></td>
-        <td class="words">
-          <div id="spoken">Oh yes! You asked how Rainier was. (I think you wrote RANIER but its Rainier) Anyway you won’t find it on the map its such a small dump. Its only our P.O. and our store and garage.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="39" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama39">ohama-39</a></td>
-        <td class="words">
-          <div id="spoken">We get mail 2 times a week. By the way how long did this letter take to get to you? I ask because all mail coming in takes from two to three weeks! I only realized this a few weeks ago when my Brother brought it to my attention.</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="40" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama40">ohama-40</a></td>
-        <td class="words">
-          <div id="spoken">Well, to get back to Rainier</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="41" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama41">ohama-41</a></td>
-        <td class="words">
-          <div id="spoken">as I said before it’s a dump. Its 3 miles away. Brooks is the nearest town it’s about the size of Cloverdale. I’ve been there only once. It’s about 25 miles away. We are about 140 miles South of Calgary. 80 miles from Lethbridge. So you see we are away from civilization. Ha! Ha!</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="42" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama42">ohama-42</a></td>
-        <td class="words">
-          <div id="spoken">I guess I’m just pushin’ words along so I guess I’ll say good-bye but before I do will you please give my best to your Mom and Dad and Donnie?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="43" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama43">ohama-43</a></td>
-        <td class="words">
-          <div id="spoken">Well take care of yourself, Joan, and be good.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="44" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama44">ohama-44</a></td>
-        <td class="words">
-          <div id="spoken">Good-Bye and Good Luck!</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="45" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama45">ohama-45</a></td>
-        <td class="words">
-          <div id="spoken">Albert Ohama.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="46" class="Communications Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama46">ohama-46</a></td>
-        <td class="words">
-          <div id="spoken">P.S. c/o of Mr. Bennett is not necessary. Call me whatever you like, Joan. I could add a lot more of nick-names to your list but anything will do. I ain’t fussy -- much. Ha! Ha!</div>
-        </td>
-        <td class="timestamp"><br />Communications<br>Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="47" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama47">ohama-47</a></td>
-        <td class="words">
-          <div id="spoken">Al.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="48" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama48">ohama-48</a></td>
-        <td class="words">
-          <div id="spoken">P.P.S.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="49" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama49">ohama-49</a></td>
-        <td class="words">
-          <div id="spoken">Please excuse my hen-scratch. I know I’m a terrible writer. We have hens but they didn’t help me! Ha! Ha!</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="50" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama50">ohama-50</a></td>
-        <td class="words">
-          <div id="spoken">Al.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="51" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama51">ohama-51</a></td>
-        <td class="words">
-          <div id="spoken">August 12, 1942</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama51">Letter 3</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="52" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama52">ohama-52</a></td>
-        <td class="words">
-          <div id="spoken">Rainier, Atla.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="53" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama53">ohama-53</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="54" class="Joan  Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama54">ohama-54</a></td>
-        <td class="words">
-          <div id="spoken">Hel-lo! How’s the thrill of Scott Hill? Thanks for your very nice letter. I certainly enjoyed hearin’ from you. Jesus, Joan, don’t let writing long letters bother your sweet conscience, ‘cause I love ‘em. I love to (as you say) “wade through ‘em,” too.</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="55" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama55">ohama-55</a></td>
-        <td class="words">
-          <div id="spoken">Well, Joan, what are you doin’ this bright and cheerful morning? Oh! Good morning, Joan. Sleep well? (I hope you read this in the morning)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="56" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama56">ohama-56</a></td>
-        <td class="words">
-          <div id="spoken">Well, anyway, how are you Joan? None the worse after that “horrible” weekend, I hope. It sounded like lots of fun to me. And say, I don’t mind being your “it”.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="57" class="Labour-conditions Living-conditions  Optimism">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama57">ohama-57</a></td>
-        <td class="words">
-          <div id="spoken">Now for more about your letter: About the work over here; holy ??? but I must of put it on thick. Of course I have time to eat! I’m usually first at the table and last to leave. Boy, but do I love the dinner call! Not because I’m hungry but because we can rest - ah!</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br>Living-conditions<br> Optimism</td>
-      </tr>
-
-      
-  
-  
-      <tr id="58" class="Labour-conditions  Optimism">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama58">ohama-58</a></td>
-        <td class="words">
-          <div id="spoken">Beautiful rest! Seriously, though, Joan, I’m not working that hard. The work has been hard but I’m getting use [sic] to it now. We’ve finished all the field work and there’s really not much work to do now. But there’s enough to keep us busy -- darn it. But don’t worry, Joan, I’m not working myself to death. Here pinch my arm. See, I’m alive. Ouch. (You pinched me too hard). Silly, ain’t I?</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br> Optimism</td>
-      </tr>
-
-      
-  
-  
-      <tr id="59" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama59">ohama-59</a></td>
-        <td class="words">
-          <div id="spoken">What do we do in the winter? Nothing! Nothing ‘cept the chores. My brother and I may try to find work elsewhere--but not till I have a vacation. Gee, I wish I could go home for a visit, even for a few days. That’s day-dreaming, though.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="60" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama60">ohama-60</a></td>
-        <td class="words">
-          <div id="spoken">Music? I think I like Bing the bestest. I like smooth lingering music. Of course I classical [sic] -- but not too classical. One thing I don’t like --yet is that corny cave-man music (racket -- I mean). It actually drives me nuts.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="61" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama61">ohama-61</a></td>
-        <td class="words">
-          <div id="spoken">(Of course that’s taking for granted that I’m sane--which I’m not out here)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="62" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama62">ohama-62</a></td>
-        <td class="words">
-          <div id="spoken">Of course everyone has their own particular</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="63" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama63">ohama-63</a></td>
-        <td class="words">
-          <div id="spoken">likings but I like Bing everytime. He drives me nuts, too--in a different way.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="64" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama64">ohama-64</a></td>
-        <td class="words">
-          <div id="spoken">So you were building castles in the sands? How romantic? Oh, I forgot. There were children with you. How horrible! I pity you, but I bet you did have some fun, huh?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="65" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama65">ohama-65</a></td>
-        <td class="words">
-          <div id="spoken">A working woman, are you? School’s your job. Stick to it. I would if I could.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="66" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama66">ohama-66</a></td>
-        <td class="words">
-          <div id="spoken">Which reminds me, school begins soon again, huh? Tech, tech, how time flies. More books and scraping with the teachers. When I think of school now they seemed lots of fun.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="67" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama67">ohama-67</a></td>
-        <td class="words">
-          <div id="spoken">You mentioned disagreeable odours of fish. Phooey! I met a skunk the other day and I thought it was very cute. Seems he doesn’t think the same of me, anyhow, i got the worst of him and he got the best of me. I’ll leave it to your imagination as for what happened. Anyway, the dog killed him and I went on my way. Well for the next week the dog and I were both in the dog house. I wouldn’t attempt to describe the odour. Phew!</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="68" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama68">ohama-68</a></td>
-        <td class="words">
-          <div id="spoken">The moon? I don’t think I’ve ever stopped to admire it. (What-they-hay just about dark)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="69" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama69">ohama-69</a></td>
-        <td class="words">
-          <div id="spoken">The sunset is pretty out here, considering the fact that there is nothing but bold-headed prairie hills to give it a beautiful atmosphere. I think the other kids will back me up when I say that the sunset is very beautiful.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="70" class="Labour-conditions Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama70">ohama-70</a></td>
-        <td class="words">
-          <div id="spoken">I work in my birthday suit so I have a pretty fair tan--but if I keep this up much longer I’ll be burnt to a black crisp. Boy, it sure has been hot on some days, the last two weeks for instance. But today was cold! Can you imagine that? In mid-summer, too! Cold today -- hot tomorrow! Gosh, what goofy weather! How is it out there?</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="71" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama71">ohama-71</a></td>
-        <td class="words">
-          <div id="spoken">Did I leave any questions out?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="72" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama72">ohama-72</a></td>
-        <td class="words">
-          <div id="spoken">Well what are you doing these days? Working in the peat-plant or are you taking care of the husband with the sick wife? Oh yes, there’s a baby in the family too, isn’t there? (I ain’t a bit funny am I?)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="73" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama73">ohama-73</a></td>
-        <td class="words">
-          <div id="spoken">How are Donnie and your folks? I hope they’re all well. And you. Are you taking good care of yourself?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="74" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama74">ohama-74</a></td>
-        <td class="words">
-          <div id="spoken">Say Joan, do you see many shows? Gosh, I haven’t seen one for so long, I forget what they’re like. Honest. I haven’t gone to Calgary yet, but I expect to some time</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="75" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama75">ohama-75</a></td>
-        <td class="words">
-          <div id="spoken">during the month. My brother took a truck laid of vegetables in last week. He’ll be goin’ in quite often now and I hope to make one of the trips with him. I honestly wouldn’t mind seeing Calgary again. I can still remember some of the old haunts where I used to play and get into a lot of mickey. After all it’s only been about ten years ago.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="76" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama76">ohama-76</a></td>
-        <td class="words">
-          <div id="spoken">Gosh! Here I’m talking about nothing -- I guess I’m boring you, huh?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="77" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama77">ohama-77</a></td>
-        <td class="words">
-          <div id="spoken">Take care of yourself, Joan. And give my love and best wishes to your folks and of course Donnie.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="78" class="Optimism">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama78">ohama-78</a></td>
-        <td class="words">
-          <div id="spoken">Good-bye till next time -- and don’t worry about us ‘cause we’re all fine.</div>
-        </td>
-        <td class="timestamp"><br />Optimism</td>
-      </tr>
-
-      
-  
-  
-      <tr id="79" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama79">ohama-79</a></td>
-        <td class="words">
-          <div id="spoken">Yours,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="80" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama80">ohama-80</a></td>
-        <td class="words">
-          <div id="spoken">Alby</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="81" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama81">ohama-81</a></td>
-        <td class="words">
-          <div id="spoken">P.S. ------</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="82" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama82">ohama-82</a></td>
-        <td class="words">
-          <div id="spoken">P.P.S.  Imagine that! No P.S.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="83" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama83">ohama-83</a></td>
-        <td class="words">
-          <div id="spoken">Bye, Alby</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="84" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama84">ohama-84</a></td>
-        <td class="words">
-          <div id="spoken">(Oops! Over)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="85" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama85">ohama-85</a></td>
-        <td class="words">
-          <div id="spoken">Joan will you tell me how long my letters take to get to you. This letter will leave Ranier on the 14th one of the two mail days we have.</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="86" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama86">ohama-86</a></td>
-        <td class="words">
-          <div id="spoken">Thanks</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="87" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama87">ohama-87</a></td>
-        <td class="words">
-          <div id="spoken">Alby.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="88" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama88">ohama-88</a></td>
-        <td class="words">
-          <div id="spoken">Rainier Alta.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama88">Letter 4</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="89" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama89">ohama-89</a></td>
-        <td class="words">
-          <div id="spoken">Nov 14, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="90" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama90">ohama-90</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="91" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama91">ohama-91</a></td>
-        <td class="words">
-          <div id="spoken">Hello honey, what’s a cookin’? Alright don’t tell me! It’s only me dropin’ [sic] a few liners from out Rainier way, so don’t keel over.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="92" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama92">ohama-92</a></td>
-        <td class="words">
-          <div id="spoken">(About time huh?) I’m really sorry I didn’t write to you sooner -- how many “weeks” or months I should say -- am I behind time? How can I make up for it, Joan? Please tell me. Anyway, please for give me, won’t you? Please!!</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="93" class="Homesickness Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama93">ohama-93</a></td>
-        <td class="words">
-          <div id="spoken">Gosh! And all the swell letters and pictures -- gee, do I feel terrible! I should have thanked you ages ago! Gulp! And your Q.E. Vue arrived sometime ago too. Thanks, thanks, and a million more thanks, Joan! The pictures were really great. We all enjoyed them very much. And the old school paper -- boy it was good to read about old names again.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br>Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="94" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama94">ohama-94</a></td>
-        <td class="words">
-          <div id="spoken">Say, you’re sure doin’ swell at school, aren’tcha? Your name’s on most every page. You adn the kids are sure making things buzz at the school aren’tcha? I guess you like school better’n ever now huh? Well,</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="95" class="Homesickness Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama95">ohama-95</a></td>
-        <td class="words">
-          <div id="spoken">whatcha say, Joan. Oh, how was the mixer? Gee, I bet you had fun. I bet you danced every dance. Ahem, who didya dance with the mostest, Joan? Oh, for the “love of Pete,” Joan, you dont’ have to answer if you don’t wanna (ahem). I bet you did have lots of fun, huh? I sure wish I could have been there -- you’d really be tired after the dance.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br>Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="96" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama96">ohama-96</a></td>
-        <td class="words">
-          <div id="spoken">I see by the paper you still have house games. Boy, they were lots of fun. How about clubs? Still have ‘em?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="97" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama97">ohama-97</a></td>
-        <td class="words">
-          <div id="spoken">Say, how are you? Taking good care of yourself? Swell! Have you been skating yet? I don’t suppose there’s ice yet other than the [???] ?</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="98" class="Labour-conditions Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama98">ohama-98</a></td>
-        <td class="words">
-          <div id="spoken">Well, out here in Rainier, life’s getting duller and duller. We’ve finished work now, at last. We finished up thrashing about 4 days ago -- right now we’re recuperating so that we can now have some fun. I went to Calgary the other day -- I didn’t</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="99" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama99">ohama-99</a></td>
-        <td class="words">
-          <div id="spoken">have much fun ‘cause I went by myself. I saw “Bambi” and “Iceland” at the shows. They weren’t too bad. By the way, the theatres were terrible compared to those of Van. The first time I went to Calgary I seen “Mrs. Miniver” and “Fantasia.” I was so lucky because they were the best pictures I wanted to see. It sure was lonely in town. I didn’t do much but I did listen to the juke-boxes. Didya ever hear Bing sing “White Christmas”? (sigh). Now I’m being silly, ain’t I?</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="100" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama100">ohama-100</a></td>
-        <td class="words">
-          <div id="spoken">Well we had a cold spell about three weeks back and we were able to skate for a few days, but now we are having very warm weather -- really.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="101" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama101">ohama-101</a></td>
-        <td class="words">
-          <div id="spoken">For the last several days a chinook wind has been blowin’! And it sure melted that ice in a day. We never had chinooks in B.C. but they come quite often out here. It’s a warm south wind comin’ from Montana-way. I bet you think we’re shiverin’ in our skins now huh? This weather sure surprised me. By the way we had</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="102" class="Living-conditions Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama102">ohama-102</a></td>
-        <td class="words">
-          <div id="spoken">And Indian summer here this year, too. I’m already for the winter weather though. Hope to get lots of skating and skiing this winter. That’s what I say now but I becha I’ll be sitting around the stove in the house as soon as it drops below zero. Our neihbors say it gets as gold as 60 below. Hope I don’t see any of that kind of weather.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br>Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="103" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama103">ohama-103</a></td>
-        <td class="words">
-          <div id="spoken">Well it’s getting late and I’m wandering around in circles so I had better close. Say hello to your folks and Donnie for me.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="104" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama104">ohama-104</a></td>
-        <td class="words">
-          <div id="spoken">G’bye now</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="105" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama105">ohama-105</a></td>
-        <td class="words">
-          <div id="spoken">Love Al</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="106" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama106">ohama-106</a></td>
-        <td class="words">
-          <div id="spoken">Ps. Hope to get this off from Calgary. I’ll be skiing. Your Al.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="107" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama107">ohama-107</a></td>
-        <td class="words">
-          <div id="spoken">Rainier, Alta.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama107">Letter 5</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="108" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama108">ohama-108</a></td>
-        <td class="words">
-          <div id="spoken">Jan 28, 1943</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="109" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama109">ohama-109</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="110" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama110">ohama-110</a></td>
-        <td class="words">
-          <div id="spoken">Thanks for all the swell letters. It’s awfully nice of you to write so often -- and such nice letters, too! Gee, ain’t I lucky! It ain’t everybody that has someone to write to him on Christmas Eve at 11:30 P.M.! You’re really swell, Joan!</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="111" class="WWII">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama111">ohama-111</a></td>
-        <td class="words">
-          <div id="spoken">Being your “victor” is swell, Joan!</div>
-        </td>
-        <td class="timestamp"><br />WWII</td>
-      </tr>
-
-      
-  
-  
-      <tr id="112" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama112">ohama-112</a></td>
-        <td class="words">
-          <div id="spoken">You know, three weeks after Christmas Eve, when I got your letter, I spent it all over again -- in your house! Boy it was swell! I’m glad you liked the gift.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="113" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama113">ohama-113</a></td>
-        <td class="words">
-          <div id="spoken">So you had a party. Gee, I bet the fellas and gals had lots of fun -- and why shouldn’t they, when they have a swell hostess like you!! Poor you, hunny, to clean up the mess!</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="114" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama114">ohama-114</a></td>
-        <td class="words">
-          <div id="spoken">Say, these two little cousins of</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="115" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama115">ohama-115</a></td>
-        <td class="words">
-          <div id="spoken">yours sound very interesting you’ll have to introduce them to me sometime. Billy -- the one who wields the pencil -- must be a real card.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="116" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama116">ohama-116</a></td>
-        <td class="words">
-          <div id="spoken">Remember you asked if anyone out here raised bees ? Well, yes! There’s a couple of big apiares [sic] out here. Ho! It couldn’t have been our name on it -- although we have a hive ‘neath our house. ??? ??? says he gets ‘bout 300lbs out each year but we didn’t get around to it (that’s how busy -- or ignorant we were.) I guess the bees have eaten it all by now!</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="117" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama117">ohama-117</a></td>
-        <td class="words">
-          <div id="spoken">Oh, another thing, you seem to remember Kay and Juke very well -- better than I infact! They and their dad, were down here last summer and then they returned to Lethbridge. That’s where my brother works! Mother and May just returned from this place and they say they are getting along very well!</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="118" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama118">ohama-118</a></td>
-        <td class="words">
-          <div id="spoken">Christmas would have been perfect if my</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="119" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama119">ohama-119</a></td>
-        <td class="words">
-          <div id="spoken">Brother and his family could have been with us. We sent them lots of things for Christmas though.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="120" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama120">ohama-120</a></td>
-        <td class="words">
-          <div id="spoken">Well, enough of this sniffing and drooling! What chou doin’ these cold days? I hear and read that you’re snowed in! How does it feel to be cold? At least it’s a change from that lousy rain and drizzle! (Aren’t I mean!) What’s the best a foot of snow or six inches of mud! I hear there’s a shortage of fuel! Well I hope your family has lots -- as if my hoping would do any good when you can’t lay your hands on the stuff!!</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="121" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama121">ohama-121</a></td>
-        <td class="words">
-          <div id="spoken">I hear also that dear old Q.E. got mad and broke a few pipes! What luck, huh?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="122" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama122">ohama-122</a></td>
-        <td class="words">
-          <div id="spoken">Listen, who’s suppose to be telling me of home -- you or me!</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="123" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama123">ohama-123</a></td>
-        <td class="words">
-          <div id="spoken">I guess I should tell you a little, anyway, of what’s happening down here.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="124" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama124">ohama-124</a></td>
-        <td class="words">
-          <div id="spoken">Well nothin’ much ever happens</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="125" class="Labour-conditions Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama125">ohama-125</a></td>
-        <td class="words">
-          <div id="spoken">out here! The days just come ‘n go. What a life! Had a blizzard last week. Had to work ‘cause I was workin’ for someone down the road. The rest of the family stayed indoors that day. The roads were blocked by drifts and the mail truck didn’t get through, fortunately it came the next day though.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="126" class="Recreation Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama126">ohama-126</a></td>
-        <td class="words">
-          <div id="spoken">Oh, Christmas and New Years were swell! We all had a grand time. So help me, the Christmas turkey never tasted better -- maybe because we worked up a hefty appetite by skating. The weather was just like B.C. in Winter. There was no snow ‘till late Christmas night. We (the younger Ohamas) went to our neighbors’ party. Stayed ‘till two and had a swell time.</div>
-        </td>
-        <td class="timestamp"><br />Recreation<br>Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="127" class="Recreation Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama127">ohama-127</a></td>
-        <td class="words">
-          <div id="spoken">New Years was a little different. We had snow and it was a little colder. New Years Eve we planned to go to the hall shin-dig, but the car broke down at the last minute. (The same thing happened when we started out for the local school concert! Wotta lousy jalopy! They said, after it was all over, we really missed somethin’) Well, anyway, we managed to ??? over one of the neighbors and his family. Boy, did we have a lot to drink -- pop, of course! (Don’t worry, Joan, all us boys were sober!)</div>
-        </td>
-        <td class="timestamp"><br />Recreation<br>Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="128" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama128">ohama-128</a></td>
-        <td class="words">
-          <div id="spoken">I’m boring you so I’ll close -- while I got the chance -- ‘cause I’ll just go on and on.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="129" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama129">ohama-129</a></td>
-        <td class="words">
-          <div id="spoken">You be hearing from me soon.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="130" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama130">ohama-130</a></td>
-        <td class="words">
-          <div id="spoken">Take care of yourself and bundle up and be good!</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="131" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama131">ohama-131</a></td>
-        <td class="words">
-          <div id="spoken">Yours Al</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="132" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama132">ohama-132</a></td>
-        <td class="words">
-          <div id="spoken">Over</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="133" class="WWII">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama133">ohama-133</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Thanks for the lovely card! Keep the home fires burning! Al.</div>
-        </td>
-        <td class="timestamp"><br />WWII</td>
-      </tr>
-
-      
-  
-  
-      <tr id="134" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama134">ohama-134</a></td>
-        <td class="words">
-          <div id="spoken">Rainier, Alta.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama134">Letter 6</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="135" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama135">ohama-135</a></td>
-        <td class="words">
-          <div id="spoken">Feb 28, 1943</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="136" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama136">ohama-136</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="137" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama137">ohama-137</a></td>
-        <td class="words">
-          <div id="spoken">Hello there. Just thought I’d drop a line. I’m not quite sure of the last time I wrote, but I rather imagine that it was none too recently.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="138" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama138">ohama-138</a></td>
-        <td class="words">
-          <div id="spoken">Well, how are you doin’ these dismal days? How’s school? Boring or interesting? Sonny tells me you kids have to go to school on Saturdays, too. Is it true? Too bad if it is. Gosh, you may be too busy to</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="139" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama139">ohama-139</a></td>
-        <td class="words">
-          <div id="spoken">write to me. And that would be unbearable. Really. Well, I’ll just hope for the best.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="140" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama140">ohama-140</a></td>
-        <td class="words">
-          <div id="spoken">How are you making out with that “certain guy”? If he don’t wan give you a glance, he ought to have his head examined. Maybe I shouldn’t have said that seeing how you like him so. You’ll have to pardon me.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="141" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama141">ohama-141</a></td>
-        <td class="words">
-          <div id="spoken">How are your other dates coming along? Surely you don’t devote all your time to this guy! Do you have</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="142" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama142">ohama-142</a></td>
-        <td class="words">
-          <div id="spoken">lots of fun or do they bore you to death. Seems you have lots of fun. Well, that’s the right and only way.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="143" class="Education Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama143">ohama-143</a></td>
-        <td class="words">
-          <div id="spoken">Is the school the same? How are the girl cadets getting along? Do you manage to keep in step with all the other [???]! Or do you like to be different!</div>
-        </td>
-        <td class="timestamp"><br />Education<br>Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="144" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama144">ohama-144</a></td>
-        <td class="words">
-          <div id="spoken">How are the teachers? Still the same? Tch, tch! You kids seem to have raw? Times with Mr. [???].</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="145" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama145">ohama-145</a></td>
-        <td class="words">
-          <div id="spoken">He sure must be patient with you taks, but that’s what makes a good teacher. Agree?</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="146" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama146">ohama-146</a></td>
-        <td class="words">
-          <div id="spoken">How are you Dad and Mother? How’s Donnie? Hope they are well. And of course that goes for you, too.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="147" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama147">ohama-147</a></td>
-        <td class="words">
-          <div id="spoken">Well, Joan, theren’t not much to write about over here, you know that. The days still come and go. ‘Tis a sad world!</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="148" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama148">ohama-148</a></td>
-        <td class="words">
-          <div id="spoken">I don’t want to bore you with all my “buffing”[?] So until something pleasant happens I'll say,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="149" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama149">ohama-149</a></td>
-        <td class="words">
-          <div id="spoken">So long for a while</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="150" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama150">ohama-150</a></td>
-        <td class="words">
-          <div id="spoken">Your loving pal,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="151" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama151">ohama-151</a></td>
-        <td class="words">
-          <div id="spoken">Al.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      </table>
-  </div>
-  
-  
-  
-  
-  
-  <div class="contentsdiv">
-    <h3 class="my-4 nagamori"><a href="/gillis-2021_ohd/transcripts/nagamori.html">Nagamori</a></h3>
-    <table id="contents-container" class="my-4 border nagamori ">
-      <tr id="1" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori1">nagamori-1</a></td>
-        <td class="words">
-          <div id="spoken">P.O. Box 23</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori1">Letter 1</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="2" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori2">nagamori-2</a></td>
-        <td class="words">
-          <div id="spoken">Headingly, Man.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="3" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori3">nagamori-3</a></td>
-        <td class="words">
-          <div id="spoken">July 5 /42</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="4" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori4">nagamori-4</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="5" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori5">nagamori-5</a></td>
-        <td class="words">
-          <div id="spoken">Well here I am, back in B.C. to talk with you (I hope I was.).</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="6" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori6">nagamori-6</a></td>
-        <td class="words">
-          <div id="spoken">Thanks for your kind and most welcome letter, I received it on the 2nd.</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="7" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori7">nagamori-7</a></td>
-        <td class="words">
-          <div id="spoken">I intended on writing sooner but since we’re kinda late in thinning the bees I just couldn’t find time to write. This is one letter I had enough ambition to walk four miles to get it.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="8" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori8">nagamori-8</a></td>
-        <td class="words">
-          <div id="spoken">I couldn’t walk or ride a bike on this sticky road so I took the C.P.R which runs right through Headingly.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="9" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori9">nagamori-9</a></td>
-        <td class="words">
-          <div id="spoken"> I was sure glad you understood my letter and besides I was wondering if you still remember me because it was a long time since we seen each other.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="10" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori10">nagamori-10</a></td>
-        <td class="words">
-          <div id="spoken">Gosh I hate to be outside now, the mosquitos are buzzing outside like the bee buzzing around its hive. Ooo that one bit me in the forehead. I’ll get revenge with him yet. Oh. That reminds me, have you ever seen a</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="11" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori11">nagamori-11</a></td>
-        <td class="words">
-          <div id="spoken">“firefly,” If you like I'll send you one. If I could grab hold of one. Oh boy, they sure give off light for the size of itself.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="12" class="Living-conditions  Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori12">nagamori-12</a></td>
-        <td class="words">
-          <div id="spoken">“Roses,” there are millions of it here. Joan its a swell time to come and see me now. The roses are in full bloom, the oaks, ash, poplar, ect. [sic] are just loaded with bright green leaves. </div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="13" class="Homesockness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori13">nagamori-13</a></td>
-        <td class="words">
-          <div id="spoken">When we first came ot the prairie everything just didn’t look right.</div>
-        </td>
-        <td class="timestamp"><br />Homesockness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="14" class="Joan  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori14">nagamori-14</a></td>
-        <td class="words">
-          <div id="spoken">This here country right now isn’t too bad at all specially if your [sic] here Gosh if I had enough money now I’ll pay your fair [sic] in. There are hundreds of horse-back riders here. Gosh I sure like that, do you?</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="15" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori15">nagamori-15</a></td>
-        <td class="words">
-          <div id="spoken">About 10 days ago we were moved from Headingly to a place called West Winnipeg, which is about 5 miles south of where we use to live. This is between two tracks the C.P.R + G. N.R. It’s a good thing we have trees around our house because we have lots of strong wind here.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="16" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori16">nagamori-16</a></td>
-        <td class="words">
-          <div id="spoken">Talking about sunburn Gosh you ought to see me, I’m darker than a n----- seen in a dark, since I started on the [beet?].</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="17" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori17">nagamori-17</a></td>
-        <td class="words">
-          <div id="spoken">Gosh I hope the sun don’t burn you up too much. What I think would be good when your [sic] picking strawberries are those wide brim hat [sic].</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="18" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori18">nagamori-18</a></td>
-        <td class="words">
-          <div id="spoken">Sure, I’ll tell Yoshiyaki that. I like to see and talk to him now but we’re both busy. I have written one to him just the day I sent you one I think, but he never wrote to me since. I know his dad’s in a pretty bad health now.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="19" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori19">nagamori-19</a></td>
-        <td class="words">
-          <div id="spoken">Sure I’ll write to you as long as we’re apart.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="20" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori20">nagamori-20</a></td>
-        <td class="words">
-          <div id="spoken">I know you were a swell letter-writer, I heard you were one of the best in QEHS. Before I forget Joan, I like to a picture of yourself so I won’t get so lonesome here.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="21" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori21">nagamori-21</a></td>
-        <td class="words">
-          <div id="spoken">Well it’s getting on to 12 so I guess I’ll sign off here. Hoping to hear from you soon. Bye.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="22" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori22">nagamori-22</a></td>
-        <td class="words">
-          <div id="spoken">I remain</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="23" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori23">nagamori-23</a></td>
-        <td class="words">
-          <div id="spoken">Yours sincerely</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="24" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori24">nagamori-24</a></td>
-        <td class="words">
-          <div id="spoken">Tad.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="25" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori25">nagamori-25</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Please give me best regards to Kirky (Booo)</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="26" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori26">nagamori-26</a></td>
-        <td class="words">
-          <div id="spoken">P.O. Box 23</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori26">Letter 2</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="27" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori27">nagamori-27</a></td>
-        <td class="words">
-          <div id="spoken">Headingly Man.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="28" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori28">nagamori-28</a></td>
-        <td class="words">
-          <div id="spoken">Aug. 3, /42</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="29" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori29">nagamori-29</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan--</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="30" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori30">nagamori-30</a></td>
-        <td class="words">
-          <div id="spoken">Many thanks for your most welcome letter. I received it with greatest pleasure on the 24th. Every letter we’re getting now is cencored [sic] and just to send a letter 30 miles it takes over a week, because every letter we write goes back to B.C. to be cencored [sic].</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="31" class="Joan  Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori31">nagamori-31</a></td>
-        <td class="words">
-          <div id="spoken">Thanks for the compliment of my letter I didn’t know I write such a letter myself Gee but I sure adore your heavenly letter</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="32" class="Labour-conditions  Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori32">nagamori-32</a></td>
-        <td class="words">
-          <div id="spoken">To-day we have just finished our thinning and at last I’ve found time to scribble few lines</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br> Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="33" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori33">nagamori-33</a></td>
-        <td class="words">
-          <div id="spoken">We have had one terrible weather for a spell One afternoon the thermometre [sic] climbed over 100° then that evening we had a painfull rain and wind storm. But now the weather have seemed to have settled down.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="34" class="Living-conditions Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori34">nagamori-34</a></td>
-        <td class="words">
-          <div id="spoken">The strawberries and cherries are very scarce out here. The price we pay for a lb. of cherry here is 25 cents. I wonder how the farms are like now. I heard the government have</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br>Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="35" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori35">nagamori-35</a></td>
-        <td class="words">
-          <div id="spoken">sent [mind-nites?] over to take our place on the farm.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="36" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori36">nagamori-36</a></td>
-        <td class="words">
-          <div id="spoken">The government is now planning on sending more Japanese from the coast for the harvest here. Even the farmers now are getting called up, they are taking mens to about 37.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="37" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori37">nagamori-37</a></td>
-        <td class="words">
-          <div id="spoken"> To tell you the truth, the most I’ve earned in a single day was $10.00 for hoing 3 1/3 acres. There are five of us looking after 60 acres.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="38" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori38">nagamori-38</a></td>
-        <td class="words">
-          <div id="spoken">Boy I bet you raked up fat dough in picking strawberries I heard it was 40 cents a crate for picking and 40 cents for loose packing.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="39" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori39">nagamori-39</a></td>
-        <td class="words">
-          <div id="spoken">The mosquitoes are quite bad yet - especially just before and after rain.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="40" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori40">nagamori-40</a></td>
-        <td class="words">
-          <div id="spoken">It must have been a fair size mosquitoes to bite right-throw [through] your underthing. Yes it does get you sore when it gets that fore, doesn’t it.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="41" class="Photographs  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori41">nagamori-41</a></td>
-        <td class="words">
-          <div id="spoken">Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. That radio wouldn’t be in any use here I don’t think because the dials are different here</div>
-        </td>
-        <td class="timestamp"><br />Photographs<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="42" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori42">nagamori-42</a></td>
-        <td class="words">
-          <div id="spoken">We have sent for our camera about two weeks ago but it still hasn’t arrived There both swell cameras too. One takes a card size picture and the other takes 1 1/4 x 1 3/4 picture They both had a nice leather case to it. We have bought one lately to take souvenir pictures and we have already taken 5 rolls of it. This is a bullet type camera that takes a picture size approx 1 3/4x 2 1/2. Soon as we get these rolls developed and if it turns out O.K. I’ll send it.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="43" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori43">nagamori-43</a></td>
-        <td class="words">
-          <div id="spoken">Gosh I’m just waiting for your glamorous picture. Boy but I’ll bet you had a good laugh at my school-day pictures We’ve got piles of those old school pictures too.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="44" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori44">nagamori-44</a></td>
-        <td class="words">
-          <div id="spoken">Dancing would be fun with you Joan, if I know how to dance. My brother took a lesson at [Lallas Moors?] in Vancouver late last Autumn. He tried to teach me then but I wasn’t crazy over it so I couldn’t quite get to dance. Gee but I’d like to know how now.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="45" class="Living-conditions  Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori45">nagamori-45</a></td>
-        <td class="words">
-          <div id="spoken">One trouble is we haven’t any radio yet.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="46" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori46">nagamori-46</a></td>
-        <td class="words">
-          <div id="spoken">Your [sic] more up to date in show than I am, the last time I seen one was almost</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="47" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori47">nagamori-47</a></td>
-        <td class="words">
-          <div id="spoken">three month [sic] ago when we were stationed at the Immigration Hall. We stayed at this place for about a week and we sure used it went to a show almost every day I think every picture Vancouver gets comes over a month or two later here in Winnipeg.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="48" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori48">nagamori-48</a></td>
-        <td class="words">
-          <div id="spoken">Do you like the Hawaiian Guitar. This is one instrument I wanted to learn for a long time. Gee I’d like to start in on it this winter. Can you play any instrument? I’d like to have some kind of a music around. Gee I bet you just love singing. I like to have you here just to sing for me. I can play a mouthorgan, this is what I learned when I was a small kid.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="49" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori49">nagamori-49</a></td>
-        <td class="words">
-          <div id="spoken">This song (“I like New York in June, How about you?”)</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="50" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori50">nagamori-50</a></td>
-        <td class="words">
-          <div id="spoken">I think I could remember Judy Garland sing this in the show called (“Babe on Broadway”)</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="51" class="Joan  Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori51">nagamori-51</a></td>
-        <td class="words">
-          <div id="spoken">You asked me what the last two pages in your letter reminded you of. The closest I could get to it is. The one you Love. No I can’t think of anything else.</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="52" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori52">nagamori-52</a></td>
-        <td class="words">
-          <div id="spoken">Gosh I sure do enjoy the Union steamship. I’ve been on one of these This was on a B.+A. picnic to Bowen Island. It sure is nice along the coast -- isn’t it.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="53" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori53">nagamori-53</a></td>
-        <td class="words">
-          <div id="spoken">Right here you see nothing but a wide piece of land with few houses here and there.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="54" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori54">nagamori-54</a></td>
-        <td class="words">
-          <div id="spoken">When I think of the B.C. I really don’t feel like staying here for the next minute.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="55" class="Living-conditions  Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori55">nagamori-55</a></td>
-        <td class="words">
-          <div id="spoken">About that firefly I was going to send you. Gee I’m sorry I promised you but it doesn’t seem to be flying around now. Gosh but I should have saved one for you before. I just went out to look for one but all I could see is the stars. And boy the moon is out nice and bright.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="56" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori56">nagamori-56</a></td>
-        <td class="words">
-          <div id="spoken">Joan you write a swell letter. I’m just wondering why I can’t write any better than this.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="57" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori57">nagamori-57</a></td>
-        <td class="words">
-          <div id="spoken">Your letters getting more and more interesting and I’m glad you like writing to me too. Well I guess I better close here for its past midnight. Bye.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="58" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori58">nagamori-58</a></td>
-        <td class="words">
-          <div id="spoken">Yours As Ever</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="59" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori59">nagamori-59</a></td>
-        <td class="words">
-          <div id="spoken">Tad</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="60" class="Joan  Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori60">nagamori-60</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Hoping to hear from you soon I’ll be expecting your picture at the same time</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="61" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori61">nagamori-61</a></td>
-        <td class="words">
-          <div id="spoken">I hope you didn’t mind my poor grammar and cross-outs ect. [sic]</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="62" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori62">nagamori-62</a></td>
-        <td class="words">
-          <div id="spoken">About that drawing, I aint much of a drawer but if you can stand it to have it around I’ll try and do one for you.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="63" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori63">nagamori-63</a></td>
-        <td class="words">
-          <div id="spoken">P.O. Box 23</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori63">Letter 3</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="64" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori64">nagamori-64</a></td>
-        <td class="words">
-          <div id="spoken">Headingly Man.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="65" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori65">nagamori-65</a></td>
-        <td class="words">
-          <div id="spoken">Oct. 4, /42</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="66" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori66">nagamori-66</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan:</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="67" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori67">nagamori-67</a></td>
-        <td class="words">
-          <div id="spoken">Please forgive me for not writing any sooner. To tell you the truth this is the first chance I got to write after I got home from threshing. I’ll promise you I’ll write sooner the next time. Gee why but come to think of it its almost two month ago I wrote to you isn’t it.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="68" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori68">nagamori-68</a></td>
-        <td class="words">
-          <div id="spoken">Well anyway how are you and the rest? All in the best road of health I hope. As for me I’m just swell, beside I’ve gained five pounds since we came out here.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="69" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori69">nagamori-69</a></td>
-        <td class="words">
-          <div id="spoken">We’ve had some nice cold weather out here for a while. The first sight of Jack Frost was seen on the 23rd of Aug. After that we had some cold days for about two wks. Once I went for the milk to our neighbors in the evening nearing 7:30 and the thermometer reading 30 degrees. Boy! But was I surprised to see this Gee whiz and the first snow flury [sic] came</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="70" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori70">nagamori-70</a></td>
-        <td class="words">
-          <div id="spoken">down on the 23rd of Sept. It snowed a little for 3 days in succession. On the last day we had a blizzard for just five minute. It just came and went like a lightning. I was sure surprised how the cold weather comes around here, but now the hot weather seem to have came back again. I guess this is what they call Indian summer. How’s the weather back there I suppose you haven’t met up with Jack frost yet have you?</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="71" class="Beet-farms">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori71">nagamori-71</a></td>
-        <td class="words">
-          <div id="spoken">We have just started on our beet harvest about a week ago. Boy I found this job really miserable specially when your shaking the dirt off. The only thing the owner does at harvest is come along with a tractor and loosen the beet out of the heavy gumbo soil. Then we go up 2 rows a piece throwing 8 rows of beets into one row shaking the dirt off at the same time. Then we go back up the row topping it this time soon as we make a pile of beets we throw the leaves over it in</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms</td>
-      </tr>
-
-      
-  
-  
-      <tr id="72" class="Beet-farms">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori72">nagamori-72</a></td>
-        <td class="words">
-          <div id="spoken">case it freezes before them come to collect. To topp [sic] this sugar beet we use a heavy knife with a curved hoot at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton.</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms</td>
-      </tr>
-
-      
-  
-  
-      <tr id="73" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori73">nagamori-73</a></td>
-        <td class="words">
-          <div id="spoken">I suppose you’ve heard or read about the mon eclipse on the 25th of Aug. Boy! That was really clearly seen. The sky was clear and besides the moon was in full then.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="74" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori74">nagamori-74</a></td>
-        <td class="words">
-          <div id="spoken">Talking about radio. About a week ago my brother bought a brand new portable radio. It can be brought to any place and we played. We’re using battery now. Its made for both battery and electric.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="75" class="Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori75">nagamori-75</a></td>
-        <td class="words">
-          <div id="spoken">At least I’ve got one picture of myself thats not too bad. I had it taken on a Millionar’s Farm while I was threshing there. I’m gonna get coupla reprints of this one so in the next correspondence you can expect it. So please try and</div>
-        </td>
-        <td class="timestamp"><br />Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="76" class="Joan  Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori76">nagamori-76</a></td>
-        <td class="words">
-          <div id="spoken">get one of yourself for me will you</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="77" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori77">nagamori-77</a></td>
-        <td class="words">
-          <div id="spoken">By the way Joan I’d like to read some of your wonderful poems can you write one just for me? I’ll be waiting for it.</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="78" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori78">nagamori-78</a></td>
-        <td class="words">
-          <div id="spoken">By the way you haven’t heard about Oki’s dad have you? He passed away on the 28 of Aug. Gosh that sure was a shock to all of us here.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="79" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori79">nagamori-79</a></td>
-        <td class="words">
-          <div id="spoken">Well I guess this is all I can write this time so I’ll close here. Bye for now.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="80" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori80">nagamori-80</a></td>
-        <td class="words">
-          <div id="spoken">As Ever</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="81" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori81">nagamori-81</a></td>
-        <td class="words">
-          <div id="spoken">Tad</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="82" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori82">nagamori-82</a></td>
-        <td class="words">
-          <div id="spoken">Here is a drawing I have done this afternoon. It took me an hour and a half to draw and paint this. This ain’t nothing wonderful but since I drew it I thought I might as well send it to you.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="83" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori83">nagamori-83</a></td>
-        <td class="words">
-          <div id="spoken">P.S. please write soon I’ll be waiting</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="84" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori84">nagamori-84</a></td>
-        <td class="words">
-          <div id="spoken">Lorette</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori84">Letter 4</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="85" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori85">nagamori-85</a></td>
-        <td class="words">
-          <div id="spoken">Manitoba</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="86" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori86">nagamori-86</a></td>
-        <td class="words">
-          <div id="spoken">Jan 9, 1943</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori86"> </a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="87" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori87">nagamori-87</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan --</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori87"> </a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="88" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori88">nagamori-88</a></td>
-        <td class="words">
-          <div id="spoken">Hellow Joan, It’s been quite a while since I heard from you last isn’t it.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori88"> </a><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="89" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori89">nagamori-89</a></td>
-        <td class="words">
-          <div id="spoken">Well anyways I resolved to answer every letter sooner, especially yours.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori89"> </a><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="90" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori90">nagamori-90</a></td>
-        <td class="words">
-          <div id="spoken">Here’s another year, greeting us with Luck and Happiness. I hope.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori90"> </a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="91" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori91">nagamori-91</a></td>
-        <td class="words">
-          <div id="spoken">First of all I guess I’ll tell you of our transfer into Lorette. This was made in the middle of November. We moved out of Headingly because of our poor living quarter. Right now we have all the convenience although the post office is three miles away.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori91"> </a><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="92" class="[insert proper term for landowner/supervisor/'boss']">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori92">nagamori-92</a></td>
-        <td class="words">
-          <div id="spoken">Our boss (Joe Gregorior) has a farm of his own, has a dairy, and runs a general store, and above all he owns about 17 children. He just lives across the highway from us, and the school is about same distance away.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori92"> </a><br />[insert proper term for landowner/supervisor/'boss']</td>
-      </tr>
-
-      
-  
-  
-      <tr id="93" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori93">nagamori-93</a></td>
-        <td class="words">
-          <div id="spoken">This highway which runs between us in the NO12, or some peoples call it the Dawson Rd</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori93"> </a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="94" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori94">nagamori-94</a></td>
-        <td class="words">
-          <div id="spoken">How’s the weather like back in good old B.C. now? Have you had any snow yet?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="95" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori95">nagamori-95</a></td>
-        <td class="words">
-          <div id="spoken">Right here we have an average of 8 inches. Some places like along the edge of the brush or fence the snow is banked about 2 ft. The highway in this country is banked up quite high so soon as the powder snow lands it is blown by a puff of wind, and the speed of the traffic.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori95"> </a><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="96" class="Beet-farms Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori96">nagamori-96</a></td>
-        <td class="words">
-          <div id="spoken">The toughest day we had out here was about 30 degrees below with a wind that almost tore our skins apart from our bones. This day me and my dad went out a mile to get beet leaves for our boss’s cattle. The beet leaves were stuck tight together so we needed a pick to separate them from the ground. My dad had 1 1/2 inches of icycle [sic] on his mustach when we came back with a load.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori96"> </a><br />Beet-farms<br>Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="97" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori97">nagamori-97</a></td>
-        <td class="words">
-          <div id="spoken">If you stand out in this weather for an hour you’ll be chilled right through your marrow.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori97"> </a><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="98" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori98">nagamori-98</a></td>
-        <td class="words">
-          <div id="spoken">Boy but the river was really well for a coupla weeks last year for skating. This Seine</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="99" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori99">nagamori-99</a></td>
-        <td class="words">
-          <div id="spoken">River was a playground for almost every one around here, on Sundays specially. Last year was my first year on ice and I made out pretty good one day I tried out my speed and proved to go 9 miles in 3/4 hr. this is nothing to what most does [sic].</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="100" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori100">nagamori-100</a></td>
-        <td class="words">
-          <div id="spoken">Most of the Japanese sugar beet workers have now gone to the [???] work camp or to Ontario to cut pulp wood and few have landed swell jobs in Winnipeg. My eldest brother has gone to Ontario to cut pulp wood but just a day before Christmas he broke his ribs and he is now at Fort William.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="101" class="Gender-dynamics  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori101">nagamori-101</a></td>
-        <td class="words">
-          <div id="spoken">Most of the girls here have work in Winnipeg doing house-work, working in hat-factories and even few of them are smart enough to work as a stenographer.</div>
-        </td>
-        <td class="timestamp"><br />Gender-dynamics<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="102" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori102">nagamori-102</a></td>
-        <td class="words">
-          <div id="spoken">I’ve got some more to write but since its getting to [sic] long I think I’ll cut off here.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="103" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori103">nagamori-103</a></td>
-        <td class="words">
-          <div id="spoken">Darn this evacuee business I’m getting tired of it can’t seem to get settled.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="104" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori104">nagamori-104</a></td>
-        <td class="words">
-          <div id="spoken">Well anyways here’s sending you--</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="105" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori105">nagamori-105</a></td>
-        <td class="words">
-          <div id="spoken">Best Wishes and Luck for /43</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="106" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori106">nagamori-106</a></td>
-        <td class="words">
-          <div id="spoken">Write soon please</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="107" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori107">nagamori-107</a></td>
-        <td class="words">
-          <div id="spoken">Always</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="108" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori108">nagamori-108</a></td>
-        <td class="words">
-          <div id="spoken">Tad</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="109" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori109">nagamori-109</a></td>
-        <td class="words">
-          <div id="spoken">Lorette Manitoba</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori109">Letter 5</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="110" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori110">nagamori-110</a></td>
-        <td class="words">
-          <div id="spoken">Feb. 14 /43</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="111" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori111">nagamori-111</a></td>
-        <td class="words">
-          <div id="spoken">[doodle of two hearts impaled by an arrow]</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="112" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori112">nagamori-112</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan:</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="113" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori113">nagamori-113</a></td>
-        <td class="words">
-          <div id="spoken">Hellow Joan, thanks for the very welcome letter I received on the 1st of Feb. </div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="114" class="Homesickness  Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori114">nagamori-114</a></td>
-        <td class="words">
-          <div id="spoken">How are you and the rest All fine and dandy and I hope you didn’t catch a cold during the sub-zero weather you had out there. I was glad to hear you had received my letter on your birthday and besides it was on my sisters birthday I sent it.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br> Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="115" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori115">nagamori-115</a></td>
-        <td class="words">
-          <div id="spoken">I hear it went down as long as 45 degrees below in the North Fraser Valley. Is that true? I suppose you have coupla foot of snow there now. My friend in the interior of B.C. says they had 3 ft of snow, but out here we only have 18 in. average.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="116" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori116">nagamori-116</a></td>
-        <td class="words">
-          <div id="spoken">In places there are about 5 ft of snow frozen hard enough to keep us up. One of our boss’s son [sic] recently went trucking up in Alaska and he says its 80 degrees below there. Boy the fuel cost went sky high these days hasn’t it This winter sure</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="117" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori117">nagamori-117</a></td>
-        <td class="words">
-          <div id="spoken">fooled many citizens. I heard in the prairies they’re burning their own houses for fuel. There’s so much snow there the roads are all blocked up. Quite a few highways in Manitoba are blocked up. The peoples around here says this highway’s about the last to get blocked. There are snow plughs working on the highways but it doen’t do much good because the wind out there are too strong it blows the snow around 30-40 feet up in the air.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="118" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori118">nagamori-118</a></td>
-        <td class="words">
-          <div id="spoken">My brother came from Fort William. He is perfectly well now and at present he is in Winnipeg looking for more profitable job [sic]. The fellas that went to Ontario to cut pulp wood says the trees there are no bigger than a raspberry cane. My brother brought home a piece of birch bark to write letters on It’s almost as smooth and thin as an ordinary writing sheet. He had about foot square of it. He says, Ontario quite similar to B.C. of course there are no</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="119" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori119">nagamori-119</a></td>
-        <td class="words">
-          <div id="spoken">high mountains.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="120" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori120">nagamori-120</a></td>
-        <td class="words">
-          <div id="spoken">'Lorette Village' as they call it is a French settlement. The people living in this district are almost all French. The most outstanding building here is the Catholic church about 1 1/2 times the size of the Lutheran church at Annivial[?]. Theres a nun’s school, Public school with high school, 3 general store one with Post Office, Hall, Hotel, 2 garage and a pool room. In this town are six Japanese families one of them being our neighbor back home. The Manitoba Sugar Beet 60 intends to put 10 more families in this Area. We live 3 miles away from the Village.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="121" class="[insert proper term for landowner/supervisor/'boss']">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori121">nagamori-121</a></td>
-        <td class="words">
-          <div id="spoken">But our boss owns a small general store so we don’t have to cycle in for our groceries There’s a small school right across my place that holds about 50 pupil Theres one 23 year old teacher teaching 40 pupils, grades 1 to 10. It is exactly 50 miles from Lorette to Newton Siding Our boss owns 16 kids The eldest about 25 He lost 4</div>
-        </td>
-        <td class="timestamp"><br />[insert proper term for landowner/supervisor/'boss']</td>
-      </tr>
-
-      
-  
-  
-      <tr id="122" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori122">nagamori-122</a></td>
-        <td class="words">
-          <div id="spoken">He expects to get another soon. Theres only nine home now and the eldest is only 16. Our neighbor just across the river from us has a family of 13 and majority of them are girls. They all say the French have a big family. They all seem to be friendly towards us at least they have no hatred towards us. Is this true about Glen that he’s a student of the University of Washington? And about the barge balloon they’ve got up around Vancouver? Have you seen it yet?</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="123" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori123">nagamori-123</a></td>
-        <td class="words">
-          <div id="spoken">Is this true about Glen that he’s a student of the University of Washington? And about the barge balloon they’ve got up around Vancouver? Have you seen it yet?</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="124" class="Recreation  Gender-dynamics">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori124">nagamori-124</a></td>
-        <td class="words">
-          <div id="spoken">Last night the Japanese Girls in Winnipeg held a party at the I.W.A.</div>
-        </td>
-        <td class="timestamp"><br />Recreation<br> Gender-dynamics</td>
-      </tr>
-
-      
-  
-  
-      <tr id="125" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori125">nagamori-125</a></td>
-        <td class="words">
-          <div id="spoken">Well this is about all I can think of so I’ll close here</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="126" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori126">nagamori-126</a></td>
-        <td class="words">
-          <div id="spoken">Always</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="127" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori127">nagamori-127</a></td>
-        <td class="words">
-          <div id="spoken">Tad</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="128" class="Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori128">nagamori-128</a></td>
-        <td class="words">
-          <div id="spoken">P.S. I’ll be waiting for your swell picture</div>
-        </td>
-        <td class="timestamp"><br />Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="129" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori129">nagamori-129</a></td>
-        <td class="words">
-          <div id="spoken">[doodle of two hearts impaled by an arrow]</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="130" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori130">nagamori-130</a></td>
-        <td class="words">
-          <div id="spoken"> Lorette Manitoba</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori130">Letter 6</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="131" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori131">nagamori-131</a></td>
-        <td class="words">
-          <div id="spoken">April 11 /43</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="132" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori132">nagamori-132</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan:</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="133" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori133">nagamori-133</a></td>
-        <td class="words">
-          <div id="spoken">Hellow there, Many thanks for the most welcome letter I received quite awhile ago and Gosh! </div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="134" class="Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori134">nagamori-134</a></td>
-        <td class="words">
-          <div id="spoken">Was I glad to see a snapshot of yourself enclosed. Thanks a lot, Believe it or not I’ve got two snapshot of you now</div>
-        </td>
-        <td class="timestamp"><br />Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="135" class="WWII  Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori135">nagamori-135</a></td>
-        <td class="words">
-          <div id="spoken"> The other one was taken in your victory garden last year.</div>
-        </td>
-        <td class="timestamp"><br />WWII<br> Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="136" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori136">nagamori-136</a></td>
-        <td class="words">
-          <div id="spoken">The weather we’re having these days isn’t too bad The snow is practically all gone making things look more like Spring The Seine River has expanded 15 times its</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="137" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori137">nagamori-137</a></td>
-        <td class="words">
-          <div id="spoken">width because this river hasn’t much of a bank This water has reached within 15 feet of our house. They say last year it was the worst since 1910 on this river The wheat fields are a sight now huge patches of water here and there deep enough to hold a couple on a light dinghy</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="138" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori138">nagamori-138</a></td>
-        <td class="words">
-          <div id="spoken">Maybe you have heard this In the middle of March we had a blizzard for 3 consecutive days 60 hrs. Behind our house the drift came as high as 9 ft. Yosh says he had a drift 15 ft high behind their</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="139" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori139">nagamori-139</a></td>
-        <td class="words">
-          <div id="spoken">house</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="140" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori140">nagamori-140</a></td>
-        <td class="words">
-          <div id="spoken">How’s the good old B.C. like these days more like summer than spring I suppose.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="141" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori141">nagamori-141</a></td>
-        <td class="words">
-          <div id="spoken"> During the last week of March we have done some skating on the rivers and fields.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="142" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori142">nagamori-142</a></td>
-        <td class="words">
-          <div id="spoken">To date we’ve only had few drops of rain which came just recently.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="143" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori143">nagamori-143</a></td>
-        <td class="words">
-          <div id="spoken">Last Friday I happened to meet up with Yosh in the bus. For a while there I was puzzled there I couldn’t recognize him right away. He had a glass on which I’ve first-seen him with, and besides he has grown a lot fatter. He and I went in to see a show It was of this</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="144" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori144">nagamori-144</a></td>
-        <td class="words">
-          <div id="spoken">title “Spring-time in the Rockies” It was a nice show in technicolor.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="145" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori145">nagamori-145</a></td>
-        <td class="words">
-          <div id="spoken">I heard from Yosh that you and few other girls an boys are comming [sic] over to see him this summer Is this on the level?</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="146" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori146">nagamori-146</a></td>
-        <td class="words">
-          <div id="spoken">Since the last time I heard from you I have made over half a dozen toy planes I’ve made this as my hobby from now. I sold few to our boss He says, he never seen anyone make a better toy plan He said there were few that were worth about 3-4 dollars length are only a foot long.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="147" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori147">nagamori-147</a></td>
-        <td class="words">
-          <div id="spoken">In the last letter you asked me if I’ve been to Newton Siding I haven’t been there once since we came over I like to tho’ it’s pretty hard to get the permit.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="148" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori148">nagamori-148</a></td>
-        <td class="words">
-          <div id="spoken">Any time we hop on a bus we are questions if we got our permit.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="149" class="Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori149">nagamori-149</a></td>
-        <td class="words">
-          <div id="spoken">I’m enclosing a snap-shot which was taken almost a year ago I’m sorry but this is the only one I got of myself My height is I am a little shorter than Yosh.</div>
-        </td>
-        <td class="timestamp"><br />Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="150" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori150">nagamori-150</a></td>
-        <td class="words">
-          <div id="spoken">Always</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="151" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori151">nagamori-151</a></td>
-        <td class="words">
-          <div id="spoken">Tad</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="152" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori152">nagamori-152</a></td>
-        <td class="words">
-          <div id="spoken">P.S. I hope you haven’t passed out by my picture</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="153" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori153">nagamori-153</a></td>
-        <td class="words">
-          <div id="spoken">c/o Dryden Paper Co.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori153">Letter 7</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="154" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori154">nagamori-154</a></td>
-        <td class="words">
-          <div id="spoken">Camp 29,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="155" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori155">nagamori-155</a></td>
-        <td class="words">
-          <div id="spoken">Dryden Ontario,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="156" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori156">nagamori-156</a></td>
-        <td class="words">
-          <div id="spoken">Jan 16, /44</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="157" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori157">nagamori-157</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan:</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="158" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori158">nagamori-158</a></td>
-        <td class="words">
-          <div id="spoken">Hellow honey, I’m really sorry for this terrible long delay. The reason why I didn’t answer you letter sooner was because I was way up north of Winnipeg working in a lime quarry, and the fellas at home forgot to send the letter up to me till two month later. After this long delay I felt kind of shy writing back, and it came hard and harder for me to write. But since you encouraged me this Christmas to write I am sincerely glad to do so.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="159" class="Communications  Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori159">nagamori-159</a></td>
-        <td class="words">
-          <div id="spoken">By the way I received your Christmas Card on the 28 and I really loved it just as much as I love you. I sent one to you on the 20th I hope you received it because the mail only go out once or twice a wk at this camp.</div>
-        </td>
-        <td class="timestamp"><br />Communications<br> Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="160" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori160">nagamori-160</a></td>
-        <td class="words">
-          <div id="spoken">Well how is the climate like back there in B.C. this winter. I guess its mild there too. Over here it only went as low as 30 below yet and usually it goes 50 below. I heard in part of Saskachewan it rained on the Christmas day. Right now we have foot and couple inches of snow. In Winnipeg I heard they</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="161" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori161">nagamori-161</a></td>
-        <td class="words">
-          <div id="spoken">have only about inch of snow.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="162" class="LabourConditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori162">nagamori-162</a></td>
-        <td class="words">
-          <div id="spoken">Its almost 2 month since we came to work here. I am here to work another two month but I don’t know how I can stand it here. I believe you like to hear a little about over here in Ontario. So far we have only been 100 miles into Ontario so I really haven’t much to tell, but I could say we came across hundreds of small lakes. The trees around here only average 50-60 ft. mostly all evergreen. I haven’t noticed any high mountains yet, but where ever you go is a hill. I like to send some pictures to you of this camp and scenery but it is almost impossible to get films now.</div>
-        </td>
-        <td class="timestamp"><br />LabourConditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="163" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori163">nagamori-163</a></td>
-        <td class="words">
-          <div id="spoken">To tell you the truth I think British Columbia is the best place to live and enjoy scenery. </div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="164" class="Joan  Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori164">nagamori-164</a></td>
-        <td class="words">
-          <div id="spoken">I hope i was in the interior of B.C. now where you can come over now and then to see me. Gee but won’t we have lot of fun then Well anyways I’ll hope there’ll be a day when we get together in a near future and have a good time and a good talk with you.</div>
-        </td>
-        <td class="timestamp"><br />Joan<br> Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="165" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori165">nagamori-165</a></td>
-        <td class="words">
-          <div id="spoken">Well here’s hoping I'll be hearing from you soon. Till then Cheerio! Honey</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="166" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori166">nagamori-166</a></td>
-        <td class="words">
-          <div id="spoken">Friend</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="167" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori167">nagamori-167</a></td>
-        <td class="words">
-          <div id="spoken">Tad.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      </table>
-  </div>
-  
-  
-  
-  
-  
-  <div class="contentsdiv">
-    <h3 class="my-4 takahashi"><a href="/gillis-2021_ohd/transcripts/takahashi.html">Takahashi</a></h3>
-    <table id="contents-container" class="my-4 border takahashi bg-light">
-      <tr id="1" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi1">takahashi-1</a></td>
-        <td class="words">
-          <div id="spoken">c/o George C Card</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi1">Letter 1</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="2" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi2">takahashi-2</a></td>
-        <td class="words">
-          <div id="spoken">Magrath, Alta.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="3" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi3">takahashi-3</a></td>
-        <td class="words">
-          <div id="spoken">Saturday, April 25, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="4" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi4">takahashi-4</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan;</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="5" class="Forced-dispersal">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi5">takahashi-5</a></td>
-        <td class="words">
-          <div id="spoken">On Wednesday we reached our new home after 2 1/2 days 2 nights. We left New Westminster around 9 Mon. All the time along to Kamloops we had our heads poked out of the window looking at the scenery but [once?] there it was night. During the night we stopped at Salmon Arm, Revelstoke. The next morning April 21 Harding [???] and I were up from 3 am walking up and down the train and watching the scenery throw [sic] the pass. There it was so cold that the Kicking Horse River had ice around the banks and streams were frozen. In daylight we reached Frields where we put our time ahead one hour. Later we reached Banff. Along the way between Fields and Banff we saw many elks and a moose. Near noon we reached Calgary where we spent the rest of the afternoon till about 7.</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal</td>
-      </tr>
-
-      
-  
-  
-      <tr id="6" class="Forced-dispersal  recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi6">takahashi-6</a></td>
-        <td class="words">
-          <div id="spoken">There we saw the show “Babes on Broadway” and we walked about the town. About 11:00 PM we reached Lethbridge and spend the whole night there. From about 4 AM I roamed around the station the town. About 5 AM Yoshio and I and some girls at breakfast at [Lethbridge]. We started again for Raymond at 8:20AM. We reached Raymond at 11:30.</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal<br> recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="7" class="Forced-dispersal  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi7">takahashi-7</a></td>
-        <td class="words">
-          <div id="spoken">Afternoon we took our own baggage off the freight and load [sic] it on trucks to our new home which is 18 miles out of Raymond. Our home is about 2 1/2 mi apart from Yoshio’s home but bout 20 miles apart from most of our friends. I find it quite different over here for it is colder, windy, no trees and the place is so rolly and places level. On Thursday</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="8" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi8">takahashi-8</a></td>
-        <td class="words">
-          <div id="spoken">April 23 when I awoke I found out that it had snowed about 2 inches. Today the wind is so cold that your hands and face turns red and purple from the cold.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="9" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi9">takahashi-9</a></td>
-        <td class="words">
-          <div id="spoken">I bet Surrey is so warm that you could go out with no sweaters and I bet you sweat while we freeze.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="10" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi10">takahashi-10</a></td>
-        <td class="words">
-          <div id="spoken">We are all healthy and happy and I wish you are too. I wish you would write for I would like to know how you are getting along and know your and my school pals are getting along.</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="11" class="Communications  Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi11">takahashi-11</a></td>
-        <td class="words">
-          <div id="spoken">This is all I got to say so I wish you will write for me to read at lonely nights.</div>
-        </td>
-        <td class="timestamp"><br />Communications<br> Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="12" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi12">takahashi-12</a></td>
-        <td class="words">
-          <div id="spoken">Your School Pal</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="13" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi13">takahashi-13</a></td>
-        <td class="words">
-          <div id="spoken">Jackie Takahashi</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="14" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi14">takahashi-14</a></td>
-        <td class="words">
-          <div id="spoken">c/o George C. Card.</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi14">Letter 2</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="15" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi15">takahashi-15</a></td>
-        <td class="words">
-          <div id="spoken">Magrath, Alta.,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="16" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi16">takahashi-16</a></td>
-        <td class="words">
-          <div id="spoken">Sunday, May 10, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="17" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi17">takahashi-17</a></td>
-        <td class="words">
-          <div id="spoken">2:00 P.M.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="18" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi18">takahashi-18</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan;</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="19" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi19">takahashi-19</a></td>
-        <td class="words">
-          <div id="spoken">I received your letter on the fifth day of May but I didn't get it until the next day for I was out working somewhere else for a couple of days. We have been here 18 days. On the 8 and 9th my brother and I started planting the garden. Boy! What a place to make a garden. Clumps of hard dried dirt all over and the ground hard as stone. We had to plant the garden for there isn't no body else to do it.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="20" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi20">takahashi-20</a></td>
-        <td class="words">
-          <div id="spoken">Last night it rained and thundered and lightning flashed so bright that things could be seen plainly. This morning it was still raining. Boy! You should come down here and walk around. Mud about 2 inches. Go out side and you get mud all over your shoe. All we can do is sit in our little wee shack which is only about 10’ by 20’. No radio no nothing in fact no room to move. Yesterday it was so darn windy that your had, paper, cans, pails, and every thing was blown around. The wind made a terrible noise around the corner of the house. Gosh! I'm getting sick and tired of this country. Gee wiz the wind is starting to blow again. Anyways maybe it will dry the ground so a person could walk around with out getting a new sole on your shoe. Friday night about 11 o’clock the irrigation water came down the ditch which is along the side of the road right near our house. The water comes from a mountain in the United States. I haven’t told you about the surrounding yet. Well towards the north the land is quite level without large trees like B.C. Towards the east and south there is a high hill which is about 600ft higher then [sic] where we are. On the</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="21" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi21">takahashi-21</a></td>
-        <td class="words">
-          <div id="spoken">side of the hill strips of green and brown can be see. From near our home if we look westwards we can see part of the Rocky. From Yoshio’s place which is SW of our place and much higher we can see part of the sugar factory at Raymond which is about 18 miles away. From there we can see about 4 train stations. We can tell if there is a station for we can see grain elevators.About a mile east of our place there is a low steep banked river or a creek running. This is a nice place, clean water down below and small trees and green crass.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="22" class="Homesickness  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi22">takahashi-22</a></td>
-        <td class="words">
-          <div id="spoken">One thing I miss is the big trees. Out here you bay 50 cents for a spruce tree about 2 ft tall.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="23" class="Living-conditions  recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi23">takahashi-23</a></td>
-        <td class="words">
-          <div id="spoken">There isn't nothing to do at all around here but go see your friends or catch goffers [sic] or try to. Riding a bike isn't much fun when the wind is blowing against you. I don't mind the rain but darn the wind and rain.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="24" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi24">takahashi-24</a></td>
-        <td class="words">
-          <div id="spoken">But soon I guess I will be saying gosh it’s hot I wish the wind will blow. The darn wind blows dust around the place and into your eyes. When the sun shines it gets too darn hot and dry.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="25" class="Beet-farms">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi25">takahashi-25</a></td>
-        <td class="words">
-          <div id="spoken">In another two weeks time we will be working on our good old sugar beets for some are out all ready [sic]. Boy! Oh Boy! You can think of us bent over sweating and thinning the beats. Gosh!</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms</td>
-      </tr>
-
-      
-  
-  
-      <tr id="26" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi26">takahashi-26</a></td>
-        <td class="words">
-          <div id="spoken">I feel going to school but they told us not to consider school till September.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="27" class="Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi27">takahashi-27</a></td>
-        <td class="words">
-          <div id="spoken">And about your hope. The letter you wrote came to me with black letters reading “examined by censor.”</div>
-        </td>
-        <td class="timestamp"><br />Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="28" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi28">takahashi-28</a></td>
-        <td class="words">
-          <div id="spoken">Gosh I will miss the cherry and other fruits and even the flowers. Anyhow I remember seeing a tulip before I came here.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="29" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi29">takahashi-29</a></td>
-        <td class="words">
-          <div id="spoken">I am fine and I wish you are too. Well Good-bye till I write again.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="30" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi30">takahashi-30</a></td>
-        <td class="words">
-          <div id="spoken">Yours</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="31" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi31">takahashi-31</a></td>
-        <td class="words">
-          <div id="spoken">Jack Takahashi</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="32" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi32">takahashi-32</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Where you get the idea that I write interesting letters</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="33" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi33">takahashi-33</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alberta,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi33">Letter 3</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="34" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi34">takahashi-34</a></td>
-        <td class="words">
-          <div id="spoken">June 10, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="35" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi35">takahashi-35</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan;</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="36" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi36">takahashi-36</a></td>
-        <td class="words">
-          <div id="spoken">You aren't mad at me for not answering your letter right away are you? I was sort of lazy to write right away and I just about forgot to answer your letter. I just finished super and I remembered I still had to answer your letter.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="37" class="Beet-farms  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi37">takahashi-37</a></td>
-        <td class="words">
-          <div id="spoken">Boy it felt good to come in the house after being working in the sugar beets when the wind was blowing like the heck. It sure was windy. It made tear [sic] come out of my eye and water out of my nose. We started beet thinning last Tuesday, June 2nd. We worked about 1/2 day on the 2nd, 1/2 day on the 3rd. The other half day it rained. That Wednesday it changed from sunshine to rain while we ate our dinner. For the rest of the week we stay at home. Sunday night we had a thunder storm.</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="38" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi38">takahashi-38</a></td>
-        <td class="words">
-          <div id="spoken">Around Raymond they had hail and rain but we were lucky for we were on the outskirts of the rain and it only sprinkled around here.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="39" class="Beet-farms  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi39">takahashi-39</a></td>
-        <td class="words">
-          <div id="spoken">Monday we started work again and have worked every day till today so far. We finished over 6 acres that is thinning the beets.</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="40" class="Beet-farms  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi40">takahashi-40</a></td>
-        <td class="words">
-          <div id="spoken">Thinning isn’t so hard as I thought. All we have to do is to cut out the beets with a how so to leave a beet a hoe length apart. You are supposed to leave only one beet and not two at once place for it won't grow as big. The sugar beet plant is all the same as a ordinary red beet but the leaves aren't red but are green. It look more like a spinach plant than a beet. The only thing wrong is that the weeds cover the garden for it rained so darn much.</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="41" class="Communications  "[insert proper term
-for landowner/supervisor/'boss']"">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi41">takahashi-41</a></td>
-        <td class="words">
-          <div id="spoken">I got tired last night so I put away the half written letter for I knew I couldn’t mail it till to-day June 11 when our boss comes here to his farm from town.</div>
-        </td>
-        <td class="timestamp"><br />Communications<br> "[insert proper term
-for landowner/supervisor/'boss']"</td>
-      </tr>
-
-      
-  
-  
-      <tr id="42" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi42">takahashi-42</a></td>
-        <td class="words">
-          <div id="spoken">This morning my eyes</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="43" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi43">takahashi-43</a></td>
-        <td class="words">
-          <div id="spoken">opened around 6 o’clock but I heard the sound of the wind and the rain and slept soundly till about quarter past eleven. I waited for dinner and then here I am writing again. Gosh rain again. That mean [sic] no work for a couple of days, more grass, more mud, can't go outside without getting muddy. When it rains it’s as same as being stranded on an island for you can't go outside. We hauled some travel along our house so it won't be as muddy as before that’s one thing. I’d for rather [sic] work or be outside than stay inside out from the rain. This month we had only about 2 days with sunshine. When the sunshines [sic] and when the wind isn't blowing it sure is hot. Sweat just pours down my face last Tuesday. Yesterday we had sunshine most of the day but the wind was blowing like the heck.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="44" class="Homesickness  Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi44">takahashi-44</a></td>
-        <td class="words">
-          <div id="spoken">I heard from Yosh that the Blue House had won the Inter House [???]. That sure is something I never thought the Blue House would win even though I was in it. Well I was in the winning house for the track twice. So was Yosh</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br> Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="45" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi45">takahashi-45</a></td>
-        <td class="words">
-          <div id="spoken">Are you still going to school or have you finished yet? Have you past [sic] all your subjects or don't you know yet? I wish I could of [sic] finished grade nine. I don't know if I have to start grade nine over again or not if I start in September yet but if I start school again I'll find out.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="46" class="Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi46">takahashi-46</a></td>
-        <td class="words">
-          <div id="spoken">How are the cherries and other fruits I sure miss my strawberries and cherries.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="47" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi47">takahashi-47</a></td>
-        <td class="words">
-          <div id="spoken">The strawberries here that is our bosses is just flowering. Their tulips are fresh blooming here. The lilac and all of the flowers are just blooming here. I guess you don't see tulips and lilac at Surrey now? Spring just got here in Alberta.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="48" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi48">takahashi-48</a></td>
-        <td class="words">
-          <div id="spoken">You want to know something about our garden? Well it’s more grass than anything else and that’s about all there is anyway.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="49" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi49">takahashi-49</a></td>
-        <td class="words">
-          <div id="spoken">That’s all I've got to say so I'll end there.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="50" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi50">takahashi-50</a></td>
-        <td class="words">
-          <div id="spoken">(I just moved the page and didn’t look where i was writing)</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="51" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi51">takahashi-51</a></td>
-        <td class="words">
-          <div id="spoken">Good-bye for a while</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="52" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi52">takahashi-52</a></td>
-        <td class="words">
-          <div id="spoken">Jackie Takahashi</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="53" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi53">takahashi-53</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Excuse my paragraphing and everything else</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="54" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi54">takahashi-54</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alberta,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi54">Letter 4</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="55" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi55">takahashi-55</a></td>
-        <td class="words">
-          <div id="spoken">July 24, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="56" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi56">takahashi-56</a></td>
-        <td class="words">
-          <div id="spoken">8:00 PM</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="57" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi57">takahashi-57</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="58" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi58">takahashi-58</a></td>
-        <td class="words">
-          <div id="spoken">I thought I’d better write this letter before I forget again. I'm just fooling around now.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="59" class="Beet-farms  Labour-conditions  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi59">takahashi-59</a></td>
-        <td class="words">
-          <div id="spoken">We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days. On Monday 13th I've started hoeing, that is, taking out the grass around the [???} beets that were left. On Wed. I think it rained so we couldn’t work for a couple of days. We just about finished Wed. that is day before yesterday but when we were all on our last row a big black cloud came over our head. It started thunder and lightning and started to drip. We started on our way home as fast as we could. (We had about 1/2 mile to go). Just as we started it started to pour. It kept up getting worse and worse. Soon it began to hail too. We were all in our shirts soaking wet before we even reached half way home. The wind was blowing from the west and oh boy I really felt the hail as it bounced off my bare arms. I couldn't see about 500 ft in front or around me. When we got home we all were dripping wet. The rain even went through my boots. That sure was a rain and it taught me to run when ever I see big black clouds coming. We just finished having another storm a half an hour ago worse than the other but it was shorter. I thought the cloud would miss us but the wind changed and the cloud came towards us. I’d say it was the blackest clouds I'd ever seen yet. It was as black as coal. When I saw the clouds</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br> Labour-conditions<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="60" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi60">takahashi-60</a></td>
-        <td class="words">
-          <div id="spoken">our way I wasn't dumb enough to stay out this time but I just got in the house in time. The rain was more like snow for its blown all over by the wind. It’s the first time I'd ever seen rain like that. A couple of miles out from our place they had hail bigger than marbles the other day. Lucky we didn’t. These storms come all of a sudden that you aren't even prepared for rain. Today till about 1 it really was hot.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="61" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi61">takahashi-61</a></td>
-        <td class="words">
-          <div id="spoken">They celebrated the birthday of Magrath (I don't what birthday [sic]) to-day at the town park. It isn't what I'd call a park it’s just a play ground with a grand stand. I didn't go although I was playing. They all [sic] kinds of sports and broncho [sic] riding, milking wild steers, that is, they let out a herd of steers out and cowboys lasso them and others on foot carry a milk bottle and try to get some milk the first to get milk gets the prize. They had a parade too. I don't know how that was but I guess it couldn’t be so bad.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="62" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi62">takahashi-62</a></td>
-        <td class="words">
-          <div id="spoken">I went to the Raymond Stampede on July 1st. There wasn't much to see but they charged me 50 cents. All they had was milking the wild steer, lassoing and typing up calf (the first one to tie a calf wins) decorating a steer by leaping off a horse onto a steer and put a ribbon on its horn. They had wild broncho [sic] riding, steer riding, 3 cowboys saddling a wild broncho [sic] and riding to the opposite end of the ground. They also had horse races. It sure was hot that day and I had to sit in the sun. A seat in the Grand Stand was 2 bits and I was full anyway. I rode both ways on my bike and did I sweat. That was about 30 miles all together.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="63" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi63">takahashi-63</a></td>
-        <td class="words">
-          <div id="spoken">From the beginning of July we have had hot weather but we have rain about 4 times this month all ready. July seems to be</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="64" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi64">takahashi-64</a></td>
-        <td class="words">
-          <div id="spoken">the month of hot weather and storms.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="65" class="Beet-farms  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi65">takahashi-65</a></td>
-        <td class="words">
-          <div id="spoken">We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days. On Monday 13th I've started hoeing, that is, taking out the grass around the [???} beets that were left. On Wed. I think it rained so we couldn’t work for a couple of days. We just about finished Wed. that is day before yesterday but when we were all on our last row a big black cloud came over our head. It started thunder and lightening and started to drip. We started on our way home as fast as we could. (We had about 1/2 mile to go). Just as we started it started to pour. It kept up getting worse and worse. Soon it began to hail too. We were all in our shirts soaking wet before we even reached half way home. The wind was blowing from the west and oh boy I really felt the hail as it bounced off my bare arms. I couldn’t see about 500 ft in front or around me. When we got home we all were dripping wet. The rain even went through my boots. That sure was a rain and it taught me to run when ever I see big black clouds coming. We just finished having another storm a half an hour ago worse than the other but it was shorter. I thought the cloud would miss us but the wind changed and the cloud came towards us. I’d say it was the blackest clouds I’d ever seen yet. It was as black as coal. When I saw the clouds</div>
-        </td>
-        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="66" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi66">takahashi-66</a></td>
-        <td class="words">
-          <div id="spoken">No the [???] family aren’t very close to us for their [sic] about 13 miles from here. The whole family was up at Yosh’s place today but didn’t come here at all.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="67" class="Homesickness  Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi67">takahashi-67</a></td>
-        <td class="words">
-          <div id="spoken">Yes, I received a copy of the June Q.E.Vue and it wasn’t bad for I found out how the school was and how the time ended. I really enjoyed reading the paper.</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br> Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="68" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi68">takahashi-68</a></td>
-        <td class="words">
-          <div id="spoken">It’s the first time I ever wrote such a long letter so I better quit now before I keep writing all night.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="69" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi69">takahashi-69</a></td>
-        <td class="words">
-          <div id="spoken">Sincerely Jack.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="70" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi70">takahashi-70</a></td>
-        <td class="words">
-          <div id="spoken">P.S. I didn’t seal the envelope last night so I thought I’d tell you how Magrath town took the storm last night. My brothers went to town and told me about it. In town they really had a storm for big hail poured down. The windows on the north end of most of the building and house were all broken to bits, the grain around town that is east and north of town were all knocked down, beets that got hit were all knocked over and they say it</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="71" class="Living-conditions  Beet-farms">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi71">takahashi-71</a></td>
-        <td class="words">
-          <div id="spoken">Looks as if they (the leaves) were all chopped up. We were lucky only a little of our beets were hit although not so badly damaged. To-day we can still see hail piled up a little out of town from here. The wind even blew over big trees and took a roof of [sic] a house or barn near town. We were one of the lucky ones but maybe we may get one next time. I hope not anyway. Well so-long!</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Beet-farms</td>
-      </tr>
-
-      
-  
-  
-      <tr id="72" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi72">takahashi-72</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alberta,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi72">Letter 5</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="73" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi73">takahashi-73</a></td>
-        <td class="words">
-          <div id="spoken">Nov. 17, 1942</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="74" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi74">takahashi-74</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="75" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi75">takahashi-75</a></td>
-        <td class="words">
-          <div id="spoken">It’s been a couple of weeks since I received your letter so I thought I better write while I got the time.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="76" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi76">takahashi-76</a></td>
-        <td class="words">
-          <div id="spoken">How’s the weather out there. Near the end of October and the beginning of Nov it started to get cold and began freezing. We had about 3 snow falls in the beginning of Nov. We had about 4 to five inches of ice (enough to skate on anyways). All of a sudden the weather changed. It began to get warm again for a week or so. Now it changed again this Sunday night. We had snow Sunday night and yesterday which amounted to about 12 to 14” of snow in different places. Today it seems to be clearing up again but no body knows what will happen</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="77" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi77">takahashi-77</a></td>
-        <td class="words">
-          <div id="spoken">I’ve been out working for a couple of weeks now after we had finished our beets for my school days our [sic] over for this term or for ever. Before I stopped school for topping I didn’t know whether I should go to school or go out to work but now they say that we have to pay $5.50 a month to go to school so I stopped going and I didn’t go after we finished topped [sic]. Instead of school now I have to work. I bought a few books so I can still keep on studying at home in spare time. I’ve been out to other farms topping beets and for the past three days I was out with my brother pitching bundles onto</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="78" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi78">takahashi-78</a></td>
-        <td class="words">
-          <div id="spoken">wagons and into the thresher but the snow fall stopped us for a while I hope.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="79" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi79">takahashi-79</a></td>
-        <td class="words">
-          <div id="spoken">These schools in Alberta won’t let you take some subject if you aren’t the smartest ones. I got B for grade 9. So I was able to take only 2 out of French Physic and Algebra. I dropped Physic and took typing. The typing book is the only book that I know which is the same as your grade 10 books. The Social Studies seems to be the same as out here. I believe most of the subjects are as same as yours but they say that Alberta schooling is ahead of B.C. schooling. I guess I can send you a school newspaper if they have one now. Yosh is still attending school so maybe you can ask him.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="80" class="Communications  Homesickness  Forced-dispersal">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi80">takahashi-80</a></td>
-        <td class="words">
-          <div id="spoken">I’m sorry I can’t tell you where Tori or Mitsuo are. I was going to ask you in the last letter but I didn’t.</div>
-        </td>
-        <td class="timestamp"><br />Communications<br> Homesickness<br> Forced-dispersal</td>
-      </tr>
-
-      
-  
-  
-      <tr id="81" class="Education  Forced-dispersal">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi81">takahashi-81</a></td>
-        <td class="words">
-          <div id="spoken">No, Joe and John are still in grade six they should be in seven but they won’t put them up. Harry is only in 4 but should be in five. Our boss made a covered wagon so they don't’ have to walk to school.</div>
-        </td>
-        <td class="timestamp"><br />Education<br> Forced-dispersal</td>
-      </tr>
-
-      
-  
-  
-      <tr id="82" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi82">takahashi-82</a></td>
-        <td class="words">
-          <div id="spoken">This letter is only a big jumble but I hope you can read it. I’m signing off here so Good-bye till the next letter.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="83" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi83">takahashi-83</a></td>
-        <td class="words">
-          <div id="spoken">Jack Takahashi</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="84" class="Homesickness  Communications">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi84">takahashi-84</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Tell Don and the others to write because I don’t know there [sic] address</div>
-        </td>
-        <td class="timestamp"><br />Homesickness<br> Communications</td>
-      </tr>
-
-      
-  
-  
-      <tr id="85" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi85">takahashi-85</a></td>
-        <td class="words">
-          <div id="spoken">Box 76,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi85">Letter 6</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="86" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi86">takahashi-86</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alta.,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="87" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi87">takahashi-87</a></td>
-        <td class="words">
-          <div id="spoken">Oct. 28, 1943</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="88" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi88">takahashi-88</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="89" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi89">takahashi-89</a></td>
-        <td class="words">
-          <div id="spoken">Hello! Joan. This is your old school pal Jack writing a few lines again. Sure is a long time since we heard from each other.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="90" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi90">takahashi-90</a></td>
-        <td class="words">
-          <div id="spoken">How’s school? No doubt your [sic] getting along fine there. Sure wish I was still going to Q.E. In Alberta school started on the 10th of October and I just started on the 21, that’s yesterday. It feels sort of funny to be in grade 10 with all the younger pupils. The courses have been changed so the schooling is much better. In grade 10 there is 5 compulsory courses [sic]; English, Mathematics, Health, Social Studies, and Science. Besides that I take French and Industrial arts and typing. There isn’t much activity at school yet but I believe they are going to start some clubs soon. Next Friday we elect a president of the school.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="91" class="Labour-conditions  Beet-farms">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi91">takahashi-91</a></td>
-        <td class="words">
-          <div id="spoken">All summer I was away from home working on a farm as [sic] hog feeder and trader man ]. Beet topping kept us busy the last 3 weeks but now we’re finished so we can take it easy now.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br> Beet-farms</td>
-      </tr>
-
-      
-  
-  
-      <tr id="92" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi92">takahashi-92</a></td>
-        <td class="words">
-          <div id="spoken">The weather has been fair for a long while but it doesn’t look so good to-night. We have had frost in the morning just about every day since the middle of September. We had enough snow on September 18th to make everything white believe it or not. That’s the first time I saw snow in Sept. Soon we’ll be seeing plenty of snow and cold weather. I sure don’t like the winters here. Br-r-r it makes me shiver to just think of it. I guess you won’t be seeing old man winter for a while yet.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="93" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi93">takahashi-93</a></td>
-        <td class="words">
-          <div id="spoken">That’s about all so I wish my best regards and Good-bye till I write again</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="94" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi94">takahashi-94</a></td>
-        <td class="words">
-          <div id="spoken">Yours truly</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="95" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi95">takahashi-95</a></td>
-        <td class="words">
-          <div id="spoken">Jackie</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="96" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi96">takahashi-96</a></td>
-        <td class="words">
-          <div id="spoken">Box 76,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi96">Letter 7</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="97" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi97">takahashi-97</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alta.,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="98" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi98">takahashi-98</a></td>
-        <td class="words">
-          <div id="spoken">June 22 /44</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="99" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi99">takahashi-99</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="100" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi100">takahashi-100</a></td>
-        <td class="words">
-          <div id="spoken">I sent a letter to you on the 28th of Dec. but it came back to me for I put the wrong address on -- must of been day-dreaming</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="101" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi101">takahashi-101</a></td>
-        <td class="words">
-          <div id="spoken">Well how’s everything? Good as ever I hope. Not much change here -- never is.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="102" class="Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi102">takahashi-102</a></td>
-        <td class="words">
-          <div id="spoken">Talk about school. I’m sick of school. Sick of going 3 miles to learn nothing. All I learnt so far is a little math and french. Hardly learnt anything in the three subjects.</div>
-        </td>
-        <td class="timestamp"><br />Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="103" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi103">takahashi-103</a></td>
-        <td class="words">
-          <div id="spoken">School is a little bit livelier now that they play badminton during noon hours. We are making a ping pong table in shop so we’ll be able to play ping pong soon. The tumbling club isn’t getting</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="104" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi104">takahashi-104</a></td>
-        <td class="words">
-          <div id="spoken">ahead very fast. Yesterday we had club period so I went down to tumblr and I was doing these forward rolls and things again I don’t think I’ll go down to tumble again till they get a little better.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="105" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi105">takahashi-105</a></td>
-        <td class="words">
-          <div id="spoken">Last night we (the B team) went to Cardstone to play basketball and lost by one point. Two weeks from now we play them again on our own floor. On the 7th we beat Raymond by about 6 points.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="106" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi106">takahashi-106</a></td>
-        <td class="words">
-          <div id="spoken">Last night going and coming back from Cardstone we were like sardines in a can. Twenty-one of us crowded in a little van about 8ft x 5ft. Four sat in the front and 17 of us were in the back crowded so much we could hardly move. There was 10 boy and 7 girls in the back. After the game last night we all were invited to a dance in an [???] Church. I was just a wall flower. They</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="107" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi107">takahashi-107</a></td>
-        <td class="words">
-          <div id="spoken">sure have a nice dancing hall there.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="108" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi108">takahashi-108</a></td>
-        <td class="words">
-          <div id="spoken">I read your [sic] having nice weather on the coast. Well we haven’t anything to kick about for we are having swell weather too. We haven’t seen snow since Christmas when we had a little snow. The days are really warm but the last few days the darn wind has been blowing terribly. Most of the ice have [sic] melted now so we can’t go skating.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="109" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi109">takahashi-109</a></td>
-        <td class="words">
-          <div id="spoken">I’ve got to go [???] now so I’ll close here. Oh yes I got a few souvenir hankies so I thought I should send one to you.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="110" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi110">takahashi-110</a></td>
-        <td class="words">
-          <div id="spoken">Well So-Long now</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="111" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi111">takahashi-111</a></td>
-        <td class="words">
-          <div id="spoken">Yours sincerely</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="112" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi112">takahashi-112</a></td>
-        <td class="words">
-          <div id="spoken">Jack T.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="113" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi113">takahashi-113</a></td>
-        <td class="words">
-          <div id="spoken">Atlas ??? Co. Camp 9</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi113">Letter 8</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="114" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi114">takahashi-114</a></td>
-        <td class="words">
-          <div id="spoken">Rocky Mt. House, Alta.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="115" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi115">takahashi-115</a></td>
-        <td class="words">
-          <div id="spoken">February 16, 1945</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="116" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi116">takahashi-116</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="117" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi117">takahashi-117</a></td>
-        <td class="words">
-          <div id="spoken">The last time I wrote must have been around December of 1943 or the beginning of 44. A year has gone by and it sure did go fast.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="118" class="Labour-conditions  education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi118">takahashi-118</a></td>
-        <td class="words">
-          <div id="spoken">I must have been still going to school when I wrote the last time. Last March I stopped school again before I finished grade 10 and went to work on a farm and worked there most of the summer and fall. The summer past [sic] without much change. Fall came and passed by November the tenth I left with my brother to camp. I’ve been up here in the wilderness since then and intend to stay till the end of March.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br> education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="119" class="Living-conditions  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi119">takahashi-119</a></td>
-        <td class="words">
-          <div id="spoken">Life isn’t very exciting up here. Work day after day and no where to spend our money or have a little fun once in a while. Rocky Mt. House Town is about 35 miles from here so we can’t go there when we feel like going. Two weeks ago was the first time I saw the town since I came here and most of the boys here haven’t had the chance. I had to see the dentist so i got off a couple of days. Lumber trucks have lumber every day so there is transportation if you get off. Rocky town is right at the foothills of the Rockies and is only a small town just like Magrath or any of the Southern Alberta towns.</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="120" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi120">takahashi-120</a></td>
-        <td class="words">
-          <div id="spoken">After work hours are spent by reading, writing, or playing cards or just sitting around talking. Sitting</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="121" class="Recreation">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi121">takahashi-121</a></td>
-        <td class="words">
-          <div id="spoken">around and talking is the favorite pastime. Sometimes we listen to records or listen to the radio. No there isn’t much here to do to pass time. Sundays are spent like any evening -- nothing to do.</div>
-        </td>
-        <td class="timestamp"><br />Recreation</td>
-      </tr>
-
-      
-  
-  
-      <tr id="122" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi122">takahashi-122</a></td>
-        <td class="words">
-          <div id="spoken">The work here isn’t bad at all for I really like the trees and woods for I’ve always lived in it. The trees only average 20 inches and a few 3 ft so they can’t be compared with B.C. logs.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="123" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi123">takahashi-123</a></td>
-        <td class="words">
-          <div id="spoken">The logs are small so most of the work is done by hand here. First the trees are fallen, branches cut off, and cut to length of 12, 14, 15, 18 or 20 feet. Then the logs are hauled out by horses to skidways and loaded on sleighs (that’s my job - been at it about 2 months) and sent to the mill and cut. The loading is done all by hand so when large logs come out we have quite a time loading them. Soon they intend to drag out long logs with catipillars [sic] and cut them up at once place then send them to the mill. This way they wouldn’t use as much [sic] horses as the way we are doing it.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="124" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi124">takahashi-124</a></td>
-        <td class="words">
-          <div id="spoken">Each day we are supposed to put in 8 hrs but the bush crew only put in about 7 hrs while the mill crew has to put 9 hrs in. Working hours are supposed to be from 7:30 to 12:00 then from 1:00 to 5:30. We start from 8:00 and stop about 5:00. Dinner time we stop work around 11:30 and don't’ start work till about 1:30.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="125" class="Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi125">takahashi-125</a></td>
-        <td class="words">
-          <div id="spoken">The weather all along has been pretty fair some days it got a little cold but most of the time it has been warm. Yesterday it turned</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="126" class="Labour-conditions  Living-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi126">takahashi-126</a></td>
-        <td class="words">
-          <div id="spoken">awfully cold and this morning it dropped to 38 degrees below zero so we didn’t have to go out to work. When it goes till below 30 below we don’t have to work. This is the first time it got so cold. Just last week it was up to around 40 above with the snow melting. We have still about 10 inches of snow around the bush in places.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions<br> Living-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="127" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi127">takahashi-127</a></td>
-        <td class="words">
-          <div id="spoken">Although I’m fed up with everything here, I intend to stick here till end of March so I’m waiting for the day to return back to civilization.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="128" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi128">takahashi-128</a></td>
-        <td class="words">
-          <div id="spoken">The best regards to you and all and thanks for the Christmas card - sorta late to thank you but later is better than never I guess. Well I’ll say good bye now.</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="129" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi129">takahashi-129</a></td>
-        <td class="words">
-          <div id="spoken">Yours Sincerely</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="130" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi130">takahashi-130</a></td>
-        <td class="words">
-          <div id="spoken">Jackie Takahashi</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="131" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi131">takahashi-131</a></td>
-        <td class="words">
-          <div id="spoken">Magrath Alta.,</div>
-        </td>
-        <td class="timestamp">
-          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi131">Letter 9</a><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="132" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi132">takahashi-132</a></td>
-        <td class="words">
-          <div id="spoken">February 24, 1947</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="133" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi133">takahashi-133</a></td>
-        <td class="words">
-          <div id="spoken">Dear Joan,</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="134" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi134">takahashi-134</a></td>
-        <td class="words">
-          <div id="spoken">Hello Joan -- I think that’s a better way than just saying Dear Joan --</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="135" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi135">takahashi-135</a></td>
-        <td class="words">
-          <div id="spoken">I hope except [sic] my apologies for not answering your letter sooner. To tell you the truth I started one before but didn’t answer it - it’s just like me - plenty of time to do everything but to [sic] lazy to do anything --</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="136" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi136">takahashi-136</a></td>
-        <td class="words">
-          <div id="spoken">Well it sure has been a long time since I have corresponded with you. I’m still alive and living yet if you didn’t know. I don’t remember the last time I wrote but things are much the same -- I’ve kept myself busy doing [???] -- working in a cannery and going to the bush in the north --</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="137" class="Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi137">takahashi-137</a></td>
-        <td class="words">
-          <div id="spoken">I was there in the bush for only 2 months this winter -- came home a month ago with a few dollars to show -- I’m living a life of ease at present but I find it sure is hard on my pocketbook. I had a job with a carpenter for 2 days but cold weather ended that. We had good weather after but I had other business so never got to working -- I stay home in the hotel and with my pal but since I can’t get to work I guess I’ll go home again.</div>
-        </td>
-        <td class="timestamp"><br />Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="138" class="Forced-dispersal  Labour-conditions">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi138">takahashi-138</a></td>
-        <td class="words">
-          <div id="spoken">We’ve been here for four long years now and most of us not knowing what our future will be. This winter a great many Japanese have went east hoping to find a better future. Last week I went to Brooks-(about 100 miles from here) to see a farm-- We’re now intending to go there try our luck in farming -- I found the town of Brooks a fairly nice place. My dad’s getting on</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal<br> Labour-conditions</td>
-      </tr>
-
-      
-  
-  
-      <tr id="139" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi139">takahashi-139</a></td>
-        <td class="words">
-          <div id="spoken">age now and my brothers coming up mechanics so I have to take over the family and that I don’t like.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="140" class="Education  Photographs">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi140">takahashi-140</a></td>
-        <td class="words">
-          <div id="spoken">My brothers are still going to school yet. My twin brothers are just in 10 now. They should be in 11 but they had to one year back when we came for the school wouldn't let them up for they never finished their term when we left. Henry is in 8 I think. -- I’m enclosing a snap of me and my brothers -- it’s not a very clear picture though but I thought maybe you would like to see it. Sometime if I ever get a good one of myself I’ll send it to you -- Say Joan I sure would like to get one of you. --</div>
-        </td>
-        <td class="timestamp"><br />Education<br> Photographs</td>
-      </tr>
-
-      
-  
-  
-      <tr id="141" class="Living-conditions  Forced-dispersal">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi141">takahashi-141</a></td>
-        <td class="words">
-          <div id="spoken">I sure hate to leave Magrath for the people here are sure treating us as citizens. This is the only town in Alberta they gave us the right to vote in a town election. Some of us have joined into the clubs and they sure treat us swell. -- But the future here sure doesn’t look very good here I tried to rent a farm here too but with no success so we’ll be going to Brooks as far as I know. We have regulations upon us so we can’t do everything we please -- though they have cancelled many of the regulations. --</div>
-        </td>
-        <td class="timestamp"><br />Living-conditions<br> Forced-dispersal</td>
-      </tr>
-
-      
-  
-  
-      <tr id="142" class="Forced-dispersal  Education">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi142">takahashi-142</a></td>
-        <td class="words">
-          <div id="spoken">You ask me about the other fellows you know -- well I don’t know much about them either for you know how my correspondence is. I read about Tom Hashibo [?] a few weeks ago. Sure wish I could send you that article from the paper -- He got the highest honor in a university in Montreal I think and now is attending one in Ohio now. He sure is getting places. Sure wish I were in his shoes -- Other fellows I don’t know</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal<br> Education</td>
-      </tr>
-
-      
-  
-  
-      <tr id="143" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi143">takahashi-143</a></td>
-        <td class="words">
-          <div id="spoken">much about.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="144" class="Forced-dispersal  Homesickness">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi144">takahashi-144</a></td>
-        <td class="words">
-          <div id="spoken">Say Joan -- You do sound a little -- can’t think of a right word -- my vocabulary isn’t very good. You said foul tempered but I would say that -- anyways cheer up chum -- life isn’t that bad is it -- I guess everyone gets lonesome for home and other things but one has to some work to live so I’ve found out -- I think when you get to know a place for a while you start to like it even if it is a dead place -- Magrath is just a small store on a road but now I hate to leave it -- I sure hated the place the first few years --.</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal<br> Homesickness</td>
-      </tr>
-
-      
-  
-  
-      <tr id="145" class="Joan">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi145">takahashi-145</a></td>
-        <td class="words">
-          <div id="spoken">You say you are a terrible teacher -- I wouldn’t say that for I know your intelegent [sic] enough -- I think -- (don’t take that serious - I like tickeling [sic] people) -- for I sure couldn’t keep up to your marks ever. -- good old school days. --</div>
-        </td>
-        <td class="timestamp"><br />Joan</td>
-      </tr>
-
-      
-  
-  
-      <tr id="146" class="Forced-dispersal">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi146">takahashi-146</a></td>
-        <td class="words">
-          <div id="spoken">Say Joan you say you are nineteen and you hate getting old -- I wouldn’t call that old. I myself am a year older but I don’t mind and feel fine although a woman is suppose [sic] to be a few years older than a man the same age -- I was fourteen when I came here and those five years have sure changed me a lot in way of life. I guess I grew a little too -- I’m 5ft 6 now and have been for the last 4 years -- My brothers that is the twins are getting bigger than me. Soon I’ll be the smallest. My older brother is about 5 ft 9. --</div>
-        </td>
-        <td class="timestamp"><br />Forced-dispersal</td>
-      </tr>
-
-      
-  
-  
-      <tr id="147" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi147">takahashi-147</a></td>
-        <td class="words">
-          <div id="spoken">Can’t think of anything else to write about at present so I take this [???] to say good bye dear teacher --</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="148" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi148">takahashi-148</a></td>
-        <td class="words">
-          <div id="spoken">I wish you my best regards and say good bye again.</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="149" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi149">takahashi-149</a></td>
-        <td class="words">
-          <div id="spoken">Yours very sincerely</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="150" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi150">takahashi-150</a></td>
-        <td class="words">
-          <div id="spoken">Jackie</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      
-  
-  
-      <tr id="151" class="Writing">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi151">takahashi-151</a></td>
-        <td class="words">
-          <div id="spoken">P.S. Hoping this have found you fine and healthy. Hoping you’re able to read my small and pardon my mistakes for I never reread or rewrite my letters</div>
-        </td>
-        <td class="timestamp"><br />Writing</td>
-      </tr>
-
-      
-  
-  
-      <tr id="152" class="">
-        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi152">takahashi-152</a></td>
-        <td class="words">
-          <div id="spoken">Good night Joan --</div>
-        </td>
-        <td class="timestamp"><br /></td>
-      </tr>
-
-      </table>
-  </div>
-  
-  
-  
-  
-  
-  <div class="contentsdiv">
     <h3 class="my-4 mototsune"><a href="/gillis-2021_ohd/transcripts/mototsune.html">Mototsune</a></h3>
-    <table id="contents-container" class="my-4 border mototsune ">
+    <table id="contents-container" class="my-4 border mototsune bg-light">
       <tr id="1" class="">
         <td class="line"><a href="/gillis-2021_ohd/transcripts/mototsune.html#mototsune1">mototsune-1</a></td>
         <td class="words">
@@ -15323,6 +11372,6992 @@ for landowner/supervisor/'boss']"</td>
       </table>
   </div>
   
+  
+  
+  
+  
+  <div class="contentsdiv">
+    <h3 class="my-4 nakamura"><a href="/gillis-2021_ohd/transcripts/nakamura.html">Nakamura</a></h3>
+    <table id="contents-container" class="my-4 border nakamura ">
+      <tr id="1" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura1">nakamura-1</a></td>
+        <td class="words">
+          <div id="spoken">c/o A. O. Peterson,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura1">Letter 1</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="2" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura2">nakamura-2</a></td>
+        <td class="words">
+          <div id="spoken">Box 173, Magrath, Alberta</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="3" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura3">nakamura-3</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="4" class="Writing Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura4">nakamura-4</a></td>
+        <td class="words">
+          <div id="spoken">Here I am again. I hope that I am not bothering you too much; "You know Final Exams and all that." I'm awfully sorry I did not answer yours of the 1st of this month, any to quick. You know me "The lazy good-for nothing I guess." Well to start off with I enjoyed your letter very very much. I really did.</div>
+        </td>
+        <td class="timestamp"><br />Writing<br>Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="5" class="Beet-farms Labor-conditions [insert proper term for landowner/supervisor/'boss']">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura5">nakamura-5</a></td>
+        <td class="words">
+          <div id="spoken">The real reason I could not write any sooner was because I hurt my right hand. I was helping my boss pile up some scrap iron he had around his big farm when an old iron plow fell across the back of my ooh! knuckles?? (how do you spell it?) metacarpals and carpals. The Boss thought it was broken but I said it didn't hurt much (not much oh yes!) You know how it is when a person is around when you get hurt. Well, we finished in about 1 1/2 hrs. I got off from work so I had my hand plastered and bandaged for a couple of days. I took it off on 14th "yesterday", and boy was it swollen up.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br>Labor-conditions<br>[insert proper term for landowner/supervisor/'boss']</td>
+      </tr>
+
+      
+  
+  
+      <tr id="6" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura6">nakamura-6</a></td>
+        <td class="words">
+          <div id="spoken">It's still a bit swollen but I can write now. I'm always writing about my own sorrows etc so don't mind me.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="7" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura7">nakamura-7</a></td>
+        <td class="words">
+          <div id="spoken">We had snow last night. Imagine! 3 inches of snow in the middle of May. And icicles and ice... Gosh! I was surprised enough when we had snow twice in April. And talk about mud. Oh! It's just mud anyway. Even on the No. 5 Alberta Highway it's just about 6 inches mud. Then when you get in the side roads its a foot thick. (I mean it's very muddy). Cars cannot run on the roads when it rains.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="8" class="Homesickness Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura8">nakamura-8</a></td>
+        <td class="words">
+          <div id="spoken">How's B.C.? To-day as I was listening to CBC about 8.30 to 9 P.M. (7:30-8:00 PM your way) I heard the announcer say "As I look across the Inlet from the " " Hotel (I forgot the hotel I could see the colorful Hillsides, the spring or was it early summer, atmosphere is in our surroundings in Western B.C." Something to that effect anyway. It sure reminded me of Surrey. Gee! I was hoping that he would go on but he started on some talk about the Blind being trained for defense work such as serving on Canteen trucks etc. I sure miss the funnies! We take the Lethbridge Herald a corny paper that comes whenever it feels like coming. It's supposed to be a daily paper.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="9" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura9">nakamura-9</a></td>
+        <td class="words">
+          <div id="spoken">It has no news of B.C. so we are arranging to have the Sun or Province paper sent to us from an Agent in Raymond or Magrath. Oh! yes. Thanks for that paper clipping. It sure was thoughtful of you to do so.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="10" class="Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura10">nakamura-10</a></td>
+        <td class="words">
+          <div id="spoken">Say if you ever hear from Yoshiyuki or Albert or any of those boys who went to a different place from myself, will you please send me their addresses? I sent a letter to Mr. Matheson and Miss Nordberg, but I didn't hear from them since. Gosh! I'm just about going to be disappointed. I'll wait a few more days to get an answer, and if I don't, then I really will be disappointed. I've been waiting since May 1st.</div>
+        </td>
+        <td class="timestamp"><br />Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="11" class="Recreation Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura11">nakamura-11</a></td>
+        <td class="words">
+          <div id="spoken">I spent my birthday in Alberta (at home). It was the 11th day of May. I never dreamt that I would be spending or rather have my birthday celebration in Alberta, of all places. Oh! the weather was awful. The road muddy. Then when it cleared a bit, my brother and his friend and I decided to go to Lethbridge 25-30 miles away, but oh! darn the rain, no car could go because of the mud, so I stayed home and read a book, I mean some Saturday Evening Posts.</div>
+        </td>
+        <td class="timestamp"><br />Recreation<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="12" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura12">nakamura-12</a></td>
+        <td class="words">
+          <div id="spoken">There's lots of gophers here. Hundreds of them.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="13" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura13">nakamura-13</a></td>
+        <td class="words">
+          <div id="spoken">The boss' son (6 ft?) and I went to shoot some to-day. We shot quite a number. Cruel aren't we.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="14" class="Mail Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura14">nakamura-14</a></td>
+        <td class="words">
+          <div id="spoken">I must close now, my hand still aches a bit. I'll write some more of nothing, but please ask Anne, Betty, Margaret and [...?] to write to me so I can get their addresses and answer them. Please!</div>
+        </td>
+        <td class="timestamp"><br />Mail<br>Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="15" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura15">nakamura-15</a></td>
+        <td class="words">
+          <div id="spoken">So long.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="16" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura16">nakamura-16</a></td>
+        <td class="words">
+          <div id="spoken">Yours Sincerely,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="17" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura17">nakamura-17</a></td>
+        <td class="words">
+          <div id="spoken">Yosh Nakamura</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="18" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura18">nakamura-18</a></td>
+        <td class="words">
+          <div id="spoken">P.S. If you can't make heads or tales of this scrawl, just burn it.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="19" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura19">nakamura-19</a></td>
+        <td class="words">
+          <div id="spoken">Box 173, Magrath, Alta</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura19">Letter 2</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="20" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura20">nakamura-20</a></td>
+        <td class="words">
+          <div id="spoken">July 20/43.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="21" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura21">nakamura-21</a></td>
+        <td class="words">
+          <div id="spoken">Dear Gang-</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="22" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura22">nakamura-22</a></td>
+        <td class="words">
+          <div id="spoken">I guess it's useless to start apologizing and making excuses for not writing these past centuries. I must have had a touch of laziness again. Well, may I begin to tell you all or nearly all that happened since I last wrote? O.K.? Swell.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="23" class="Recreation Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura23">nakamura-23</a></td>
+        <td class="words">
+          <div id="spoken">To begin with the last time I wrote was in March wasn't it? or was it before that. About that time we were all practising to put on a concert or "Club Review" as we called it, on the end of March. </div>
+        </td>
+        <td class="timestamp"><br />Recreation<br>Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="24" class="Homesickness Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura24">nakamura-24</a></td>
+        <td class="words">
+          <div id="spoken">You know, something like the big concert we had in Q.E.? only it wasn't half so good.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="25" class="Living-conditions Recreation Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura25">nakamura-25</a></td>
+        <td class="words">
+          <div id="spoken">The surprising part of it was that they never had such a concert like this before in Magrath. We had a packed house both times. (We put it on 2 nights.) It was the greatest success Magrath has ever put on. School inspectors and other school teachers etc. commented on it very highly. They has such things as dancing displays, plays (short) tumbling (I gave them a sample of Q.E. tumbling) with 3 other boys; the school band (5 piece)</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br>Recreation<br>Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="26" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura26">nakamura-26</a></td>
+        <td class="words">
+          <div id="spoken">songs by the glee club and a few other items. There was a dance after each performance (I mean at the end of each night.). That concert was the talk of the town for a month.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="27" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura27">nakamura-27</a></td>
+        <td class="words">
+          <div id="spoken">We had pictures taken etc. I got hold of me print of myself on top of a pyramid and had it autographed by the other fellows I'll get hold of another and send it over. We had fun doing it too.</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="28" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura28">nakamura-28</a></td>
+        <td class="words">
+          <div id="spoken">All the time in between, we played badminton.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="29" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura29">nakamura-29</a></td>
+        <td class="words">
+          <div id="spoken">A week after the concert we had Easter exams. Pretty fair tests. Only some dopey girls (excuse me) cheated and got caught. Boy, was there a row over it.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="30" class="Labour-conditions [insert proper term for landowner/supervisor/'boss']">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura30">nakamura-30</a></td>
+        <td class="words">
+          <div id="spoken">Easter holidays came and I went to herd sheep about 60-70 miles from here. My boss has a couple of thousand head of sheep there. There were 3 of us boys and 2 men working there. It was lambing season so we were very busy. My boss couldn't get anybody to take my place so I had to stay away from school all May. I really was a shepherd of the hills then. I had to watch and take care of 1500 head of ewes and little lambs. The last week I was there I had to take the herd a few miles away from the other sheep so that they do not mix. I had to stay all by myself for a week.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>[insert proper term for landowner/supervisor/'boss']</td>
+      </tr>
+
+      
+  
+  
+      <tr id="31" class="Labour-conditions [insert proper term for landowner/supervisor/'boss']">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura31">nakamura-31</a></td>
+        <td class="words">
+          <div id="spoken">I had to cook by myself. I never saw a human being for 4 days. wow! what misery! Since it was better to leave the sheep outside of the corral, I had to watch them longer. The darn sheep head for all over the places as soon as it gets light and I do not stop till dark. I watched them all day and bring them back at night. I watch them till about 9-9:30 P.M. In the morning I have to get up between 4.30 A.M. and 5 A.M., catch a bite to eat and put some oranges etc. in my pocket for a mid-morning bite and off I go. I'll tell you now that I'll never do that again. I went there expecting to be home in 1 week but I had to stay 22 days! My boss sure was glad cause I stayed for him. If it was some grumpy old guy I might have left but he's been very good to us so I stayed for him. While I was there I found lots of pieces of petrified wood. If you'd like to see some I'll send some over. Let me know eh? I turned a combination of geologist and a herder. I found a number of pieces of petrified wood. Big and small; from 1 oz. to 15 lbs.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>[insert proper term for landowner/supervisor/'boss']</td>
+      </tr>
+
+      
+  
+  
+      <tr id="32" class="Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura32">nakamura-32</a></td>
+        <td class="words">
+          <div id="spoken">So much for that. When I came home I found that the beets were awaiting me. Well for</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="33" class="Beet-farms Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura33">nakamura-33</a></td>
+        <td class="words">
+          <div id="spoken">nearly a month I thinned beets ugh! what a job but was it a relief when we finished in June, about the 24th.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="34" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura34">nakamura-34</a></td>
+        <td class="words">
+          <div id="spoken">I went back to school just before this and found out that I was recommended in all subjects. They said that I cannot receive my Senior Matric this year 'cause the credits are rather on the low side. That is, they took away so much that I'll have to go back another year. Same with Tom Tsukishima. I'm thinking of going back next year.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="35" class="Homesickness Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura35">nakamura-35</a></td>
+        <td class="words">
+          <div id="spoken">Say, thanks for sending me the Q.E. Vue Joan, it sure was swell. To tell you the utmost truth I just about felt like crying when I read about the graduation and to think that I would have been there too. Gosh! I sure had a swell time while I attended good old, I mean new Q.E. Gosh! but I've finally lost hope of getting that Q.E. pin which I was supposed to have won. I wrote to "Stinky" but no response. I guess he decided that it was just a waste to send it to me eh?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="36" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura36">nakamura-36</a></td>
+        <td class="words">
+          <div id="spoken">What are you all doing nowadays? Having fun? I hope so.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="37" class="Labour-conditions Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura37">nakamura-37</a></td>
+        <td class="words">
+          <div id="spoken">Nearly everyday except Sundays and 1st of July, I've been working out on the prairies. Wow! is it ever hot! We hayed</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="38" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura38">nakamura-38</a></td>
+        <td class="words">
+          <div id="spoken">for a week in the blazing heat. It was 114° F at 6 P.M. so you can guess how hot it was at 1 or 2 P.M. Sweat just pours down in streams and water just flows nearly continuously down the hatch. I guess we drink a gallon or two of water each day. I've been mowing and raking hay these last few days and we start to hay again on Thursday.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="39" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura39">nakamura-39</a></td>
+        <td class="words">
+          <div id="spoken">On the 24th of July a holiday for Magrath (It's birthday) us Evacuees play ball against the Local boys. We have formed a team and have practised every Sunday for about a month. We have fun tho'. Last Sunday after ball practise we had a wiener roast beside a canal and enjoyed it very much. The brains of a working boy drains and wanes fast so I'll close now before I lose all of my precious knowledge juice.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="40" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura40">nakamura-40</a></td>
+        <td class="words">
+          <div id="spoken">So long-</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="41" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura41">nakamura-41</a></td>
+        <td class="words">
+          <div id="spoken">As ever</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="42" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura42">nakamura-42</a></td>
+        <td class="words">
+          <div id="spoken">Yoshio</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="43" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura43">nakamura-43</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Hoping against hope that you were able to read the ink lines.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="44" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura44">nakamura-44</a></td>
+        <td class="words">
+          <div id="spoken">Jan. 3, 1945,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura44">Letter 3</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="45" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura45">nakamura-45</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan -</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="46" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura46">nakamura-46</a></td>
+        <td class="words">
+          <div id="spoken">To-day is the 3rd of January. oh yes! May I wish you a Happy New Year? Did you have a White Xmas? I had a pretty nice Xmas–and New Years too.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="47" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura47">nakamura-47</a></td>
+        <td class="words">
+          <div id="spoken">To-day is Wednesday and a half holiday in the afternoon at the store. I've been working in the store for over a month now and I like it very much.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="48" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura48">nakamura-48</a></td>
+        <td class="words">
+          <div id="spoken">Gosh but I've been going to parties and shows and games so much that I have never slept earlier than 2:30 A.M. each night. Last night was the last one, I hope. We had a grand time at the parties though.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="49" class="Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura49">nakamura-49</a></td>
+        <td class="words">
+          <div id="spoken">Gosh! Joan, I'm sorry I did not send the parcel sooner. I have to go to work by 8 A.M. and after work at 6, I come home do bit of this and that; have supper and off we go.</div>
+        </td>
+        <td class="timestamp"><br />Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="50" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura50">nakamura-50</a></td>
+        <td class="words">
+          <div id="spoken">How are you getting along in school now. How does it feel to be a senior–the Undergrads. Gee! everytime I think of the school I sure sit and dream of what I might have done in the last year.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="51" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura51">nakamura-51</a></td>
+        <td class="words">
+          <div id="spoken">I was going to write some more of the story? wasn't I. Well, here I start again on the 2nd half of the 1st Chapt.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="52" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura52">nakamura-52</a></td>
+        <td class="words">
+          <div id="spoken">"The 7th of dec. was on a Sunday. On Monday I went to school wondering how I was going to go through the whole day as if nothing had happened and wondering</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="53" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura53">nakamura-53</a></td>
+        <td class="words">
+          <div id="spoken">how the teacher and other students would [red text: ?] react toward me. Most of my worries were over that 1st period. The bell rang for the 1st period and quietly we all went to the assigned rooms for Algebra. Our principal taught us that subject. When he came in I could see that he was under some sort of a strain, probably, I thought, as I was. When he got to the desk he looked toward me and said, jokingly. "How did the basketball game turn out?" Knowing that our high school team lost to another high school about 20 miles away; that last Friday evening. He asked me a few more questions and I answered with a laugh as best I could. I knew then that he was trying to ease the tension caused by this suddenly erupted chaos. Words cannot express what those few words did to me and others [red text: who] that were in the same [red text: position] boat as I was. The lesson went over in the usual pattern. For at least a month I went through lessons in a semi-strained way.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="54" class="Forced-dispersal Education WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura54">nakamura-54</a></td>
+        <td class="words">
+          <div id="spoken">After that life at school was swell for awhile. The reason why I say "For a while," is [red text: that] because in March all the boys like myself "the Japanese-Canadians" were called into a counselling room and were told that we were barred from further participation in the high school army cadet corps. In all my school career that was my first and worst heart-breaking experience. There were thirty of us in that room wondering why we were called here. We laughed and joked till the principal came in and conveyed to us the ill-news. You should have seen the expression on their faces; dumbfounded; and looked as if they were all asking the same question "Why do they have to do this to us?" Then sadly with bowed heads we silently listened. I couldn't imagine such an order coming from a ministry of Education. The Cadet Corps was one subject in the curriculum I loved very much. I liked that branch so much that I studied all the notes that were given me. We drilled and practised quite a lot. The Battalion was divided into units consisting of the First Aid Corps, Signal Corps, and Officer training Corp. All those wishing to become officers and noncoms</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br>Education<br>WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="55" class="Forced-dispersal Education WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura55">nakamura-55</a></td>
+        <td class="words">
+          <div id="spoken">were given tests based on what we had learned so far. Out of the cadets who wrote the exams five corporals were picked, of [red text: whom] which I was one. Later we became candidates for officers training. We studied map reading and other subjects which were essential. The whole course was very interesting. I can say very easily that the rest of the boys like myself liked that very much. The action of barring us from participation in the cadet corps put a brand on us in a way. When the rest of the students would be having corps practise we would be doing other things less interesting. Even if it was supposed to be interesting one [red text: could] cannot expect us to like it. Around about this time studying became less and less important to me and to a lot of others like myself. Long before the Easter holiday I hardly ever took my books home and did not prepare my lessons. The time came one April afternoon when we were told that we were going to Alberta. This was the sixteenth day of April 1942."</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br>Education<br>WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="56" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura56">nakamura-56</a></td>
+        <td class="words">
+          <div id="spoken">Well Joan, I'll leave it at that for now. I still have a lot of mistakes and everything wrong with the grammar and punctuation and etc. so you'll have to sort of put it together like a puzzle. If you have time, Joan, I'd like very much if you would re-read the 1st and this last part and sort of fix it up; and tell me where I should fill in more and etc. Will you please? I do not intend this to be a story or an essay–I'd like to sort of have it like a long letter to a friend.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="57" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura57">nakamura-57</a></td>
+        <td class="words">
+          <div id="spoken">This last Friday I met Sonny and Mae in Raymond for the first time in 3 years. Gee! but I was sure glad to see them; I mey Ally too. He came to see me yesterday again and we went to a show and talked after till after midnight.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="58" class="Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura58">nakamura-58</a></td>
+        <td class="words">
+          <div id="spoken">By the way Joan, where do Betty and Margie teach? Do you know their address. I sent a card to May Webb but as yet I have no answer. I heard that Dot Kan is still stationed in Calgary so I may see her. I sure wish I could see you, Betty and Margie soon. We may not recognize each other first but after all 3 years or more is a long time. Remember when Betty went past Calgary? Well, I never got the letter in time to know she was going past Calgary and did not know what time and date she'd pass so I couldn't go to Calgary. Gosh! but I sure wished I knew what date and time. I'll write again soon Joan so untill then solong</div>
+        </td>
+        <td class="timestamp"><br />Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="59" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura59">nakamura-59</a></td>
+        <td class="words">
+          <div id="spoken">As ever</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="60" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura60">nakamura-60</a></td>
+        <td class="words">
+          <div id="spoken">Yosh</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="61" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura61">nakamura-61</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Send me some snaps of yourself Joan. Will you please?</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="62" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura62">nakamura-62</a></td>
+        <td class="words">
+          <div id="spoken">Magrath, Alta.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura62">Letter 4</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="63" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura63">nakamura-63</a></td>
+        <td class="words">
+          <div id="spoken">Sept. 19/45</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="64" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura64">nakamura-64</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan;</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="65" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura65">nakamura-65</a></td>
+        <td class="words">
+          <div id="spoken">I am really at a loss as to how I should apologize for the long silence. I have to apologize to a number of other people too, cause I did not write for so long. e.g. Masao, May Ohama, May Webb, Bob Inouye, Dott Kan etc.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="66" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura66">nakamura-66</a></td>
+        <td class="words">
+          <div id="spoken">This summer we had to work such long hours and nearly all the Sundays. We worked from 12 to 14 hours a day in the busy times. Now we work between 10 to 12 hours. All summer I only had 2 Sundays off. I really loathe to work on Sabbath day, but it was work that had to be done—irrigating. I am glad, so very glad, that we have finished with it now. After we finish</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="67" class="Beet-farms Labour-conditions Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura67">nakamura-67</a></td>
+        <td class="words">
+          <div id="spoken">topping the beets I’ll be happier still. </div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br>Labour-conditions<br>Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="68" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura68">nakamura-68</a></td>
+        <td class="words">
+          <div id="spoken">Had I really wanted to write and made myself write, I could have done so, but in the hot sweltering heat when one works for so long it just drives the energy from your body and after you have supper at anytime between 7.30 and 9 P.M.—sleep and rest is all you think off.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="69" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura69">nakamura-69</a></td>
+        <td class="words">
+          <div id="spoken">I really should have written long ago but another reason is plain laziness. Shall I come back and start writing a letter? Okay.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="70" class="Joan Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura70">nakamura-70</a></td>
+        <td class="words">
+          <div id="spoken">First of all, how are you Joan? I hope you are in the best of health. Are you going to normal school now? I am still working on the Farm. I do not know if I will work in the store this winter or not.</div>
+        </td>
+        <td class="timestamp"><br />Joan<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="71" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura71">nakamura-71</a></td>
+        <td class="words">
+          <div id="spoken">Yesterday I went to the dentist in Lethbridge and suffered from 11 AM till after 3 PM. I did not have dinner so I got a bite to eat & ran to the bus terminal to catch the bus. Since yesterday morning we have had snow and later rain till this morning. The sun is out now for a change.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="72" class="Recreation Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura72">nakamura-72</a></td>
+        <td class="words">
+          <div id="spoken">On Sunday we played a baseball game against a Raymond team and won 8—0. I got hit on the nose when I slid into a base. It’s healing now. On the end of August I had my Summer holidays and I went up to Waterton Lakes again. I had a grant time fishing, boating and biking. Gee! Joan, it’s really wonderful to be there for a few days. Even tho’ it’s only once a year.</div>
+        </td>
+        <td class="timestamp"><br />Recreation<br>Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="73" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura73">nakamura-73</a></td>
+        <td class="words">
+          <div id="spoken">The air is fresh and so—well it seems to be free of dust.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="74" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura74">nakamura-74</a></td>
+        <td class="words">
+          <div id="spoken">What have you been doing all summer Joan? Have you seen Betty and Margaret lately?</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="75" class="Patriotism WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura75">nakamura-75</a></td>
+        <td class="words">
+          <div id="spoken">Over a month ago I wrote to a Lieutenant C. Thomas ‘cause he’s the one that was recruiting us Niseis for the Can. Army. He was supposed to come to Alta but he did not so I wrote to him over a month ago telling him that I wished to volunteer in the Army Intelligence Corps. I have been awaiting answer a long time not receiving a reply, I wrote again after hearing that they needed Niseis for the army. I still have no answer yet.</div>
+        </td>
+        <td class="timestamp"><br />Patriotism<br>WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="76" class="Patriotism WWII Belonging Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura76">nakamura-76</a></td>
+        <td class="words">
+          <div id="spoken">Since V.J. day I gave up hope but when I read that Japanese-Canadians are still needed for Intelligence I wrote a second time and as yet no answer. Even tho’ the war is finished now, I may be of use if they do accept me. For years now I have been waiting for the war to end, but now that it has ended I am at a loss as to what to do. It seems I have a war to fight from now. A sight that does not need physical energy but mental. Our fight for our freedom as Canadians. We have to fight to make up our minds where we should move to. At present we are not allowed to move to B.C.</div>
+        </td>
+        <td class="timestamp"><br />Patriotism<br>WWII<br>Belonging<br>Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="77" class="Forced-dispersal Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura77">nakamura-77</a></td>
+        <td class="words">
+          <div id="spoken">As far as we know now we are free to move to points East from the 15th of November. Even if we do move east on the 15th we are subject to relocation again. It’s all so funny, so complicated. If I were just a lone ranger I would not worry so much but as it is I am a member of a family of 6. So far we have no decided on any place to move. I think we will be on this farm till next fall anyway as far as we know now.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="78" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura78">nakamura-78</a></td>
+        <td class="words">
+          <div id="spoken">Gee, Joan, I’d give anything to go back to a place near Westminster. I wonder</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="79" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura79">nakamura-79</a></td>
+        <td class="words">
+          <div id="spoken">how it is back there. I’ll bet the Maple leaves are red, yellow brown and all colours; Leaves falling down everytime a breeze comes blowing.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="80" class="Forced-dispersal Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura80">nakamura-80</a></td>
+        <td class="words">
+          <div id="spoken">I wish that I was in the East when I first moved—then I might have been in the army intelligence and would have been to Vancouver for advanced training.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="81" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura81">nakamura-81</a></td>
+        <td class="words">
+          <div id="spoken">Some more of the Japanese-Canadians who have finished their basic training in Ontario have gone to Vancouver on Sept 5 for advanced training—Gee! Joan it makes me almost cry right now—the time is 9:15 and the radio is just bringing forth</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="82" class="Belonging Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura82">nakamura-82</a></td>
+        <td class="words">
+          <div id="spoken">the swellest song “Home Sweet Home.” All the verses too. Golly—it makes a guy feel pretty lonely after not having a real home for 3 ½ years.</div>
+        </td>
+        <td class="timestamp"><br />Belonging<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="83" class="Communications Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura83">nakamura-83</a></td>
+        <td class="words">
+          <div id="spoken">I’m sorry I ran off the subject. Thanks very much for the Q.E. Vue. It was swell. I was really interested on the two views on the Japanese question. One boy really spoke from a democratic point of view and the other from the general point of view of people who are more or less leaning towards the “expulsion league.” If you can—I’d like to write a friendly letter to both—I’d like to have their addresses. I have a few copies of the pamphlets</div>
+        </td>
+        <td class="timestamp"><br />Communications<br>Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="84" class="WWII Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura84">nakamura-84</a></td>
+        <td class="words">
+          <div id="spoken">Showing what (1)—The Japanese-Americans did for the war effort. (2) Japanese-Canadians—This pamphlet was written by a Mr. Norman. It answers a lot of questions that are in the minds of the general public. At present I have not any but I’ll get some and send you a copy of each. I want to send a copy to each of those two boys. I think those two boys will appreciate getting true facts on a question they themselves did not know very well. Although what they both wrote, there was a lot of truth in it, yet there were other things that were not.</div>
+        </td>
+        <td class="timestamp"><br />WWII<br>Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="85" class="Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura85">nakamura-85</a></td>
+        <td class="words">
+          <div id="spoken">A lot of the people such as doctors, Bishops, and well-to-do farmers do not favor us or take our side (and I think that they are really swell) but they do express the democratic point of view, which Canada is following or is supposed to be in regards to the Japanese Canadians.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="86" class="Patriotism Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura86">nakamura-86</a></td>
+        <td class="words">
+          <div id="spoken">I, like hundreds of other Canadian born boys, am officially a citizen of Canada for which I was willing to serve as she wanted me to. I have done nothing bad, yet I am treated as I am. </div>
+        </td>
+        <td class="timestamp"><br />Patriotism<br>Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="87" class="Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura87">nakamura-87</a></td>
+        <td class="words">
+          <div id="spoken">I am hoping that some day, justice and true democracy will come to me.</div>
+        </td>
+        <td class="timestamp"><br />Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="88" class="Belonging">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura88">nakamura-88</a></td>
+        <td class="words">
+          <div id="spoken">Racial prejudice and discrimination are two things that are certainly not a part of democracy.</div>
+        </td>
+        <td class="timestamp"><br />Belonging</td>
+      </tr>
+
+      
+  
+  
+      <tr id="89" class="Belonging">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura89">nakamura-89</a></td>
+        <td class="words">
+          <div id="spoken">President Roosevelt made that clear in one of his later speeches. He is my ideal of “Democracy.” He was very fair but stern to the enemy, he was fair and equal to all Americans—be they Negros, Japanese, Chinese or Caucasians. I think that he was the greatest man ever to watch over a nation. Abraham Lincoln ranks with him for he was the father of Democracy.</div>
+        </td>
+        <td class="timestamp"><br />Belonging</td>
+      </tr>
+
+      
+  
+  
+      <tr id="90" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura90">nakamura-90</a></td>
+        <td class="words">
+          <div id="spoken">There I went off again. The hanky I am enclosing is a souvenir of Waterton Lakes Park. I’ll send some pictures soon.</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="91" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura91">nakamura-91</a></td>
+        <td class="words">
+          <div id="spoken">Once again I am sorry that I did not write to you more sooner. Please forgive my not writing. Hoping that I will hear from you sometime. I am</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="92" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura92">nakamura-92</a></td>
+        <td class="words">
+          <div id="spoken">As ever</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="93" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura93">nakamura-93</a></td>
+        <td class="words">
+          <div id="spoken">Yosh.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="94" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura94">nakamura-94</a></td>
+        <td class="words">
+          <div id="spoken">P.S. The program that is on right now certainly is bringing a lot of swell songs.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="95" class="Belonging Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura95">nakamura-95</a></td>
+        <td class="words">
+          <div id="spoken">P.S. The radio is playing “I dream of you”. I do really, and of the rest of the old gang. Some day, even tho’ we be almost strangers, I will visit that way.</div>
+        </td>
+        <td class="timestamp"><br />Belonging<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="96" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura96">nakamura-96</a></td>
+        <td class="words">
+          <div id="spoken">General Delivery.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura96">Letter 5</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="97" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura97">nakamura-97</a></td>
+        <td class="words">
+          <div id="spoken">Magrath, Alta.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="98" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura98">nakamura-98</a></td>
+        <td class="words">
+          <div id="spoken">July 27/48.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="99" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura99">nakamura-99</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="100" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura100">nakamura-100</a></td>
+        <td class="words">
+          <div id="spoken">After a century of silence, here I am once more. Miracles do happen don't they.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="101" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura101">nakamura-101</a></td>
+        <td class="words">
+          <div id="spoken">How are you Joan? are you getting tanned on the beaches–those wonderful salt-water beaches? I can almost smell the sea now.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="102" class="Writing Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura102">nakamura-102</a></td>
+        <td class="words">
+          <div id="spoken">Joan–it's really difficult for me to write a letter nowadays because I have never written one for years,–well, almost a year. It's been quite a while since I wrote you last (and how) and a lot has happened around here lately too.</div>
+        </td>
+        <td class="timestamp"><br />Writing<br>Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="103" class="WWII Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura103">nakamura-103</a></td>
+        <td class="words">
+          <div id="spoken">For example, I am now AC2, Nakamura R.C.A.F. as of July 20. I had been trying to get in for some time and finally after I sent my report cards, references etc</div>
+        </td>
+        <td class="timestamp"><br />WWII<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="104" class="WWII Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura104">nakamura-104</a></td>
+        <td class="words">
+          <div id="spoken">I received a telegram of my acceptance as photographer! I went to Calgary and had to write 5 exams and had a medical. After 2 days on July 20th I was sworn in. And now I am on my way to Trenton Ontario on August 17th. I get 12 weeks basic training there and then I go to Rockcliffe Ontario to train as a photographer.</div>
+        </td>
+        <td class="timestamp"><br />WWII<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="105" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura105">nakamura-105</a></td>
+        <td class="words">
+          <div id="spoken">I was hoping that I could go out to the Coast on my holidays but that will have to wait.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="106" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura106">nakamura-106</a></td>
+        <td class="words">
+          <div id="spoken">You may be wondering why I joined R.C.A.F. Well Joan, I just couldn't see any future for myself in working in a store, or working in Alta. I know that I will be able to study and kept our of mischief</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="107" class="Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura107">nakamura-107</a></td>
+        <td class="words">
+          <div id="spoken">in the Air Force. I hope that it will do me a lot of good so that I may be able to do something with myself later on.</div>
+        </td>
+        <td class="timestamp"><br />Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="108" class="Photographs Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura108">nakamura-108</a></td>
+        <td class="words">
+          <div id="spoken">By the way, do you see Betty? I am enclosing a pic of myself for you and Betty. Could you give it to Betty? I shall write to her next time.</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br>Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="109" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura109">nakamura-109</a></td>
+        <td class="words">
+          <div id="spoken">Last week end I went to Waterton Lakes and spend a couple of days there. It was really swell to get among the trees and hills. I went to the Canyon Church Camp, a camp sponsored by the United Church. We went for hikes, swimming, fishing, climbing and at night we had</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="110" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura110">nakamura-110</a></td>
+        <td class="words">
+          <div id="spoken">dances, skits and sing songs. I had a merry time. I'll have to close for now; it's getting past the wee hours. Will you write and let me know how you and the rest of the gang are doing? Bye for now.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="111" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura111">nakamura-111</a></td>
+        <td class="words">
+          <div id="spoken">As ever,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="112" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nakamura.html#nakamura112">nakamura-112</a></td>
+        <td class="words">
+          <div id="spoken">Yosh.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      </table>
+  </div>
+  
+  
+  
+  
+  
+  <div class="contentsdiv">
+    <h3 class="my-4 nagamori"><a href="/gillis-2021_ohd/transcripts/nagamori.html">Nagamori</a></h3>
+    <table id="contents-container" class="my-4 border nagamori bg-light">
+      <tr id="1" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori1">nagamori-1</a></td>
+        <td class="words">
+          <div id="spoken">P.O. Box 23</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori1">Letter 1</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="2" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori2">nagamori-2</a></td>
+        <td class="words">
+          <div id="spoken">Headingly, Man.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="3" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori3">nagamori-3</a></td>
+        <td class="words">
+          <div id="spoken">July 5 /42</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="4" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori4">nagamori-4</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="5" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori5">nagamori-5</a></td>
+        <td class="words">
+          <div id="spoken">Well here I am, back in B.C. to talk with you (I hope I was.).</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="6" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori6">nagamori-6</a></td>
+        <td class="words">
+          <div id="spoken">Thanks for your kind and most welcome letter, I received it on the 2nd.</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="7" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori7">nagamori-7</a></td>
+        <td class="words">
+          <div id="spoken">I intended on writing sooner but since we’re kinda late in thinning the bees I just couldn’t find time to write. This is one letter I had enough ambition to walk four miles to get it.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="8" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori8">nagamori-8</a></td>
+        <td class="words">
+          <div id="spoken">I couldn’t walk or ride a bike on this sticky road so I took the C.P.R which runs right through Headingly.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="9" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori9">nagamori-9</a></td>
+        <td class="words">
+          <div id="spoken"> I was sure glad you understood my letter and besides I was wondering if you still remember me because it was a long time since we seen each other.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="10" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori10">nagamori-10</a></td>
+        <td class="words">
+          <div id="spoken">Gosh I hate to be outside now, the mosquitos are buzzing outside like the bee buzzing around its hive. Ooo that one bit me in the forehead. I’ll get revenge with him yet. Oh. That reminds me, have you ever seen a</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="11" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori11">nagamori-11</a></td>
+        <td class="words">
+          <div id="spoken">“firefly,” If you like I'll send you one. If I could grab hold of one. Oh boy, they sure give off light for the size of itself.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="12" class="Living-conditions  Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori12">nagamori-12</a></td>
+        <td class="words">
+          <div id="spoken">“Roses,” there are millions of it here. Joan its a swell time to come and see me now. The roses are in full bloom, the oaks, ash, poplar, ect. [sic] are just loaded with bright green leaves. </div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="13" class="Homesockness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori13">nagamori-13</a></td>
+        <td class="words">
+          <div id="spoken">When we first came ot the prairie everything just didn’t look right.</div>
+        </td>
+        <td class="timestamp"><br />Homesockness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="14" class="Joan  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori14">nagamori-14</a></td>
+        <td class="words">
+          <div id="spoken">This here country right now isn’t too bad at all specially if your [sic] here Gosh if I had enough money now I’ll pay your fair [sic] in. There are hundreds of horse-back riders here. Gosh I sure like that, do you?</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="15" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori15">nagamori-15</a></td>
+        <td class="words">
+          <div id="spoken">About 10 days ago we were moved from Headingly to a place called West Winnipeg, which is about 5 miles south of where we use to live. This is between two tracks the C.P.R + G. N.R. It’s a good thing we have trees around our house because we have lots of strong wind here.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="16" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori16">nagamori-16</a></td>
+        <td class="words">
+          <div id="spoken">Talking about sunburn Gosh you ought to see me, I’m darker than a n----- seen in a dark, since I started on the [beet?].</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="17" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori17">nagamori-17</a></td>
+        <td class="words">
+          <div id="spoken">Gosh I hope the sun don’t burn you up too much. What I think would be good when your [sic] picking strawberries are those wide brim hat [sic].</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="18" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori18">nagamori-18</a></td>
+        <td class="words">
+          <div id="spoken">Sure, I’ll tell Yoshiyaki that. I like to see and talk to him now but we’re both busy. I have written one to him just the day I sent you one I think, but he never wrote to me since. I know his dad’s in a pretty bad health now.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="19" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori19">nagamori-19</a></td>
+        <td class="words">
+          <div id="spoken">Sure I’ll write to you as long as we’re apart.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="20" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori20">nagamori-20</a></td>
+        <td class="words">
+          <div id="spoken">I know you were a swell letter-writer, I heard you were one of the best in QEHS. Before I forget Joan, I like to a picture of yourself so I won’t get so lonesome here.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="21" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori21">nagamori-21</a></td>
+        <td class="words">
+          <div id="spoken">Well it’s getting on to 12 so I guess I’ll sign off here. Hoping to hear from you soon. Bye.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="22" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori22">nagamori-22</a></td>
+        <td class="words">
+          <div id="spoken">I remain</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="23" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori23">nagamori-23</a></td>
+        <td class="words">
+          <div id="spoken">Yours sincerely</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="24" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori24">nagamori-24</a></td>
+        <td class="words">
+          <div id="spoken">Tad.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="25" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori25">nagamori-25</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Please give me best regards to Kirky (Booo)</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="26" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori26">nagamori-26</a></td>
+        <td class="words">
+          <div id="spoken">P.O. Box 23</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori26">Letter 2</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="27" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori27">nagamori-27</a></td>
+        <td class="words">
+          <div id="spoken">Headingly Man.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="28" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori28">nagamori-28</a></td>
+        <td class="words">
+          <div id="spoken">Aug. 3, /42</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="29" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori29">nagamori-29</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan--</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="30" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori30">nagamori-30</a></td>
+        <td class="words">
+          <div id="spoken">Many thanks for your most welcome letter. I received it with greatest pleasure on the 24th. Every letter we’re getting now is cencored [sic] and just to send a letter 30 miles it takes over a week, because every letter we write goes back to B.C. to be cencored [sic].</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="31" class="Joan  Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori31">nagamori-31</a></td>
+        <td class="words">
+          <div id="spoken">Thanks for the compliment of my letter I didn’t know I write such a letter myself Gee but I sure adore your heavenly letter</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="32" class="Labour-conditions  Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori32">nagamori-32</a></td>
+        <td class="words">
+          <div id="spoken">To-day we have just finished our thinning and at last I’ve found time to scribble few lines</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br> Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="33" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori33">nagamori-33</a></td>
+        <td class="words">
+          <div id="spoken">We have had one terrible weather for a spell One afternoon the thermometre [sic] climbed over 100° then that evening we had a painfull rain and wind storm. But now the weather have seemed to have settled down.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="34" class="Living-conditions Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori34">nagamori-34</a></td>
+        <td class="words">
+          <div id="spoken">The strawberries and cherries are very scarce out here. The price we pay for a lb. of cherry here is 25 cents. I wonder how the farms are like now. I heard the government have</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="35" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori35">nagamori-35</a></td>
+        <td class="words">
+          <div id="spoken">sent [mind-nites?] over to take our place on the farm.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="36" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori36">nagamori-36</a></td>
+        <td class="words">
+          <div id="spoken">The government is now planning on sending more Japanese from the coast for the harvest here. Even the farmers now are getting called up, they are taking mens to about 37.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="37" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori37">nagamori-37</a></td>
+        <td class="words">
+          <div id="spoken"> To tell you the truth, the most I’ve earned in a single day was $10.00 for hoing 3 1/3 acres. There are five of us looking after 60 acres.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="38" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori38">nagamori-38</a></td>
+        <td class="words">
+          <div id="spoken">Boy I bet you raked up fat dough in picking strawberries I heard it was 40 cents a crate for picking and 40 cents for loose packing.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="39" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori39">nagamori-39</a></td>
+        <td class="words">
+          <div id="spoken">The mosquitoes are quite bad yet - especially just before and after rain.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="40" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori40">nagamori-40</a></td>
+        <td class="words">
+          <div id="spoken">It must have been a fair size mosquitoes to bite right-throw [through] your underthing. Yes it does get you sore when it gets that fore, doesn’t it.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="41" class="Photographs  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori41">nagamori-41</a></td>
+        <td class="words">
+          <div id="spoken">Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. That radio wouldn’t be in any use here I don’t think because the dials are different here</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="42" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori42">nagamori-42</a></td>
+        <td class="words">
+          <div id="spoken">We have sent for our camera about two weeks ago but it still hasn’t arrived There both swell cameras too. One takes a card size picture and the other takes 1 1/4 x 1 3/4 picture They both had a nice leather case to it. We have bought one lately to take souvenir pictures and we have already taken 5 rolls of it. This is a bullet type camera that takes a picture size approx 1 3/4x 2 1/2. Soon as we get these rolls developed and if it turns out O.K. I’ll send it.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="43" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori43">nagamori-43</a></td>
+        <td class="words">
+          <div id="spoken">Gosh I’m just waiting for your glamorous picture. Boy but I’ll bet you had a good laugh at my school-day pictures We’ve got piles of those old school pictures too.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="44" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori44">nagamori-44</a></td>
+        <td class="words">
+          <div id="spoken">Dancing would be fun with you Joan, if I know how to dance. My brother took a lesson at [Lallas Moors?] in Vancouver late last Autumn. He tried to teach me then but I wasn’t crazy over it so I couldn’t quite get to dance. Gee but I’d like to know how now.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="45" class="Living-conditions  Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori45">nagamori-45</a></td>
+        <td class="words">
+          <div id="spoken">One trouble is we haven’t any radio yet.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="46" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori46">nagamori-46</a></td>
+        <td class="words">
+          <div id="spoken">Your [sic] more up to date in show than I am, the last time I seen one was almost</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="47" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori47">nagamori-47</a></td>
+        <td class="words">
+          <div id="spoken">three month [sic] ago when we were stationed at the Immigration Hall. We stayed at this place for about a week and we sure used it went to a show almost every day I think every picture Vancouver gets comes over a month or two later here in Winnipeg.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="48" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori48">nagamori-48</a></td>
+        <td class="words">
+          <div id="spoken">Do you like the Hawaiian Guitar. This is one instrument I wanted to learn for a long time. Gee I’d like to start in on it this winter. Can you play any instrument? I’d like to have some kind of a music around. Gee I bet you just love singing. I like to have you here just to sing for me. I can play a mouthorgan, this is what I learned when I was a small kid.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="49" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori49">nagamori-49</a></td>
+        <td class="words">
+          <div id="spoken">This song (“I like New York in June, How about you?”)</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="50" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori50">nagamori-50</a></td>
+        <td class="words">
+          <div id="spoken">I think I could remember Judy Garland sing this in the show called (“Babe on Broadway”)</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="51" class="Joan  Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori51">nagamori-51</a></td>
+        <td class="words">
+          <div id="spoken">You asked me what the last two pages in your letter reminded you of. The closest I could get to it is. The one you Love. No I can’t think of anything else.</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="52" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori52">nagamori-52</a></td>
+        <td class="words">
+          <div id="spoken">Gosh I sure do enjoy the Union steamship. I’ve been on one of these This was on a B.+A. picnic to Bowen Island. It sure is nice along the coast -- isn’t it.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="53" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori53">nagamori-53</a></td>
+        <td class="words">
+          <div id="spoken">Right here you see nothing but a wide piece of land with few houses here and there.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="54" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori54">nagamori-54</a></td>
+        <td class="words">
+          <div id="spoken">When I think of the B.C. I really don’t feel like staying here for the next minute.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="55" class="Living-conditions  Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori55">nagamori-55</a></td>
+        <td class="words">
+          <div id="spoken">About that firefly I was going to send you. Gee I’m sorry I promised you but it doesn’t seem to be flying around now. Gosh but I should have saved one for you before. I just went out to look for one but all I could see is the stars. And boy the moon is out nice and bright.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="56" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori56">nagamori-56</a></td>
+        <td class="words">
+          <div id="spoken">Joan you write a swell letter. I’m just wondering why I can’t write any better than this.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="57" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori57">nagamori-57</a></td>
+        <td class="words">
+          <div id="spoken">Your letters getting more and more interesting and I’m glad you like writing to me too. Well I guess I better close here for its past midnight. Bye.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="58" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori58">nagamori-58</a></td>
+        <td class="words">
+          <div id="spoken">Yours As Ever</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="59" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori59">nagamori-59</a></td>
+        <td class="words">
+          <div id="spoken">Tad</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="60" class="Joan  Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori60">nagamori-60</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Hoping to hear from you soon I’ll be expecting your picture at the same time</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="61" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori61">nagamori-61</a></td>
+        <td class="words">
+          <div id="spoken">I hope you didn’t mind my poor grammar and cross-outs ect. [sic]</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="62" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori62">nagamori-62</a></td>
+        <td class="words">
+          <div id="spoken">About that drawing, I aint much of a drawer but if you can stand it to have it around I’ll try and do one for you.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="63" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori63">nagamori-63</a></td>
+        <td class="words">
+          <div id="spoken">P.O. Box 23</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori63">Letter 3</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="64" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori64">nagamori-64</a></td>
+        <td class="words">
+          <div id="spoken">Headingly Man.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="65" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori65">nagamori-65</a></td>
+        <td class="words">
+          <div id="spoken">Oct. 4, /42</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="66" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori66">nagamori-66</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan:</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="67" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori67">nagamori-67</a></td>
+        <td class="words">
+          <div id="spoken">Please forgive me for not writing any sooner. To tell you the truth this is the first chance I got to write after I got home from threshing. I’ll promise you I’ll write sooner the next time. Gee why but come to think of it its almost two month ago I wrote to you isn’t it.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="68" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori68">nagamori-68</a></td>
+        <td class="words">
+          <div id="spoken">Well anyway how are you and the rest? All in the best road of health I hope. As for me I’m just swell, beside I’ve gained five pounds since we came out here.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="69" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori69">nagamori-69</a></td>
+        <td class="words">
+          <div id="spoken">We’ve had some nice cold weather out here for a while. The first sight of Jack Frost was seen on the 23rd of Aug. After that we had some cold days for about two wks. Once I went for the milk to our neighbors in the evening nearing 7:30 and the thermometer reading 30 degrees. Boy! But was I surprised to see this Gee whiz and the first snow flury [sic] came</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="70" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori70">nagamori-70</a></td>
+        <td class="words">
+          <div id="spoken">down on the 23rd of Sept. It snowed a little for 3 days in succession. On the last day we had a blizzard for just five minute. It just came and went like a lightning. I was sure surprised how the cold weather comes around here, but now the hot weather seem to have came back again. I guess this is what they call Indian summer. How’s the weather back there I suppose you haven’t met up with Jack frost yet have you?</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="71" class="Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori71">nagamori-71</a></td>
+        <td class="words">
+          <div id="spoken">We have just started on our beet harvest about a week ago. Boy I found this job really miserable specially when your shaking the dirt off. The only thing the owner does at harvest is come along with a tractor and loosen the beet out of the heavy gumbo soil. Then we go up 2 rows a piece throwing 8 rows of beets into one row shaking the dirt off at the same time. Then we go back up the row topping it this time soon as we make a pile of beets we throw the leaves over it in</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="72" class="Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori72">nagamori-72</a></td>
+        <td class="words">
+          <div id="spoken">case it freezes before them come to collect. To topp [sic] this sugar beet we use a heavy knife with a curved hoot at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="73" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori73">nagamori-73</a></td>
+        <td class="words">
+          <div id="spoken">I suppose you’ve heard or read about the mon eclipse on the 25th of Aug. Boy! That was really clearly seen. The sky was clear and besides the moon was in full then.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="74" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori74">nagamori-74</a></td>
+        <td class="words">
+          <div id="spoken">Talking about radio. About a week ago my brother bought a brand new portable radio. It can be brought to any place and we played. We’re using battery now. Its made for both battery and electric.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="75" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori75">nagamori-75</a></td>
+        <td class="words">
+          <div id="spoken">At least I’ve got one picture of myself thats not too bad. I had it taken on a Millionar’s Farm while I was threshing there. I’m gonna get coupla reprints of this one so in the next correspondence you can expect it. So please try and</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="76" class="Joan  Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori76">nagamori-76</a></td>
+        <td class="words">
+          <div id="spoken">get one of yourself for me will you</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="77" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori77">nagamori-77</a></td>
+        <td class="words">
+          <div id="spoken">By the way Joan I’d like to read some of your wonderful poems can you write one just for me? I’ll be waiting for it.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="78" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori78">nagamori-78</a></td>
+        <td class="words">
+          <div id="spoken">By the way you haven’t heard about Oki’s dad have you? He passed away on the 28 of Aug. Gosh that sure was a shock to all of us here.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="79" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori79">nagamori-79</a></td>
+        <td class="words">
+          <div id="spoken">Well I guess this is all I can write this time so I’ll close here. Bye for now.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="80" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori80">nagamori-80</a></td>
+        <td class="words">
+          <div id="spoken">As Ever</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="81" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori81">nagamori-81</a></td>
+        <td class="words">
+          <div id="spoken">Tad</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="82" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori82">nagamori-82</a></td>
+        <td class="words">
+          <div id="spoken">Here is a drawing I have done this afternoon. It took me an hour and a half to draw and paint this. This ain’t nothing wonderful but since I drew it I thought I might as well send it to you.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="83" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori83">nagamori-83</a></td>
+        <td class="words">
+          <div id="spoken">P.S. please write soon I’ll be waiting</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="84" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori84">nagamori-84</a></td>
+        <td class="words">
+          <div id="spoken">Lorette</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori84">Letter 4</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="85" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori85">nagamori-85</a></td>
+        <td class="words">
+          <div id="spoken">Manitoba</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="86" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori86">nagamori-86</a></td>
+        <td class="words">
+          <div id="spoken">Jan 9, 1943</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori86"> </a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="87" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori87">nagamori-87</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan --</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori87"> </a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="88" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori88">nagamori-88</a></td>
+        <td class="words">
+          <div id="spoken">Hellow Joan, It’s been quite a while since I heard from you last isn’t it.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori88"> </a><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="89" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori89">nagamori-89</a></td>
+        <td class="words">
+          <div id="spoken">Well anyways I resolved to answer every letter sooner, especially yours.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori89"> </a><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="90" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori90">nagamori-90</a></td>
+        <td class="words">
+          <div id="spoken">Here’s another year, greeting us with Luck and Happiness. I hope.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori90"> </a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="91" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori91">nagamori-91</a></td>
+        <td class="words">
+          <div id="spoken">First of all I guess I’ll tell you of our transfer into Lorette. This was made in the middle of November. We moved out of Headingly because of our poor living quarter. Right now we have all the convenience although the post office is three miles away.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori91"> </a><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="92" class="[insert proper term for landowner/supervisor/'boss']">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori92">nagamori-92</a></td>
+        <td class="words">
+          <div id="spoken">Our boss (Joe Gregorior) has a farm of his own, has a dairy, and runs a general store, and above all he owns about 17 children. He just lives across the highway from us, and the school is about same distance away.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori92"> </a><br />[insert proper term for landowner/supervisor/'boss']</td>
+      </tr>
+
+      
+  
+  
+      <tr id="93" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori93">nagamori-93</a></td>
+        <td class="words">
+          <div id="spoken">This highway which runs between us in the NO12, or some peoples call it the Dawson Rd</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori93"> </a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="94" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori94">nagamori-94</a></td>
+        <td class="words">
+          <div id="spoken">How’s the weather like back in good old B.C. now? Have you had any snow yet?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="95" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori95">nagamori-95</a></td>
+        <td class="words">
+          <div id="spoken">Right here we have an average of 8 inches. Some places like along the edge of the brush or fence the snow is banked about 2 ft. The highway in this country is banked up quite high so soon as the powder snow lands it is blown by a puff of wind, and the speed of the traffic.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori95"> </a><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="96" class="Beet-farms Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori96">nagamori-96</a></td>
+        <td class="words">
+          <div id="spoken">The toughest day we had out here was about 30 degrees below with a wind that almost tore our skins apart from our bones. This day me and my dad went out a mile to get beet leaves for our boss’s cattle. The beet leaves were stuck tight together so we needed a pick to separate them from the ground. My dad had 1 1/2 inches of icycle [sic] on his mustach when we came back with a load.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori96"> </a><br />Beet-farms<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="97" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori97">nagamori-97</a></td>
+        <td class="words">
+          <div id="spoken">If you stand out in this weather for an hour you’ll be chilled right through your marrow.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori97"> </a><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="98" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori98">nagamori-98</a></td>
+        <td class="words">
+          <div id="spoken">Boy but the river was really well for a coupla weeks last year for skating. This Seine</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="99" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori99">nagamori-99</a></td>
+        <td class="words">
+          <div id="spoken">River was a playground for almost every one around here, on Sundays specially. Last year was my first year on ice and I made out pretty good one day I tried out my speed and proved to go 9 miles in 3/4 hr. this is nothing to what most does [sic].</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="100" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori100">nagamori-100</a></td>
+        <td class="words">
+          <div id="spoken">Most of the Japanese sugar beet workers have now gone to the [???] work camp or to Ontario to cut pulp wood and few have landed swell jobs in Winnipeg. My eldest brother has gone to Ontario to cut pulp wood but just a day before Christmas he broke his ribs and he is now at Fort William.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="101" class="Gender-dynamics  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori101">nagamori-101</a></td>
+        <td class="words">
+          <div id="spoken">Most of the girls here have work in Winnipeg doing house-work, working in hat-factories and even few of them are smart enough to work as a stenographer.</div>
+        </td>
+        <td class="timestamp"><br />Gender-dynamics<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="102" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori102">nagamori-102</a></td>
+        <td class="words">
+          <div id="spoken">I’ve got some more to write but since its getting to [sic] long I think I’ll cut off here.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="103" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori103">nagamori-103</a></td>
+        <td class="words">
+          <div id="spoken">Darn this evacuee business I’m getting tired of it can’t seem to get settled.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="104" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori104">nagamori-104</a></td>
+        <td class="words">
+          <div id="spoken">Well anyways here’s sending you--</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="105" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori105">nagamori-105</a></td>
+        <td class="words">
+          <div id="spoken">Best Wishes and Luck for /43</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="106" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori106">nagamori-106</a></td>
+        <td class="words">
+          <div id="spoken">Write soon please</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="107" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori107">nagamori-107</a></td>
+        <td class="words">
+          <div id="spoken">Always</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="108" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori108">nagamori-108</a></td>
+        <td class="words">
+          <div id="spoken">Tad</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="109" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori109">nagamori-109</a></td>
+        <td class="words">
+          <div id="spoken">Lorette Manitoba</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori109">Letter 5</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="110" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori110">nagamori-110</a></td>
+        <td class="words">
+          <div id="spoken">Feb. 14 /43</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="111" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori111">nagamori-111</a></td>
+        <td class="words">
+          <div id="spoken">[doodle of two hearts impaled by an arrow]</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="112" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori112">nagamori-112</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan:</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="113" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori113">nagamori-113</a></td>
+        <td class="words">
+          <div id="spoken">Hellow Joan, thanks for the very welcome letter I received on the 1st of Feb. </div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="114" class="Homesickness  Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori114">nagamori-114</a></td>
+        <td class="words">
+          <div id="spoken">How are you and the rest All fine and dandy and I hope you didn’t catch a cold during the sub-zero weather you had out there. I was glad to hear you had received my letter on your birthday and besides it was on my sisters birthday I sent it.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br> Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="115" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori115">nagamori-115</a></td>
+        <td class="words">
+          <div id="spoken">I hear it went down as long as 45 degrees below in the North Fraser Valley. Is that true? I suppose you have coupla foot of snow there now. My friend in the interior of B.C. says they had 3 ft of snow, but out here we only have 18 in. average.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="116" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori116">nagamori-116</a></td>
+        <td class="words">
+          <div id="spoken">In places there are about 5 ft of snow frozen hard enough to keep us up. One of our boss’s son [sic] recently went trucking up in Alaska and he says its 80 degrees below there. Boy the fuel cost went sky high these days hasn’t it This winter sure</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="117" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori117">nagamori-117</a></td>
+        <td class="words">
+          <div id="spoken">fooled many citizens. I heard in the prairies they’re burning their own houses for fuel. There’s so much snow there the roads are all blocked up. Quite a few highways in Manitoba are blocked up. The peoples around here says this highway’s about the last to get blocked. There are snow plughs working on the highways but it doen’t do much good because the wind out there are too strong it blows the snow around 30-40 feet up in the air.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="118" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori118">nagamori-118</a></td>
+        <td class="words">
+          <div id="spoken">My brother came from Fort William. He is perfectly well now and at present he is in Winnipeg looking for more profitable job [sic]. The fellas that went to Ontario to cut pulp wood says the trees there are no bigger than a raspberry cane. My brother brought home a piece of birch bark to write letters on It’s almost as smooth and thin as an ordinary writing sheet. He had about foot square of it. He says, Ontario quite similar to B.C. of course there are no</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="119" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori119">nagamori-119</a></td>
+        <td class="words">
+          <div id="spoken">high mountains.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="120" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori120">nagamori-120</a></td>
+        <td class="words">
+          <div id="spoken">'Lorette Village' as they call it is a French settlement. The people living in this district are almost all French. The most outstanding building here is the Catholic church about 1 1/2 times the size of the Lutheran church at Annivial[?]. Theres a nun’s school, Public school with high school, 3 general store one with Post Office, Hall, Hotel, 2 garage and a pool room. In this town are six Japanese families one of them being our neighbor back home. The Manitoba Sugar Beet 60 intends to put 10 more families in this Area. We live 3 miles away from the Village.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="121" class="[insert proper term for landowner/supervisor/'boss']">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori121">nagamori-121</a></td>
+        <td class="words">
+          <div id="spoken">But our boss owns a small general store so we don’t have to cycle in for our groceries There’s a small school right across my place that holds about 50 pupil Theres one 23 year old teacher teaching 40 pupils, grades 1 to 10. It is exactly 50 miles from Lorette to Newton Siding Our boss owns 16 kids The eldest about 25 He lost 4</div>
+        </td>
+        <td class="timestamp"><br />[insert proper term for landowner/supervisor/'boss']</td>
+      </tr>
+
+      
+  
+  
+      <tr id="122" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori122">nagamori-122</a></td>
+        <td class="words">
+          <div id="spoken">He expects to get another soon. Theres only nine home now and the eldest is only 16. Our neighbor just across the river from us has a family of 13 and majority of them are girls. They all say the French have a big family. They all seem to be friendly towards us at least they have no hatred towards us. Is this true about Glen that he’s a student of the University of Washington? And about the barge balloon they’ve got up around Vancouver? Have you seen it yet?</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="123" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori123">nagamori-123</a></td>
+        <td class="words">
+          <div id="spoken">Is this true about Glen that he’s a student of the University of Washington? And about the barge balloon they’ve got up around Vancouver? Have you seen it yet?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="124" class="Recreation  Gender-dynamics">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori124">nagamori-124</a></td>
+        <td class="words">
+          <div id="spoken">Last night the Japanese Girls in Winnipeg held a party at the I.W.A.</div>
+        </td>
+        <td class="timestamp"><br />Recreation<br> Gender-dynamics</td>
+      </tr>
+
+      
+  
+  
+      <tr id="125" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori125">nagamori-125</a></td>
+        <td class="words">
+          <div id="spoken">Well this is about all I can think of so I’ll close here</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="126" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori126">nagamori-126</a></td>
+        <td class="words">
+          <div id="spoken">Always</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="127" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori127">nagamori-127</a></td>
+        <td class="words">
+          <div id="spoken">Tad</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="128" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori128">nagamori-128</a></td>
+        <td class="words">
+          <div id="spoken">P.S. I’ll be waiting for your swell picture</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="129" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori129">nagamori-129</a></td>
+        <td class="words">
+          <div id="spoken">[doodle of two hearts impaled by an arrow]</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="130" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori130">nagamori-130</a></td>
+        <td class="words">
+          <div id="spoken"> Lorette Manitoba</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori130">Letter 6</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="131" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori131">nagamori-131</a></td>
+        <td class="words">
+          <div id="spoken">April 11 /43</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="132" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori132">nagamori-132</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan:</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="133" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori133">nagamori-133</a></td>
+        <td class="words">
+          <div id="spoken">Hellow there, Many thanks for the most welcome letter I received quite awhile ago and Gosh! </div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="134" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori134">nagamori-134</a></td>
+        <td class="words">
+          <div id="spoken">Was I glad to see a snapshot of yourself enclosed. Thanks a lot, Believe it or not I’ve got two snapshot of you now</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="135" class="WWII  Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori135">nagamori-135</a></td>
+        <td class="words">
+          <div id="spoken"> The other one was taken in your victory garden last year.</div>
+        </td>
+        <td class="timestamp"><br />WWII<br> Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="136" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori136">nagamori-136</a></td>
+        <td class="words">
+          <div id="spoken">The weather we’re having these days isn’t too bad The snow is practically all gone making things look more like Spring The Seine River has expanded 15 times its</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="137" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori137">nagamori-137</a></td>
+        <td class="words">
+          <div id="spoken">width because this river hasn’t much of a bank This water has reached within 15 feet of our house. They say last year it was the worst since 1910 on this river The wheat fields are a sight now huge patches of water here and there deep enough to hold a couple on a light dinghy</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="138" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori138">nagamori-138</a></td>
+        <td class="words">
+          <div id="spoken">Maybe you have heard this In the middle of March we had a blizzard for 3 consecutive days 60 hrs. Behind our house the drift came as high as 9 ft. Yosh says he had a drift 15 ft high behind their</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="139" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori139">nagamori-139</a></td>
+        <td class="words">
+          <div id="spoken">house</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="140" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori140">nagamori-140</a></td>
+        <td class="words">
+          <div id="spoken">How’s the good old B.C. like these days more like summer than spring I suppose.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="141" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori141">nagamori-141</a></td>
+        <td class="words">
+          <div id="spoken"> During the last week of March we have done some skating on the rivers and fields.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="142" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori142">nagamori-142</a></td>
+        <td class="words">
+          <div id="spoken">To date we’ve only had few drops of rain which came just recently.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="143" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori143">nagamori-143</a></td>
+        <td class="words">
+          <div id="spoken">Last Friday I happened to meet up with Yosh in the bus. For a while there I was puzzled there I couldn’t recognize him right away. He had a glass on which I’ve first-seen him with, and besides he has grown a lot fatter. He and I went in to see a show It was of this</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="144" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori144">nagamori-144</a></td>
+        <td class="words">
+          <div id="spoken">title “Spring-time in the Rockies” It was a nice show in technicolor.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="145" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori145">nagamori-145</a></td>
+        <td class="words">
+          <div id="spoken">I heard from Yosh that you and few other girls an boys are comming [sic] over to see him this summer Is this on the level?</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="146" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori146">nagamori-146</a></td>
+        <td class="words">
+          <div id="spoken">Since the last time I heard from you I have made over half a dozen toy planes I’ve made this as my hobby from now. I sold few to our boss He says, he never seen anyone make a better toy plan He said there were few that were worth about 3-4 dollars length are only a foot long.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="147" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori147">nagamori-147</a></td>
+        <td class="words">
+          <div id="spoken">In the last letter you asked me if I’ve been to Newton Siding I haven’t been there once since we came over I like to tho’ it’s pretty hard to get the permit.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="148" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori148">nagamori-148</a></td>
+        <td class="words">
+          <div id="spoken">Any time we hop on a bus we are questions if we got our permit.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="149" class="Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori149">nagamori-149</a></td>
+        <td class="words">
+          <div id="spoken">I’m enclosing a snap-shot which was taken almost a year ago I’m sorry but this is the only one I got of myself My height is I am a little shorter than Yosh.</div>
+        </td>
+        <td class="timestamp"><br />Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="150" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori150">nagamori-150</a></td>
+        <td class="words">
+          <div id="spoken">Always</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="151" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori151">nagamori-151</a></td>
+        <td class="words">
+          <div id="spoken">Tad</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="152" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori152">nagamori-152</a></td>
+        <td class="words">
+          <div id="spoken">P.S. I hope you haven’t passed out by my picture</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="153" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori153">nagamori-153</a></td>
+        <td class="words">
+          <div id="spoken">c/o Dryden Paper Co.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori153">Letter 7</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="154" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori154">nagamori-154</a></td>
+        <td class="words">
+          <div id="spoken">Camp 29,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="155" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori155">nagamori-155</a></td>
+        <td class="words">
+          <div id="spoken">Dryden Ontario,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="156" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori156">nagamori-156</a></td>
+        <td class="words">
+          <div id="spoken">Jan 16, /44</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="157" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori157">nagamori-157</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan:</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="158" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori158">nagamori-158</a></td>
+        <td class="words">
+          <div id="spoken">Hellow honey, I’m really sorry for this terrible long delay. The reason why I didn’t answer you letter sooner was because I was way up north of Winnipeg working in a lime quarry, and the fellas at home forgot to send the letter up to me till two month later. After this long delay I felt kind of shy writing back, and it came hard and harder for me to write. But since you encouraged me this Christmas to write I am sincerely glad to do so.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="159" class="Communications  Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori159">nagamori-159</a></td>
+        <td class="words">
+          <div id="spoken">By the way I received your Christmas Card on the 28 and I really loved it just as much as I love you. I sent one to you on the 20th I hope you received it because the mail only go out once or twice a wk at this camp.</div>
+        </td>
+        <td class="timestamp"><br />Communications<br> Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="160" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori160">nagamori-160</a></td>
+        <td class="words">
+          <div id="spoken">Well how is the climate like back there in B.C. this winter. I guess its mild there too. Over here it only went as low as 30 below yet and usually it goes 50 below. I heard in part of Saskachewan it rained on the Christmas day. Right now we have foot and couple inches of snow. In Winnipeg I heard they</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="161" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori161">nagamori-161</a></td>
+        <td class="words">
+          <div id="spoken">have only about inch of snow.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="162" class="LabourConditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori162">nagamori-162</a></td>
+        <td class="words">
+          <div id="spoken">Its almost 2 month since we came to work here. I am here to work another two month but I don’t know how I can stand it here. I believe you like to hear a little about over here in Ontario. So far we have only been 100 miles into Ontario so I really haven’t much to tell, but I could say we came across hundreds of small lakes. The trees around here only average 50-60 ft. mostly all evergreen. I haven’t noticed any high mountains yet, but where ever you go is a hill. I like to send some pictures to you of this camp and scenery but it is almost impossible to get films now.</div>
+        </td>
+        <td class="timestamp"><br />LabourConditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="163" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori163">nagamori-163</a></td>
+        <td class="words">
+          <div id="spoken">To tell you the truth I think British Columbia is the best place to live and enjoy scenery. </div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="164" class="Joan  Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori164">nagamori-164</a></td>
+        <td class="words">
+          <div id="spoken">I hope i was in the interior of B.C. now where you can come over now and then to see me. Gee but won’t we have lot of fun then Well anyways I’ll hope there’ll be a day when we get together in a near future and have a good time and a good talk with you.</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="165" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori165">nagamori-165</a></td>
+        <td class="words">
+          <div id="spoken">Well here’s hoping I'll be hearing from you soon. Till then Cheerio! Honey</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="166" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori166">nagamori-166</a></td>
+        <td class="words">
+          <div id="spoken">Friend</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="167" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/nagamori.html#nagamori167">nagamori-167</a></td>
+        <td class="words">
+          <div id="spoken">Tad.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      </table>
+  </div>
+  
+  
+  
+  
+  
+  <div class="contentsdiv">
+    <h3 class="my-4 ikeda"><a href="/gillis-2021_ohd/transcripts/ikeda.html">Ikeda</a></h3>
+    <table id="contents-container" class="my-4 border ikeda ">
+      <tr id="1" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda1">ikeda-1</a></td>
+        <td class="words">
+          <div id="spoken">c/o L. Brandley</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda1">Letter 1</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="2" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda2">ikeda-2</a></td>
+        <td class="words">
+          <div id="spoken">Box 299,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="3" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda3">ikeda-3</a></td>
+        <td class="words">
+          <div id="spoken">Raymond, Alta.,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="4" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda4">ikeda-4</a></td>
+        <td class="words">
+          <div id="spoken">Feb 14.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="5" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda5">ikeda-5</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="6" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda6">ikeda-6</a></td>
+        <td class="words">
+          <div id="spoken">I received your letter few weeks ago and was very glad to receive it. I am sorry for not writing any sooner but under certain circumstances I could not.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="7" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda7">ikeda-7</a></td>
+        <td class="words">
+          <div id="spoken">Well Joan, hows the weather treating you? We’re having one of the coldest winter Alberta has had in yrs. Brr -- , it sure was cold walking almost a mile on the cold days but I managed to live through somehow. I’m sure it was cold in B.C. this yr. for a large number of schools had been closed.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="8" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda8">ikeda-8</a></td>
+        <td class="words">
+          <div id="spoken">It was one of the coldest winter you had in yrs. wasn’t it? Will it effect [sic] you very much? Has Q.E. opened up yet?</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="9" class="Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda9">ikeda-9</a></td>
+        <td class="words">
+          <div id="spoken">It certainly is news to hear that [Muriel???] left Q.E. Gee, I can’t imagine it. She wrote to me last in December and I haven’t heard from her since. If she happens to write to you would you give me her new address.</div>
+        </td>
+        <td class="timestamp"><br />Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="10" class="Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda10">ikeda-10</a></td>
+        <td class="words">
+          <div id="spoken">Theres most of our group in Raymond but there are few families gone to Magrath, Sterling and Welling.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="11" class="Belonging">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda11">ikeda-11</a></td>
+        <td class="words">
+          <div id="spoken">I’ve seen Jackie, Johnny, Tan, Tashiko, Suzie etc a few times. I’m sure glad Sumi is with me.</div>
+        </td>
+        <td class="timestamp"><br />Belonging</td>
+      </tr>
+
+      
+  
+  
+      <tr id="12" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda12">ikeda-12</a></td>
+        <td class="words">
+          <div id="spoken">so you see I’m not so lonely as I thought I’d be when I first started school. We take most of the same subjects only Sumi takes French and I take Book Kg.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="13" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda13">ikeda-13</a></td>
+        <td class="words">
+          <div id="spoken">Raymond won playing basketball, against Sterling a few weeks ago and on Fri-12, Raymond went to Magrath to play but they had lost the game.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="14" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda14">ikeda-14</a></td>
+        <td class="words">
+          <div id="spoken">On Fri 12, they had the young peoples social at the Hungarian Hall and I’m sure everyone had a grand time. Gee! I wanted to go but I was sick so I couldn’t go. And Thurs. we had something down at the Buddhist church and I couldn’t go. Darn it, Everything has to go wrong at the wrong time.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="15" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda15">ikeda-15</a></td>
+        <td class="words">
+          <div id="spoken">Yoshio N. came from Magrath to to the Social for the first time. I’m sure he had a swell time.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="16" class="Mail">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda16">ikeda-16</a></td>
+        <td class="words">
+          <div id="spoken">Say have you heard from Emee. If you have could you give me her address.</div>
+        </td>
+        <td class="timestamp"><br />Mail</td>
+      </tr>
+
+      
+  
+  
+      <tr id="17" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda17">ikeda-17</a></td>
+        <td class="words">
+          <div id="spoken">By the way hows your little friend of Sonny Ohama. Gee! we miss him but I guess you miss him just as much or even more. or is it Albert that you miss).</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="18" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda18">ikeda-18</a></td>
+        <td class="words">
+          <div id="spoken">Well, I better close for now. Give my best regards to the girls in your class. Write to me soon, won’t you. Good-bye.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="19" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda19">ikeda-19</a></td>
+        <td class="words">
+          <div id="spoken">Sincerely yours</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="20" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda20">ikeda-20</a></td>
+        <td class="words">
+          <div id="spoken">Teruko Ikeda.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="21" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda21">ikeda-21</a></td>
+        <td class="words">
+          <div id="spoken"></div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="22" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda22">ikeda-22</a></td>
+        <td class="words">
+          <div id="spoken">May 10, 1943</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda22">Letter 2</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="23" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda23">ikeda-23</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="24" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda24">ikeda-24</a></td>
+        <td class="words">
+          <div id="spoken">Its almost a few decades ago I had received your letter and I am sorry I had not written to you any sooner. I know your anxious to hear some news of Raymond so I’ll start and get down to business, even though there isn’t much news to write.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="25" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda25">ikeda-25</a></td>
+        <td class="words">
+          <div id="spoken">My, its a lovely time to start snowing again when the beets are almost ready to be thinned by some farmers. Its fairly cold to-day and the temperature has dropped considerably. It started to snow around five and everythings white but I wouldn’t be a bit surprised to see it all melted by to-morrow night.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="26" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda26">ikeda-26</a></td>
+        <td class="words">
+          <div id="spoken">I hope you had a real good Easter holidays as for me I spent my Easter holidays going to school. I didn’t mind very much for I believed I learned something.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="27" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda27">ikeda-27</a></td>
+        <td class="words">
+          <div id="spoken">Last week I forgot to take my excuse for being absent from school so the old Principal Jacobs gave me some detention to do. Boy, was I boiling. I could have knocked his block off, that is if he had one.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="28" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda28">ikeda-28</a></td>
+        <td class="words">
+          <div id="spoken">On Friday the grade tens and some other grades were shown a moving picture about Spies. But you know every time there is something like that I’m never there to see it.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="29" class="Gender-dynamics Education WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda29">ikeda-29</a></td>
+        <td class="words">
+          <div id="spoken">Say, I heard Q.E. had cadets for girls. Are you taking cadets? I sure think its a good idea to have an organization for girls as well as for boys.</div>
+        </td>
+        <td class="timestamp"><br />Gender-dynamics<br>Education<br>WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="30" class="Gender-dynamics Education WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda30">ikeda-30</a></td>
+        <td class="words">
+          <div id="spoken">R.H.S. has cadets only for boys but I’ve never seen them practising because they have it at night.</div>
+        </td>
+        <td class="timestamp"><br />Gender-dynamics<br>Education<br>WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="31" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda31">ikeda-31</a></td>
+        <td class="words">
+          <div id="spoken">From last week I started to go [???] a school girl at Mrs. Hudsons and I am staying there till I have to go into [???]. This family is very nice to me and I sure think a lot of them. Mrs. Hudson teaches at the Mammoth school out at the Ridge.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="32" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda32">ikeda-32</a></td>
+        <td class="words">
+          <div id="spoken">News or no news, I like to announce the birth of [some little???] kittens which where [sic] born last week. They’re still blind but are getting fluffier and cuter each day. There been quite a few weddings this spring and I think theres going to be a [???] wedding on Sat.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="33" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda33">ikeda-33</a></td>
+        <td class="words">
+          <div id="spoken">Its half past ten now and I still have to write a composition for to-morrow. It really was supposed to be handed in on Fri. but I wasn’t there so I have a chance till to-morrow. Thank Goodness. I guess you could picture me and Emee going to you for help every time we had any written work to hand in when I mention “Composition.”</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="34" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda34">ikeda-34</a></td>
+        <td class="words">
+          <div id="spoken">Well, I better close now. Good-bye and good-luck till I write again</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="35" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda35">ikeda-35</a></td>
+        <td class="words">
+          <div id="spoken">Your Friend</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="36" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda36">ikeda-36</a></td>
+        <td class="words">
+          <div id="spoken">Teruko Ikeda</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="37" class="Photographs Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ikeda.html#ikeda37">ikeda-37</a></td>
+        <td class="words">
+          <div id="spoken">P.S. I would appreciate very much if you’d send me your snapshot. Maybe your wondering why I write on this paper instead of writing tablet but the truth is I’m too busy to buy one just now so I’ll have one by next time.</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br>Writing</td>
+      </tr>
+
+      </table>
+  </div>
+  
+  
+  
+  
+  
+  <div class="contentsdiv">
+    <h3 class="my-4 ohama"><a href="/gillis-2021_ohd/transcripts/ohama.html">Ohama</a></h3>
+    <table id="contents-container" class="my-4 border ohama bg-light">
+      <tr id="1" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama1">ohama-1</a></td>
+        <td class="words">
+          <div id="spoken">Hi Joan!</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama1">Letter 1</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="2" class="Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama2">ohama-2</a></td>
+        <td class="words">
+          <div id="spoken">Having swell trip. Lots of people but not crowded. “Not alone but lonesome”. Trains awful jerky.</div>
+        </td>
+        <td class="timestamp"><br />Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="3" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama3">ohama-3</a></td>
+        <td class="words">
+          <div id="spoken">I will write later. Beautiful scenery.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="4" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama4">ohama-4</a></td>
+        <td class="words">
+          <div id="spoken">Sure miss the old gang.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="5" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama5">ohama-5</a></td>
+        <td class="words">
+          <div id="spoken">Al Ohama</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="6" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama6">ohama-6</a></td>
+        <td class="words">
+          <div id="spoken">July 4, 1942</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama6">Letter 2</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="7" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama7">ohama-7</a></td>
+        <td class="words">
+          <div id="spoken">Ranier, Atla.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="8" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama8">ohama-8</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan:</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="9" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama9">ohama-9</a></td>
+        <td class="words">
+          <div id="spoken">Hello there! I just received your letter last mail-day. Gee it was swell to hear from you. Thanks a million for writing.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="10" class="Writing Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama10">ohama-10</a></td>
+        <td class="words">
+          <div id="spoken">Gosh, I’ve been a terrible pal. You’ve got all the right in the world to be angry with me, Joan. I love being busy -- but not so busy that I should neglect writing to you. Gee, Joan, I’m awful sorry, I guess I was never cut-out to write letters. But from now on you can be sure you’ll hear from me often--</div>
+        </td>
+        <td class="timestamp"><br />Writing<br>Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="11" class="Writing Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama11">ohama-11</a></td>
+        <td class="words">
+          <div id="spoken">maybe too often. I hope you don’t think I’ve forgotten you. Do you? I was swell of youto write -- and -- gosh',' I just feel awful about it. Anyway we’re writing to each other now-- and thats what counts. Isn’t it? I still feel terrible and I guess I always will--unless you Say you’ll forgive me. Please!</div>
+        </td>
+        <td class="timestamp"><br />Writing<br>Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="12" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama12">ohama-12</a></td>
+        <td class="words">
+          <div id="spoken">Well to change the subject to something much more important, how are you, Joay[?]? How are your Mom and Dad? And little Donnie? I just know everythings all right. How are all your friends?</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="13" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama13">ohama-13</a></td>
+        <td class="words">
+          <div id="spoken">I hope I’m still one of them. Let’s talk about you, Joan, shall we? Say, did you know you are a beautiful little flatterer? You had me “redder than a beet.” Really! But really Joan, you’re so understanding and everythin’, I think your [sic] swell. Honestly!! And, gosh, where did you learn to write so well. Honestly, when I read your letter, I think I’m sittin’ right next to you.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="14" class="Homesickness Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama14">ohama-14</a></td>
+        <td class="words">
+          <div id="spoken">Are you enjoying your holiday? Wasn’t that last minute of school, a grand and glorious Feelin’? I can just picture you, Joan, slamming your</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="15" class="Homesickness Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama15">ohama-15</a></td>
+        <td class="words">
+          <div id="spoken">books in your suitcase and probably giving a shout of joy. I bet you made faces at the teachers you disliked. Say for instance,</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="16" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama16">ohama-16</a></td>
+        <td class="words">
+          <div id="spoken">“Jackie Hockin[?].” Gosh, Joan, I hope and pray you didn’t have her next time. She’s just like you said, “Stupid,” and gosh I mean stupid. She’s the most ignorant person I know. I ought to know. She taught me for a couple of years and look what she done to me. Ha ha. Honestly though, I think she’s not fit to teach. But then, who am I to judge?</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="17" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama17">ohama-17</a></td>
+        <td class="words">
+          <div id="spoken">I am sorry to hear Mr. [???] is leaving you. He was swell to us. I haven’t much To say for Mr. Sanford. You won’t lose much by his going -- but Keatley! Ye gad! What a prize-sop[?]! Phooey on him!</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="18" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama18">ohama-18</a></td>
+        <td class="words">
+          <div id="spoken">Gee isn’t it terrible weather we’ve been havin! I guess it’s the same here as in Surrey, coz we’ve been havin' rain, rain and more rain. Honestly the last week (4 days) was the only “hot” days we’ve had since coming out here. Gosh! but was it hot. Whew! I never seen nothin’ like it.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="19" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama19">ohama-19</a></td>
+        <td class="words">
+          <div id="spoken">I think I could fry an egg on a chunk of iron (we have no sidewalks).</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="20" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama20">ohama-20</a></td>
+        <td class="words">
+          <div id="spoken">At present we’ve been haying, and gosh is that a job. We’ve got some 30-odd acres of hay to put up. We cut it last week and now we are Bringin’ it in our hay-racks. We are blowin’ it into the barn loft with a grain separator. Gee this is the hardest job yet -- Oh! come to think of it, I hate fixin’ fence themost and we spent about 2 weeks fixin’ about 10 miles of fence. Gee that’s a job and</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="21" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama21">ohama-21</a></td>
+        <td class="words">
+          <div id="spoken">I’ve got plenty of scars to show you, Joan. That darn barb wire can sure make some really nasty cuts.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="22" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama22">ohama-22</a></td>
+        <td class="words">
+          <div id="spoken">Say, by the way, now that you’ve got your holiday, what are you doin’? Are you workin’ somewhere?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="23" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama23">ohama-23</a></td>
+        <td class="words">
+          <div id="spoken">And, Joan, will you do me a favor--eat plenty of cherries for me--but don’t eat the green ones, I don’t want you to get sick. Gosh, I like cherries, don’t you?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="24" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama24">ohama-24</a></td>
+        <td class="words">
+          <div id="spoken">Joan, have you been in [???] swimmin’ lately? I guess we are pretty lucky ‘coz we’ve got a swell lake to swim only a few steps from the house.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="25" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama25">ohama-25</a></td>
+        <td class="words">
+          <div id="spoken">Which reminds me, you ask about</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="26" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama26">ohama-26</a></td>
+        <td class="words">
+          <div id="spoken">the farm so I’ll tell you about it. I guess Sonny has told you most of the things though. Well it’s not such a big farm as compared to some of them a round here, it’s got 3/4 [???].</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="27" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama27">ohama-27</a></td>
+        <td class="words">
+          <div id="spoken">(I guess it’s large compared to our 10 acres back home -- but it’s far from being home.)</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="28" class=""[insert proper term for landowner/supervisor/'boss']"">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama28">ohama-28</a></td>
+        <td class="words">
+          <div id="spoken">You see we’re running the farm for a Mr. Burnett. He moved out to Calgary, so we’ve got the whole farm to ourselves.</div>
+        </td>
+        <td class="timestamp"><br />"[insert proper term for landowner/supervisor/'boss']"</td>
+      </tr>
+
+      
+  
+  
+      <tr id="29" class="Beet-farms Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama29">ohama-29</a></td>
+        <td class="words">
+          <div id="spoken">I guess we are pretty lucky at least I sure hate to work sugar-beets. It’s such a monotonous job. Well, anyway, we’ve got lots of cows (2), only 3 are milking cows.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br>Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="30" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama30">ohama-30</a></td>
+        <td class="words">
+          <div id="spoken">By the way, Sonny does all the chores. He milks like an “old maid” now. We have lots of horses about 25 but only 8 are working horses the rest of them are wild and they just romp around in the pasture back of our fields. We have two swell ridin’ horses. Gee, their [sic] beauties. I fell off once when I was too lazy to put on the saddle. (I couldn’t catch the horse again so I had to walk)</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="31" class="Photographs  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama31">ohama-31</a></td>
+        <td class="words">
+          <div id="spoken">I’ll send you some pictures of them and the farm as soon as I can.</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="32" class="Photographs Joan Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama32">ohama-32</a></td>
+        <td class="words">
+          <div id="spoken">And Joan, remember those pictures you took when Sonny</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br>Joan<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="33" class="Photographs Joan Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama33">ohama-33</a></td>
+        <td class="words">
+          <div id="spoken">Was over to your party, well he’s got them developed and he’s gonna send them to you -- but not until I get some prints. Some of them are swell.</div>
+        </td>
+        <td class="timestamp"><br />Photographs<br>Joan<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="34" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama34">ohama-34</a></td>
+        <td class="words">
+          <div id="spoken">Well, back here on the farm, all our crops are in, and they are coming along swell. We’ve got acres and acres of grain, and lots of spuds and vegetables like that. Gee it sure is some job keeping them clear of weeds.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="35" class="WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama35">ohama-35</a></td>
+        <td class="words">
+          <div id="spoken">Say, Joan, how is your “Victory Garden” coming along? Swell, I hope.</div>
+        </td>
+        <td class="timestamp"><br />WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="36" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama36">ohama-36</a></td>
+        <td class="words">
+          <div id="spoken">Say, Joan, one funny thing that I learned out here is that back home we cleared trees to plant</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="37" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama37">ohama-37</a></td>
+        <td class="words">
+          <div id="spoken">things and out here we plant trees to get a wind-brake and to have some shade. Funny isn’t it?</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="38" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama38">ohama-38</a></td>
+        <td class="words">
+          <div id="spoken">Oh yes! You asked how Rainier was. (I think you wrote RANIER but its Rainier) Anyway you won’t find it on the map its such a small dump. Its only our P.O. and our store and garage.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="39" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama39">ohama-39</a></td>
+        <td class="words">
+          <div id="spoken">We get mail 2 times a week. By the way how long did this letter take to get to you? I ask because all mail coming in takes from two to three weeks! I only realized this a few weeks ago when my Brother brought it to my attention.</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="40" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama40">ohama-40</a></td>
+        <td class="words">
+          <div id="spoken">Well, to get back to Rainier</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="41" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama41">ohama-41</a></td>
+        <td class="words">
+          <div id="spoken">as I said before it’s a dump. Its 3 miles away. Brooks is the nearest town it’s about the size of Cloverdale. I’ve been there only once. It’s about 25 miles away. We are about 140 miles South of Calgary. 80 miles from Lethbridge. So you see we are away from civilization. Ha! Ha!</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="42" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama42">ohama-42</a></td>
+        <td class="words">
+          <div id="spoken">I guess I’m just pushin’ words along so I guess I’ll say good-bye but before I do will you please give my best to your Mom and Dad and Donnie?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="43" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama43">ohama-43</a></td>
+        <td class="words">
+          <div id="spoken">Well take care of yourself, Joan, and be good.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="44" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama44">ohama-44</a></td>
+        <td class="words">
+          <div id="spoken">Good-Bye and Good Luck!</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="45" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama45">ohama-45</a></td>
+        <td class="words">
+          <div id="spoken">Albert Ohama.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="46" class="Communications Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama46">ohama-46</a></td>
+        <td class="words">
+          <div id="spoken">P.S. c/o of Mr. Bennett is not necessary. Call me whatever you like, Joan. I could add a lot more of nick-names to your list but anything will do. I ain’t fussy -- much. Ha! Ha!</div>
+        </td>
+        <td class="timestamp"><br />Communications<br>Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="47" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama47">ohama-47</a></td>
+        <td class="words">
+          <div id="spoken">Al.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="48" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama48">ohama-48</a></td>
+        <td class="words">
+          <div id="spoken">P.P.S.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="49" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama49">ohama-49</a></td>
+        <td class="words">
+          <div id="spoken">Please excuse my hen-scratch. I know I’m a terrible writer. We have hens but they didn’t help me! Ha! Ha!</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="50" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama50">ohama-50</a></td>
+        <td class="words">
+          <div id="spoken">Al.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="51" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama51">ohama-51</a></td>
+        <td class="words">
+          <div id="spoken">August 12, 1942</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama51">Letter 3</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="52" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama52">ohama-52</a></td>
+        <td class="words">
+          <div id="spoken">Rainier, Atla.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="53" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama53">ohama-53</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="54" class="Joan  Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama54">ohama-54</a></td>
+        <td class="words">
+          <div id="spoken">Hel-lo! How’s the thrill of Scott Hill? Thanks for your very nice letter. I certainly enjoyed hearin’ from you. Jesus, Joan, don’t let writing long letters bother your sweet conscience, ‘cause I love ‘em. I love to (as you say) “wade through ‘em,” too.</div>
+        </td>
+        <td class="timestamp"><br />Joan<br> Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="55" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama55">ohama-55</a></td>
+        <td class="words">
+          <div id="spoken">Well, Joan, what are you doin’ this bright and cheerful morning? Oh! Good morning, Joan. Sleep well? (I hope you read this in the morning)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="56" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama56">ohama-56</a></td>
+        <td class="words">
+          <div id="spoken">Well, anyway, how are you Joan? None the worse after that “horrible” weekend, I hope. It sounded like lots of fun to me. And say, I don’t mind being your “it”.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="57" class="Labour-conditions Living-conditions  Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama57">ohama-57</a></td>
+        <td class="words">
+          <div id="spoken">Now for more about your letter: About the work over here; holy ??? but I must of put it on thick. Of course I have time to eat! I’m usually first at the table and last to leave. Boy, but do I love the dinner call! Not because I’m hungry but because we can rest - ah!</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>Living-conditions<br> Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="58" class="Labour-conditions  Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama58">ohama-58</a></td>
+        <td class="words">
+          <div id="spoken">Beautiful rest! Seriously, though, Joan, I’m not working that hard. The work has been hard but I’m getting use [sic] to it now. We’ve finished all the field work and there’s really not much work to do now. But there’s enough to keep us busy -- darn it. But don’t worry, Joan, I’m not working myself to death. Here pinch my arm. See, I’m alive. Ouch. (You pinched me too hard). Silly, ain’t I?</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br> Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="59" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama59">ohama-59</a></td>
+        <td class="words">
+          <div id="spoken">What do we do in the winter? Nothing! Nothing ‘cept the chores. My brother and I may try to find work elsewhere--but not till I have a vacation. Gee, I wish I could go home for a visit, even for a few days. That’s day-dreaming, though.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="60" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama60">ohama-60</a></td>
+        <td class="words">
+          <div id="spoken">Music? I think I like Bing the bestest. I like smooth lingering music. Of course I classical [sic] -- but not too classical. One thing I don’t like --yet is that corny cave-man music (racket -- I mean). It actually drives me nuts.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="61" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama61">ohama-61</a></td>
+        <td class="words">
+          <div id="spoken">(Of course that’s taking for granted that I’m sane--which I’m not out here)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="62" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama62">ohama-62</a></td>
+        <td class="words">
+          <div id="spoken">Of course everyone has their own particular</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="63" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama63">ohama-63</a></td>
+        <td class="words">
+          <div id="spoken">likings but I like Bing everytime. He drives me nuts, too--in a different way.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="64" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama64">ohama-64</a></td>
+        <td class="words">
+          <div id="spoken">So you were building castles in the sands? How romantic? Oh, I forgot. There were children with you. How horrible! I pity you, but I bet you did have some fun, huh?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="65" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama65">ohama-65</a></td>
+        <td class="words">
+          <div id="spoken">A working woman, are you? School’s your job. Stick to it. I would if I could.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="66" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama66">ohama-66</a></td>
+        <td class="words">
+          <div id="spoken">Which reminds me, school begins soon again, huh? Tech, tech, how time flies. More books and scraping with the teachers. When I think of school now they seemed lots of fun.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="67" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama67">ohama-67</a></td>
+        <td class="words">
+          <div id="spoken">You mentioned disagreeable odours of fish. Phooey! I met a skunk the other day and I thought it was very cute. Seems he doesn’t think the same of me, anyhow, i got the worst of him and he got the best of me. I’ll leave it to your imagination as for what happened. Anyway, the dog killed him and I went on my way. Well for the next week the dog and I were both in the dog house. I wouldn’t attempt to describe the odour. Phew!</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="68" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama68">ohama-68</a></td>
+        <td class="words">
+          <div id="spoken">The moon? I don’t think I’ve ever stopped to admire it. (What-they-hay just about dark)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="69" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama69">ohama-69</a></td>
+        <td class="words">
+          <div id="spoken">The sunset is pretty out here, considering the fact that there is nothing but bold-headed prairie hills to give it a beautiful atmosphere. I think the other kids will back me up when I say that the sunset is very beautiful.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="70" class="Labour-conditions Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama70">ohama-70</a></td>
+        <td class="words">
+          <div id="spoken">I work in my birthday suit so I have a pretty fair tan--but if I keep this up much longer I’ll be burnt to a black crisp. Boy, it sure has been hot on some days, the last two weeks for instance. But today was cold! Can you imagine that? In mid-summer, too! Cold today -- hot tomorrow! Gosh, what goofy weather! How is it out there?</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="71" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama71">ohama-71</a></td>
+        <td class="words">
+          <div id="spoken">Did I leave any questions out?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="72" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama72">ohama-72</a></td>
+        <td class="words">
+          <div id="spoken">Well what are you doing these days? Working in the peat-plant or are you taking care of the husband with the sick wife? Oh yes, there’s a baby in the family too, isn’t there? (I ain’t a bit funny am I?)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="73" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama73">ohama-73</a></td>
+        <td class="words">
+          <div id="spoken">How are Donnie and your folks? I hope they’re all well. And you. Are you taking good care of yourself?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="74" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama74">ohama-74</a></td>
+        <td class="words">
+          <div id="spoken">Say Joan, do you see many shows? Gosh, I haven’t seen one for so long, I forget what they’re like. Honest. I haven’t gone to Calgary yet, but I expect to some time</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="75" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama75">ohama-75</a></td>
+        <td class="words">
+          <div id="spoken">during the month. My brother took a truck laid of vegetables in last week. He’ll be goin’ in quite often now and I hope to make one of the trips with him. I honestly wouldn’t mind seeing Calgary again. I can still remember some of the old haunts where I used to play and get into a lot of mickey. After all it’s only been about ten years ago.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="76" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama76">ohama-76</a></td>
+        <td class="words">
+          <div id="spoken">Gosh! Here I’m talking about nothing -- I guess I’m boring you, huh?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="77" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama77">ohama-77</a></td>
+        <td class="words">
+          <div id="spoken">Take care of yourself, Joan. And give my love and best wishes to your folks and of course Donnie.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="78" class="Optimism">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama78">ohama-78</a></td>
+        <td class="words">
+          <div id="spoken">Good-bye till next time -- and don’t worry about us ‘cause we’re all fine.</div>
+        </td>
+        <td class="timestamp"><br />Optimism</td>
+      </tr>
+
+      
+  
+  
+      <tr id="79" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama79">ohama-79</a></td>
+        <td class="words">
+          <div id="spoken">Yours,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="80" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama80">ohama-80</a></td>
+        <td class="words">
+          <div id="spoken">Alby</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="81" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama81">ohama-81</a></td>
+        <td class="words">
+          <div id="spoken">P.S. ------</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="82" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama82">ohama-82</a></td>
+        <td class="words">
+          <div id="spoken">P.P.S.  Imagine that! No P.S.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="83" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama83">ohama-83</a></td>
+        <td class="words">
+          <div id="spoken">Bye, Alby</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="84" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama84">ohama-84</a></td>
+        <td class="words">
+          <div id="spoken">(Oops! Over)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="85" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama85">ohama-85</a></td>
+        <td class="words">
+          <div id="spoken">Joan will you tell me how long my letters take to get to you. This letter will leave Ranier on the 14th one of the two mail days we have.</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="86" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama86">ohama-86</a></td>
+        <td class="words">
+          <div id="spoken">Thanks</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="87" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama87">ohama-87</a></td>
+        <td class="words">
+          <div id="spoken">Alby.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="88" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama88">ohama-88</a></td>
+        <td class="words">
+          <div id="spoken">Rainier Alta.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama88">Letter 4</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="89" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama89">ohama-89</a></td>
+        <td class="words">
+          <div id="spoken">Nov 14, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="90" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama90">ohama-90</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="91" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama91">ohama-91</a></td>
+        <td class="words">
+          <div id="spoken">Hello honey, what’s a cookin’? Alright don’t tell me! It’s only me dropin’ [sic] a few liners from out Rainier way, so don’t keel over.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="92" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama92">ohama-92</a></td>
+        <td class="words">
+          <div id="spoken">(About time huh?) I’m really sorry I didn’t write to you sooner -- how many “weeks” or months I should say -- am I behind time? How can I make up for it, Joan? Please tell me. Anyway, please for give me, won’t you? Please!!</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="93" class="Homesickness Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama93">ohama-93</a></td>
+        <td class="words">
+          <div id="spoken">Gosh! And all the swell letters and pictures -- gee, do I feel terrible! I should have thanked you ages ago! Gulp! And your Q.E. Vue arrived sometime ago too. Thanks, thanks, and a million more thanks, Joan! The pictures were really great. We all enjoyed them very much. And the old school paper -- boy it was good to read about old names again.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="94" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama94">ohama-94</a></td>
+        <td class="words">
+          <div id="spoken">Say, you’re sure doin’ swell at school, aren’tcha? Your name’s on most every page. You adn the kids are sure making things buzz at the school aren’tcha? I guess you like school better’n ever now huh? Well,</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="95" class="Homesickness Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama95">ohama-95</a></td>
+        <td class="words">
+          <div id="spoken">whatcha say, Joan. Oh, how was the mixer? Gee, I bet you had fun. I bet you danced every dance. Ahem, who didya dance with the mostest, Joan? Oh, for the “love of Pete,” Joan, you dont’ have to answer if you don’t wanna (ahem). I bet you did have lots of fun, huh? I sure wish I could have been there -- you’d really be tired after the dance.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br>Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="96" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama96">ohama-96</a></td>
+        <td class="words">
+          <div id="spoken">I see by the paper you still have house games. Boy, they were lots of fun. How about clubs? Still have ‘em?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="97" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama97">ohama-97</a></td>
+        <td class="words">
+          <div id="spoken">Say, how are you? Taking good care of yourself? Swell! Have you been skating yet? I don’t suppose there’s ice yet other than the [???] ?</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="98" class="Labour-conditions Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama98">ohama-98</a></td>
+        <td class="words">
+          <div id="spoken">Well, out here in Rainier, life’s getting duller and duller. We’ve finished work now, at last. We finished up thrashing about 4 days ago -- right now we’re recuperating so that we can now have some fun. I went to Calgary the other day -- I didn’t</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="99" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama99">ohama-99</a></td>
+        <td class="words">
+          <div id="spoken">have much fun ‘cause I went by myself. I saw “Bambi” and “Iceland” at the shows. They weren’t too bad. By the way, the theatres were terrible compared to those of Van. The first time I went to Calgary I seen “Mrs. Miniver” and “Fantasia.” I was so lucky because they were the best pictures I wanted to see. It sure was lonely in town. I didn’t do much but I did listen to the juke-boxes. Didya ever hear Bing sing “White Christmas”? (sigh). Now I’m being silly, ain’t I?</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="100" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama100">ohama-100</a></td>
+        <td class="words">
+          <div id="spoken">Well we had a cold spell about three weeks back and we were able to skate for a few days, but now we are having very warm weather -- really.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="101" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama101">ohama-101</a></td>
+        <td class="words">
+          <div id="spoken">For the last several days a chinook wind has been blowin’! And it sure melted that ice in a day. We never had chinooks in B.C. but they come quite often out here. It’s a warm south wind comin’ from Montana-way. I bet you think we’re shiverin’ in our skins now huh? This weather sure surprised me. By the way we had</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="102" class="Living-conditions Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama102">ohama-102</a></td>
+        <td class="words">
+          <div id="spoken">And Indian summer here this year, too. I’m already for the winter weather though. Hope to get lots of skating and skiing this winter. That’s what I say now but I becha I’ll be sitting around the stove in the house as soon as it drops below zero. Our neihbors say it gets as gold as 60 below. Hope I don’t see any of that kind of weather.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br>Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="103" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama103">ohama-103</a></td>
+        <td class="words">
+          <div id="spoken">Well it’s getting late and I’m wandering around in circles so I had better close. Say hello to your folks and Donnie for me.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="104" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama104">ohama-104</a></td>
+        <td class="words">
+          <div id="spoken">G’bye now</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="105" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama105">ohama-105</a></td>
+        <td class="words">
+          <div id="spoken">Love Al</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="106" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama106">ohama-106</a></td>
+        <td class="words">
+          <div id="spoken">Ps. Hope to get this off from Calgary. I’ll be skiing. Your Al.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="107" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama107">ohama-107</a></td>
+        <td class="words">
+          <div id="spoken">Rainier, Alta.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama107">Letter 5</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="108" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama108">ohama-108</a></td>
+        <td class="words">
+          <div id="spoken">Jan 28, 1943</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="109" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama109">ohama-109</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="110" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama110">ohama-110</a></td>
+        <td class="words">
+          <div id="spoken">Thanks for all the swell letters. It’s awfully nice of you to write so often -- and such nice letters, too! Gee, ain’t I lucky! It ain’t everybody that has someone to write to him on Christmas Eve at 11:30 P.M.! You’re really swell, Joan!</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="111" class="WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama111">ohama-111</a></td>
+        <td class="words">
+          <div id="spoken">Being your “victor” is swell, Joan!</div>
+        </td>
+        <td class="timestamp"><br />WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="112" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama112">ohama-112</a></td>
+        <td class="words">
+          <div id="spoken">You know, three weeks after Christmas Eve, when I got your letter, I spent it all over again -- in your house! Boy it was swell! I’m glad you liked the gift.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="113" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama113">ohama-113</a></td>
+        <td class="words">
+          <div id="spoken">So you had a party. Gee, I bet the fellas and gals had lots of fun -- and why shouldn’t they, when they have a swell hostess like you!! Poor you, hunny, to clean up the mess!</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="114" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama114">ohama-114</a></td>
+        <td class="words">
+          <div id="spoken">Say, these two little cousins of</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="115" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama115">ohama-115</a></td>
+        <td class="words">
+          <div id="spoken">yours sound very interesting you’ll have to introduce them to me sometime. Billy -- the one who wields the pencil -- must be a real card.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="116" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama116">ohama-116</a></td>
+        <td class="words">
+          <div id="spoken">Remember you asked if anyone out here raised bees ? Well, yes! There’s a couple of big apiares [sic] out here. Ho! It couldn’t have been our name on it -- although we have a hive ‘neath our house. ??? ??? says he gets ‘bout 300lbs out each year but we didn’t get around to it (that’s how busy -- or ignorant we were.) I guess the bees have eaten it all by now!</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="117" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama117">ohama-117</a></td>
+        <td class="words">
+          <div id="spoken">Oh, another thing, you seem to remember Kay and Juke very well -- better than I infact! They and their dad, were down here last summer and then they returned to Lethbridge. That’s where my brother works! Mother and May just returned from this place and they say they are getting along very well!</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="118" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama118">ohama-118</a></td>
+        <td class="words">
+          <div id="spoken">Christmas would have been perfect if my</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="119" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama119">ohama-119</a></td>
+        <td class="words">
+          <div id="spoken">Brother and his family could have been with us. We sent them lots of things for Christmas though.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="120" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama120">ohama-120</a></td>
+        <td class="words">
+          <div id="spoken">Well, enough of this sniffing and drooling! What chou doin’ these cold days? I hear and read that you’re snowed in! How does it feel to be cold? At least it’s a change from that lousy rain and drizzle! (Aren’t I mean!) What’s the best a foot of snow or six inches of mud! I hear there’s a shortage of fuel! Well I hope your family has lots -- as if my hoping would do any good when you can’t lay your hands on the stuff!!</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="121" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama121">ohama-121</a></td>
+        <td class="words">
+          <div id="spoken">I hear also that dear old Q.E. got mad and broke a few pipes! What luck, huh?</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="122" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama122">ohama-122</a></td>
+        <td class="words">
+          <div id="spoken">Listen, who’s suppose to be telling me of home -- you or me!</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="123" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama123">ohama-123</a></td>
+        <td class="words">
+          <div id="spoken">I guess I should tell you a little, anyway, of what’s happening down here.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="124" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama124">ohama-124</a></td>
+        <td class="words">
+          <div id="spoken">Well nothin’ much ever happens</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="125" class="Labour-conditions Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama125">ohama-125</a></td>
+        <td class="words">
+          <div id="spoken">out here! The days just come ‘n go. What a life! Had a blizzard last week. Had to work ‘cause I was workin’ for someone down the road. The rest of the family stayed indoors that day. The roads were blocked by drifts and the mail truck didn’t get through, fortunately it came the next day though.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="126" class="Recreation Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama126">ohama-126</a></td>
+        <td class="words">
+          <div id="spoken">Oh, Christmas and New Years were swell! We all had a grand time. So help me, the Christmas turkey never tasted better -- maybe because we worked up a hefty appetite by skating. The weather was just like B.C. in Winter. There was no snow ‘till late Christmas night. We (the younger Ohamas) went to our neighbors’ party. Stayed ‘till two and had a swell time.</div>
+        </td>
+        <td class="timestamp"><br />Recreation<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="127" class="Recreation Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama127">ohama-127</a></td>
+        <td class="words">
+          <div id="spoken">New Years was a little different. We had snow and it was a little colder. New Years Eve we planned to go to the hall shin-dig, but the car broke down at the last minute. (The same thing happened when we started out for the local school concert! Wotta lousy jalopy! They said, after it was all over, we really missed somethin’) Well, anyway, we managed to ??? over one of the neighbors and his family. Boy, did we have a lot to drink -- pop, of course! (Don’t worry, Joan, all us boys were sober!)</div>
+        </td>
+        <td class="timestamp"><br />Recreation<br>Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="128" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama128">ohama-128</a></td>
+        <td class="words">
+          <div id="spoken">I’m boring you so I’ll close -- while I got the chance -- ‘cause I’ll just go on and on.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="129" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama129">ohama-129</a></td>
+        <td class="words">
+          <div id="spoken">You be hearing from me soon.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="130" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama130">ohama-130</a></td>
+        <td class="words">
+          <div id="spoken">Take care of yourself and bundle up and be good!</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="131" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama131">ohama-131</a></td>
+        <td class="words">
+          <div id="spoken">Yours Al</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="132" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama132">ohama-132</a></td>
+        <td class="words">
+          <div id="spoken">Over</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="133" class="WWII">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama133">ohama-133</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Thanks for the lovely card! Keep the home fires burning! Al.</div>
+        </td>
+        <td class="timestamp"><br />WWII</td>
+      </tr>
+
+      
+  
+  
+      <tr id="134" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama134">ohama-134</a></td>
+        <td class="words">
+          <div id="spoken">Rainier, Alta.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/ohama.html#ohama134">Letter 6</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="135" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama135">ohama-135</a></td>
+        <td class="words">
+          <div id="spoken">Feb 28, 1943</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="136" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama136">ohama-136</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="137" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama137">ohama-137</a></td>
+        <td class="words">
+          <div id="spoken">Hello there. Just thought I’d drop a line. I’m not quite sure of the last time I wrote, but I rather imagine that it was none too recently.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="138" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama138">ohama-138</a></td>
+        <td class="words">
+          <div id="spoken">Well, how are you doin’ these dismal days? How’s school? Boring or interesting? Sonny tells me you kids have to go to school on Saturdays, too. Is it true? Too bad if it is. Gosh, you may be too busy to</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="139" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama139">ohama-139</a></td>
+        <td class="words">
+          <div id="spoken">write to me. And that would be unbearable. Really. Well, I’ll just hope for the best.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="140" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama140">ohama-140</a></td>
+        <td class="words">
+          <div id="spoken">How are you making out with that “certain guy”? If he don’t wan give you a glance, he ought to have his head examined. Maybe I shouldn’t have said that seeing how you like him so. You’ll have to pardon me.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="141" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama141">ohama-141</a></td>
+        <td class="words">
+          <div id="spoken">How are your other dates coming along? Surely you don’t devote all your time to this guy! Do you have</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="142" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama142">ohama-142</a></td>
+        <td class="words">
+          <div id="spoken">lots of fun or do they bore you to death. Seems you have lots of fun. Well, that’s the right and only way.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="143" class="Education Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama143">ohama-143</a></td>
+        <td class="words">
+          <div id="spoken">Is the school the same? How are the girl cadets getting along? Do you manage to keep in step with all the other [???]! Or do you like to be different!</div>
+        </td>
+        <td class="timestamp"><br />Education<br>Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="144" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama144">ohama-144</a></td>
+        <td class="words">
+          <div id="spoken">How are the teachers? Still the same? Tch, tch! You kids seem to have raw? Times with Mr. [???].</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="145" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama145">ohama-145</a></td>
+        <td class="words">
+          <div id="spoken">He sure must be patient with you taks, but that’s what makes a good teacher. Agree?</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="146" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama146">ohama-146</a></td>
+        <td class="words">
+          <div id="spoken">How are you Dad and Mother? How’s Donnie? Hope they are well. And of course that goes for you, too.</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="147" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama147">ohama-147</a></td>
+        <td class="words">
+          <div id="spoken">Well, Joan, theren’t not much to write about over here, you know that. The days still come and go. ‘Tis a sad world!</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="148" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama148">ohama-148</a></td>
+        <td class="words">
+          <div id="spoken">I don’t want to bore you with all my “buffing”[?] So until something pleasant happens I'll say,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="149" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama149">ohama-149</a></td>
+        <td class="words">
+          <div id="spoken">So long for a while</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="150" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama150">ohama-150</a></td>
+        <td class="words">
+          <div id="spoken">Your loving pal,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="151" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/ohama.html#ohama151">ohama-151</a></td>
+        <td class="words">
+          <div id="spoken">Al.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      </table>
+  </div>
+  
+  
+  
+  
+  
+  <div class="contentsdiv">
+    <h3 class="my-4 takahashi"><a href="/gillis-2021_ohd/transcripts/takahashi.html">Takahashi</a></h3>
+    <table id="contents-container" class="my-4 border takahashi ">
+      <tr id="1" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi1">takahashi-1</a></td>
+        <td class="words">
+          <div id="spoken">c/o George C Card</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi1">Letter 1</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="2" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi2">takahashi-2</a></td>
+        <td class="words">
+          <div id="spoken">Magrath, Alta.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="3" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi3">takahashi-3</a></td>
+        <td class="words">
+          <div id="spoken">Saturday, April 25, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="4" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi4">takahashi-4</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan;</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="5" class="Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi5">takahashi-5</a></td>
+        <td class="words">
+          <div id="spoken">On Wednesday we reached our new home after 2 1/2 days 2 nights. We left New Westminster around 9 Mon. All the time along to Kamloops we had our heads poked out of the window looking at the scenery but [once?] there it was night. During the night we stopped at Salmon Arm, Revelstoke. The next morning April 21 Harding [???] and I were up from 3 am walking up and down the train and watching the scenery throw [sic] the pass. There it was so cold that the Kicking Horse River had ice around the banks and streams were frozen. In daylight we reached Frields where we put our time ahead one hour. Later we reached Banff. Along the way between Fields and Banff we saw many elks and a moose. Near noon we reached Calgary where we spent the rest of the afternoon till about 7.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="6" class="Forced-dispersal  recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi6">takahashi-6</a></td>
+        <td class="words">
+          <div id="spoken">There we saw the show “Babes on Broadway” and we walked about the town. About 11:00 PM we reached Lethbridge and spend the whole night there. From about 4 AM I roamed around the station the town. About 5 AM Yoshio and I and some girls at breakfast at [Lethbridge]. We started again for Raymond at 8:20AM. We reached Raymond at 11:30.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br> recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="7" class="Forced-dispersal  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi7">takahashi-7</a></td>
+        <td class="words">
+          <div id="spoken">Afternoon we took our own baggage off the freight and load [sic] it on trucks to our new home which is 18 miles out of Raymond. Our home is about 2 1/2 mi apart from Yoshio’s home but bout 20 miles apart from most of our friends. I find it quite different over here for it is colder, windy, no trees and the place is so rolly and places level. On Thursday</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="8" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi8">takahashi-8</a></td>
+        <td class="words">
+          <div id="spoken">April 23 when I awoke I found out that it had snowed about 2 inches. Today the wind is so cold that your hands and face turns red and purple from the cold.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="9" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi9">takahashi-9</a></td>
+        <td class="words">
+          <div id="spoken">I bet Surrey is so warm that you could go out with no sweaters and I bet you sweat while we freeze.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="10" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi10">takahashi-10</a></td>
+        <td class="words">
+          <div id="spoken">We are all healthy and happy and I wish you are too. I wish you would write for I would like to know how you are getting along and know your and my school pals are getting along.</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="11" class="Communications  Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi11">takahashi-11</a></td>
+        <td class="words">
+          <div id="spoken">This is all I got to say so I wish you will write for me to read at lonely nights.</div>
+        </td>
+        <td class="timestamp"><br />Communications<br> Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="12" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi12">takahashi-12</a></td>
+        <td class="words">
+          <div id="spoken">Your School Pal</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="13" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi13">takahashi-13</a></td>
+        <td class="words">
+          <div id="spoken">Jackie Takahashi</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="14" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi14">takahashi-14</a></td>
+        <td class="words">
+          <div id="spoken">c/o George C. Card.</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi14">Letter 2</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="15" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi15">takahashi-15</a></td>
+        <td class="words">
+          <div id="spoken">Magrath, Alta.,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="16" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi16">takahashi-16</a></td>
+        <td class="words">
+          <div id="spoken">Sunday, May 10, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="17" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi17">takahashi-17</a></td>
+        <td class="words">
+          <div id="spoken">2:00 P.M.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="18" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi18">takahashi-18</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan;</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="19" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi19">takahashi-19</a></td>
+        <td class="words">
+          <div id="spoken">I received your letter on the fifth day of May but I didn't get it until the next day for I was out working somewhere else for a couple of days. We have been here 18 days. On the 8 and 9th my brother and I started planting the garden. Boy! What a place to make a garden. Clumps of hard dried dirt all over and the ground hard as stone. We had to plant the garden for there isn't no body else to do it.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="20" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi20">takahashi-20</a></td>
+        <td class="words">
+          <div id="spoken">Last night it rained and thundered and lightning flashed so bright that things could be seen plainly. This morning it was still raining. Boy! You should come down here and walk around. Mud about 2 inches. Go out side and you get mud all over your shoe. All we can do is sit in our little wee shack which is only about 10’ by 20’. No radio no nothing in fact no room to move. Yesterday it was so darn windy that your had, paper, cans, pails, and every thing was blown around. The wind made a terrible noise around the corner of the house. Gosh! I'm getting sick and tired of this country. Gee wiz the wind is starting to blow again. Anyways maybe it will dry the ground so a person could walk around with out getting a new sole on your shoe. Friday night about 11 o’clock the irrigation water came down the ditch which is along the side of the road right near our house. The water comes from a mountain in the United States. I haven’t told you about the surrounding yet. Well towards the north the land is quite level without large trees like B.C. Towards the east and south there is a high hill which is about 600ft higher then [sic] where we are. On the</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="21" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi21">takahashi-21</a></td>
+        <td class="words">
+          <div id="spoken">side of the hill strips of green and brown can be see. From near our home if we look westwards we can see part of the Rocky. From Yoshio’s place which is SW of our place and much higher we can see part of the sugar factory at Raymond which is about 18 miles away. From there we can see about 4 train stations. We can tell if there is a station for we can see grain elevators.About a mile east of our place there is a low steep banked river or a creek running. This is a nice place, clean water down below and small trees and green crass.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="22" class="Homesickness  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi22">takahashi-22</a></td>
+        <td class="words">
+          <div id="spoken">One thing I miss is the big trees. Out here you bay 50 cents for a spruce tree about 2 ft tall.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="23" class="Living-conditions  recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi23">takahashi-23</a></td>
+        <td class="words">
+          <div id="spoken">There isn't nothing to do at all around here but go see your friends or catch goffers [sic] or try to. Riding a bike isn't much fun when the wind is blowing against you. I don't mind the rain but darn the wind and rain.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="24" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi24">takahashi-24</a></td>
+        <td class="words">
+          <div id="spoken">But soon I guess I will be saying gosh it’s hot I wish the wind will blow. The darn wind blows dust around the place and into your eyes. When the sun shines it gets too darn hot and dry.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="25" class="Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi25">takahashi-25</a></td>
+        <td class="words">
+          <div id="spoken">In another two weeks time we will be working on our good old sugar beets for some are out all ready [sic]. Boy! Oh Boy! You can think of us bent over sweating and thinning the beats. Gosh!</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="26" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi26">takahashi-26</a></td>
+        <td class="words">
+          <div id="spoken">I feel going to school but they told us not to consider school till September.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="27" class="Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi27">takahashi-27</a></td>
+        <td class="words">
+          <div id="spoken">And about your hope. The letter you wrote came to me with black letters reading “examined by censor.”</div>
+        </td>
+        <td class="timestamp"><br />Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="28" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi28">takahashi-28</a></td>
+        <td class="words">
+          <div id="spoken">Gosh I will miss the cherry and other fruits and even the flowers. Anyhow I remember seeing a tulip before I came here.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="29" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi29">takahashi-29</a></td>
+        <td class="words">
+          <div id="spoken">I am fine and I wish you are too. Well Good-bye till I write again.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="30" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi30">takahashi-30</a></td>
+        <td class="words">
+          <div id="spoken">Yours</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="31" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi31">takahashi-31</a></td>
+        <td class="words">
+          <div id="spoken">Jack Takahashi</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="32" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi32">takahashi-32</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Where you get the idea that I write interesting letters</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="33" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi33">takahashi-33</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alberta,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi33">Letter 3</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="34" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi34">takahashi-34</a></td>
+        <td class="words">
+          <div id="spoken">June 10, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="35" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi35">takahashi-35</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan;</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="36" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi36">takahashi-36</a></td>
+        <td class="words">
+          <div id="spoken">You aren't mad at me for not answering your letter right away are you? I was sort of lazy to write right away and I just about forgot to answer your letter. I just finished super and I remembered I still had to answer your letter.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="37" class="Beet-farms  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi37">takahashi-37</a></td>
+        <td class="words">
+          <div id="spoken">Boy it felt good to come in the house after being working in the sugar beets when the wind was blowing like the heck. It sure was windy. It made tear [sic] come out of my eye and water out of my nose. We started beet thinning last Tuesday, June 2nd. We worked about 1/2 day on the 2nd, 1/2 day on the 3rd. The other half day it rained. That Wednesday it changed from sunshine to rain while we ate our dinner. For the rest of the week we stay at home. Sunday night we had a thunder storm.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="38" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi38">takahashi-38</a></td>
+        <td class="words">
+          <div id="spoken">Around Raymond they had hail and rain but we were lucky for we were on the outskirts of the rain and it only sprinkled around here.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="39" class="Beet-farms  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi39">takahashi-39</a></td>
+        <td class="words">
+          <div id="spoken">Monday we started work again and have worked every day till today so far. We finished over 6 acres that is thinning the beets.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="40" class="Beet-farms  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi40">takahashi-40</a></td>
+        <td class="words">
+          <div id="spoken">Thinning isn’t so hard as I thought. All we have to do is to cut out the beets with a how so to leave a beet a hoe length apart. You are supposed to leave only one beet and not two at once place for it won't grow as big. The sugar beet plant is all the same as a ordinary red beet but the leaves aren't red but are green. It look more like a spinach plant than a beet. The only thing wrong is that the weeds cover the garden for it rained so darn much.</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="41" class="Communications  "[insert proper term
+for landowner/supervisor/'boss']"">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi41">takahashi-41</a></td>
+        <td class="words">
+          <div id="spoken">I got tired last night so I put away the half written letter for I knew I couldn’t mail it till to-day June 11 when our boss comes here to his farm from town.</div>
+        </td>
+        <td class="timestamp"><br />Communications<br> "[insert proper term
+for landowner/supervisor/'boss']"</td>
+      </tr>
+
+      
+  
+  
+      <tr id="42" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi42">takahashi-42</a></td>
+        <td class="words">
+          <div id="spoken">This morning my eyes</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="43" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi43">takahashi-43</a></td>
+        <td class="words">
+          <div id="spoken">opened around 6 o’clock but I heard the sound of the wind and the rain and slept soundly till about quarter past eleven. I waited for dinner and then here I am writing again. Gosh rain again. That mean [sic] no work for a couple of days, more grass, more mud, can't go outside without getting muddy. When it rains it’s as same as being stranded on an island for you can't go outside. We hauled some travel along our house so it won't be as muddy as before that’s one thing. I’d for rather [sic] work or be outside than stay inside out from the rain. This month we had only about 2 days with sunshine. When the sunshines [sic] and when the wind isn't blowing it sure is hot. Sweat just pours down my face last Tuesday. Yesterday we had sunshine most of the day but the wind was blowing like the heck.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="44" class="Homesickness  Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi44">takahashi-44</a></td>
+        <td class="words">
+          <div id="spoken">I heard from Yosh that the Blue House had won the Inter House [???]. That sure is something I never thought the Blue House would win even though I was in it. Well I was in the winning house for the track twice. So was Yosh</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br> Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="45" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi45">takahashi-45</a></td>
+        <td class="words">
+          <div id="spoken">Are you still going to school or have you finished yet? Have you past [sic] all your subjects or don't you know yet? I wish I could of [sic] finished grade nine. I don't know if I have to start grade nine over again or not if I start in September yet but if I start school again I'll find out.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="46" class="Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi46">takahashi-46</a></td>
+        <td class="words">
+          <div id="spoken">How are the cherries and other fruits I sure miss my strawberries and cherries.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="47" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi47">takahashi-47</a></td>
+        <td class="words">
+          <div id="spoken">The strawberries here that is our bosses is just flowering. Their tulips are fresh blooming here. The lilac and all of the flowers are just blooming here. I guess you don't see tulips and lilac at Surrey now? Spring just got here in Alberta.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="48" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi48">takahashi-48</a></td>
+        <td class="words">
+          <div id="spoken">You want to know something about our garden? Well it’s more grass than anything else and that’s about all there is anyway.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="49" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi49">takahashi-49</a></td>
+        <td class="words">
+          <div id="spoken">That’s all I've got to say so I'll end there.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="50" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi50">takahashi-50</a></td>
+        <td class="words">
+          <div id="spoken">(I just moved the page and didn’t look where i was writing)</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="51" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi51">takahashi-51</a></td>
+        <td class="words">
+          <div id="spoken">Good-bye for a while</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="52" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi52">takahashi-52</a></td>
+        <td class="words">
+          <div id="spoken">Jackie Takahashi</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="53" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi53">takahashi-53</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Excuse my paragraphing and everything else</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="54" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi54">takahashi-54</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alberta,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi54">Letter 4</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="55" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi55">takahashi-55</a></td>
+        <td class="words">
+          <div id="spoken">July 24, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="56" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi56">takahashi-56</a></td>
+        <td class="words">
+          <div id="spoken">8:00 PM</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="57" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi57">takahashi-57</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="58" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi58">takahashi-58</a></td>
+        <td class="words">
+          <div id="spoken">I thought I’d better write this letter before I forget again. I'm just fooling around now.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="59" class="Beet-farms  Labour-conditions  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi59">takahashi-59</a></td>
+        <td class="words">
+          <div id="spoken">We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days. On Monday 13th I've started hoeing, that is, taking out the grass around the [???} beets that were left. On Wed. I think it rained so we couldn’t work for a couple of days. We just about finished Wed. that is day before yesterday but when we were all on our last row a big black cloud came over our head. It started thunder and lightning and started to drip. We started on our way home as fast as we could. (We had about 1/2 mile to go). Just as we started it started to pour. It kept up getting worse and worse. Soon it began to hail too. We were all in our shirts soaking wet before we even reached half way home. The wind was blowing from the west and oh boy I really felt the hail as it bounced off my bare arms. I couldn't see about 500 ft in front or around me. When we got home we all were dripping wet. The rain even went through my boots. That sure was a rain and it taught me to run when ever I see big black clouds coming. We just finished having another storm a half an hour ago worse than the other but it was shorter. I thought the cloud would miss us but the wind changed and the cloud came towards us. I’d say it was the blackest clouds I'd ever seen yet. It was as black as coal. When I saw the clouds</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br> Labour-conditions<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="60" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi60">takahashi-60</a></td>
+        <td class="words">
+          <div id="spoken">our way I wasn't dumb enough to stay out this time but I just got in the house in time. The rain was more like snow for its blown all over by the wind. It’s the first time I'd ever seen rain like that. A couple of miles out from our place they had hail bigger than marbles the other day. Lucky we didn’t. These storms come all of a sudden that you aren't even prepared for rain. Today till about 1 it really was hot.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="61" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi61">takahashi-61</a></td>
+        <td class="words">
+          <div id="spoken">They celebrated the birthday of Magrath (I don't what birthday [sic]) to-day at the town park. It isn't what I'd call a park it’s just a play ground with a grand stand. I didn't go although I was playing. They all [sic] kinds of sports and broncho [sic] riding, milking wild steers, that is, they let out a herd of steers out and cowboys lasso them and others on foot carry a milk bottle and try to get some milk the first to get milk gets the prize. They had a parade too. I don't know how that was but I guess it couldn’t be so bad.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="62" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi62">takahashi-62</a></td>
+        <td class="words">
+          <div id="spoken">I went to the Raymond Stampede on July 1st. There wasn't much to see but they charged me 50 cents. All they had was milking the wild steer, lassoing and typing up calf (the first one to tie a calf wins) decorating a steer by leaping off a horse onto a steer and put a ribbon on its horn. They had wild broncho [sic] riding, steer riding, 3 cowboys saddling a wild broncho [sic] and riding to the opposite end of the ground. They also had horse races. It sure was hot that day and I had to sit in the sun. A seat in the Grand Stand was 2 bits and I was full anyway. I rode both ways on my bike and did I sweat. That was about 30 miles all together.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="63" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi63">takahashi-63</a></td>
+        <td class="words">
+          <div id="spoken">From the beginning of July we have had hot weather but we have rain about 4 times this month all ready. July seems to be</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="64" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi64">takahashi-64</a></td>
+        <td class="words">
+          <div id="spoken">the month of hot weather and storms.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="65" class="Beet-farms  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi65">takahashi-65</a></td>
+        <td class="words">
+          <div id="spoken">We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days. On Monday 13th I've started hoeing, that is, taking out the grass around the [???} beets that were left. On Wed. I think it rained so we couldn’t work for a couple of days. We just about finished Wed. that is day before yesterday but when we were all on our last row a big black cloud came over our head. It started thunder and lightening and started to drip. We started on our way home as fast as we could. (We had about 1/2 mile to go). Just as we started it started to pour. It kept up getting worse and worse. Soon it began to hail too. We were all in our shirts soaking wet before we even reached half way home. The wind was blowing from the west and oh boy I really felt the hail as it bounced off my bare arms. I couldn’t see about 500 ft in front or around me. When we got home we all were dripping wet. The rain even went through my boots. That sure was a rain and it taught me to run when ever I see big black clouds coming. We just finished having another storm a half an hour ago worse than the other but it was shorter. I thought the cloud would miss us but the wind changed and the cloud came towards us. I’d say it was the blackest clouds I’d ever seen yet. It was as black as coal. When I saw the clouds</div>
+        </td>
+        <td class="timestamp"><br />Beet-farms<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="66" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi66">takahashi-66</a></td>
+        <td class="words">
+          <div id="spoken">No the [???] family aren’t very close to us for their [sic] about 13 miles from here. The whole family was up at Yosh’s place today but didn’t come here at all.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="67" class="Homesickness  Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi67">takahashi-67</a></td>
+        <td class="words">
+          <div id="spoken">Yes, I received a copy of the June Q.E.Vue and it wasn’t bad for I found out how the school was and how the time ended. I really enjoyed reading the paper.</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br> Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="68" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi68">takahashi-68</a></td>
+        <td class="words">
+          <div id="spoken">It’s the first time I ever wrote such a long letter so I better quit now before I keep writing all night.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="69" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi69">takahashi-69</a></td>
+        <td class="words">
+          <div id="spoken">Sincerely Jack.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="70" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi70">takahashi-70</a></td>
+        <td class="words">
+          <div id="spoken">P.S. I didn’t seal the envelope last night so I thought I’d tell you how Magrath town took the storm last night. My brothers went to town and told me about it. In town they really had a storm for big hail poured down. The windows on the north end of most of the building and house were all broken to bits, the grain around town that is east and north of town were all knocked down, beets that got hit were all knocked over and they say it</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="71" class="Living-conditions  Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi71">takahashi-71</a></td>
+        <td class="words">
+          <div id="spoken">Looks as if they (the leaves) were all chopped up. We were lucky only a little of our beets were hit although not so badly damaged. To-day we can still see hail piled up a little out of town from here. The wind even blew over big trees and took a roof of [sic] a house or barn near town. We were one of the lucky ones but maybe we may get one next time. I hope not anyway. Well so-long!</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="72" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi72">takahashi-72</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alberta,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi72">Letter 5</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="73" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi73">takahashi-73</a></td>
+        <td class="words">
+          <div id="spoken">Nov. 17, 1942</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="74" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi74">takahashi-74</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="75" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi75">takahashi-75</a></td>
+        <td class="words">
+          <div id="spoken">It’s been a couple of weeks since I received your letter so I thought I better write while I got the time.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="76" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi76">takahashi-76</a></td>
+        <td class="words">
+          <div id="spoken">How’s the weather out there. Near the end of October and the beginning of Nov it started to get cold and began freezing. We had about 3 snow falls in the beginning of Nov. We had about 4 to five inches of ice (enough to skate on anyways). All of a sudden the weather changed. It began to get warm again for a week or so. Now it changed again this Sunday night. We had snow Sunday night and yesterday which amounted to about 12 to 14” of snow in different places. Today it seems to be clearing up again but no body knows what will happen</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="77" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi77">takahashi-77</a></td>
+        <td class="words">
+          <div id="spoken">I’ve been out working for a couple of weeks now after we had finished our beets for my school days our [sic] over for this term or for ever. Before I stopped school for topping I didn’t know whether I should go to school or go out to work but now they say that we have to pay $5.50 a month to go to school so I stopped going and I didn’t go after we finished topped [sic]. Instead of school now I have to work. I bought a few books so I can still keep on studying at home in spare time. I’ve been out to other farms topping beets and for the past three days I was out with my brother pitching bundles onto</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="78" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi78">takahashi-78</a></td>
+        <td class="words">
+          <div id="spoken">wagons and into the thresher but the snow fall stopped us for a while I hope.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="79" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi79">takahashi-79</a></td>
+        <td class="words">
+          <div id="spoken">These schools in Alberta won’t let you take some subject if you aren’t the smartest ones. I got B for grade 9. So I was able to take only 2 out of French Physic and Algebra. I dropped Physic and took typing. The typing book is the only book that I know which is the same as your grade 10 books. The Social Studies seems to be the same as out here. I believe most of the subjects are as same as yours but they say that Alberta schooling is ahead of B.C. schooling. I guess I can send you a school newspaper if they have one now. Yosh is still attending school so maybe you can ask him.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="80" class="Communications  Homesickness  Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi80">takahashi-80</a></td>
+        <td class="words">
+          <div id="spoken">I’m sorry I can’t tell you where Tori or Mitsuo are. I was going to ask you in the last letter but I didn’t.</div>
+        </td>
+        <td class="timestamp"><br />Communications<br> Homesickness<br> Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="81" class="Education  Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi81">takahashi-81</a></td>
+        <td class="words">
+          <div id="spoken">No, Joe and John are still in grade six they should be in seven but they won’t put them up. Harry is only in 4 but should be in five. Our boss made a covered wagon so they don't’ have to walk to school.</div>
+        </td>
+        <td class="timestamp"><br />Education<br> Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="82" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi82">takahashi-82</a></td>
+        <td class="words">
+          <div id="spoken">This letter is only a big jumble but I hope you can read it. I’m signing off here so Good-bye till the next letter.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="83" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi83">takahashi-83</a></td>
+        <td class="words">
+          <div id="spoken">Jack Takahashi</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="84" class="Homesickness  Communications">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi84">takahashi-84</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Tell Don and the others to write because I don’t know there [sic] address</div>
+        </td>
+        <td class="timestamp"><br />Homesickness<br> Communications</td>
+      </tr>
+
+      
+  
+  
+      <tr id="85" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi85">takahashi-85</a></td>
+        <td class="words">
+          <div id="spoken">Box 76,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi85">Letter 6</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="86" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi86">takahashi-86</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alta.,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="87" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi87">takahashi-87</a></td>
+        <td class="words">
+          <div id="spoken">Oct. 28, 1943</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="88" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi88">takahashi-88</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="89" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi89">takahashi-89</a></td>
+        <td class="words">
+          <div id="spoken">Hello! Joan. This is your old school pal Jack writing a few lines again. Sure is a long time since we heard from each other.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="90" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi90">takahashi-90</a></td>
+        <td class="words">
+          <div id="spoken">How’s school? No doubt your [sic] getting along fine there. Sure wish I was still going to Q.E. In Alberta school started on the 10th of October and I just started on the 21, that’s yesterday. It feels sort of funny to be in grade 10 with all the younger pupils. The courses have been changed so the schooling is much better. In grade 10 there is 5 compulsory courses [sic]; English, Mathematics, Health, Social Studies, and Science. Besides that I take French and Industrial arts and typing. There isn’t much activity at school yet but I believe they are going to start some clubs soon. Next Friday we elect a president of the school.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="91" class="Labour-conditions  Beet-farms">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi91">takahashi-91</a></td>
+        <td class="words">
+          <div id="spoken">All summer I was away from home working on a farm as [sic] hog feeder and trader man ]. Beet topping kept us busy the last 3 weeks but now we’re finished so we can take it easy now.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br> Beet-farms</td>
+      </tr>
+
+      
+  
+  
+      <tr id="92" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi92">takahashi-92</a></td>
+        <td class="words">
+          <div id="spoken">The weather has been fair for a long while but it doesn’t look so good to-night. We have had frost in the morning just about every day since the middle of September. We had enough snow on September 18th to make everything white believe it or not. That’s the first time I saw snow in Sept. Soon we’ll be seeing plenty of snow and cold weather. I sure don’t like the winters here. Br-r-r it makes me shiver to just think of it. I guess you won’t be seeing old man winter for a while yet.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="93" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi93">takahashi-93</a></td>
+        <td class="words">
+          <div id="spoken">That’s about all so I wish my best regards and Good-bye till I write again</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="94" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi94">takahashi-94</a></td>
+        <td class="words">
+          <div id="spoken">Yours truly</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="95" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi95">takahashi-95</a></td>
+        <td class="words">
+          <div id="spoken">Jackie</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="96" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi96">takahashi-96</a></td>
+        <td class="words">
+          <div id="spoken">Box 76,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi96">Letter 7</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="97" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi97">takahashi-97</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alta.,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="98" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi98">takahashi-98</a></td>
+        <td class="words">
+          <div id="spoken">June 22 /44</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="99" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi99">takahashi-99</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="100" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi100">takahashi-100</a></td>
+        <td class="words">
+          <div id="spoken">I sent a letter to you on the 28th of Dec. but it came back to me for I put the wrong address on -- must of been day-dreaming</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="101" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi101">takahashi-101</a></td>
+        <td class="words">
+          <div id="spoken">Well how’s everything? Good as ever I hope. Not much change here -- never is.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="102" class="Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi102">takahashi-102</a></td>
+        <td class="words">
+          <div id="spoken">Talk about school. I’m sick of school. Sick of going 3 miles to learn nothing. All I learnt so far is a little math and french. Hardly learnt anything in the three subjects.</div>
+        </td>
+        <td class="timestamp"><br />Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="103" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi103">takahashi-103</a></td>
+        <td class="words">
+          <div id="spoken">School is a little bit livelier now that they play badminton during noon hours. We are making a ping pong table in shop so we’ll be able to play ping pong soon. The tumbling club isn’t getting</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="104" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi104">takahashi-104</a></td>
+        <td class="words">
+          <div id="spoken">ahead very fast. Yesterday we had club period so I went down to tumblr and I was doing these forward rolls and things again I don’t think I’ll go down to tumble again till they get a little better.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="105" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi105">takahashi-105</a></td>
+        <td class="words">
+          <div id="spoken">Last night we (the B team) went to Cardstone to play basketball and lost by one point. Two weeks from now we play them again on our own floor. On the 7th we beat Raymond by about 6 points.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="106" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi106">takahashi-106</a></td>
+        <td class="words">
+          <div id="spoken">Last night going and coming back from Cardstone we were like sardines in a can. Twenty-one of us crowded in a little van about 8ft x 5ft. Four sat in the front and 17 of us were in the back crowded so much we could hardly move. There was 10 boy and 7 girls in the back. After the game last night we all were invited to a dance in an [???] Church. I was just a wall flower. They</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="107" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi107">takahashi-107</a></td>
+        <td class="words">
+          <div id="spoken">sure have a nice dancing hall there.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="108" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi108">takahashi-108</a></td>
+        <td class="words">
+          <div id="spoken">I read your [sic] having nice weather on the coast. Well we haven’t anything to kick about for we are having swell weather too. We haven’t seen snow since Christmas when we had a little snow. The days are really warm but the last few days the darn wind has been blowing terribly. Most of the ice have [sic] melted now so we can’t go skating.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="109" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi109">takahashi-109</a></td>
+        <td class="words">
+          <div id="spoken">I’ve got to go [???] now so I’ll close here. Oh yes I got a few souvenir hankies so I thought I should send one to you.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="110" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi110">takahashi-110</a></td>
+        <td class="words">
+          <div id="spoken">Well So-Long now</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="111" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi111">takahashi-111</a></td>
+        <td class="words">
+          <div id="spoken">Yours sincerely</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="112" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi112">takahashi-112</a></td>
+        <td class="words">
+          <div id="spoken">Jack T.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="113" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi113">takahashi-113</a></td>
+        <td class="words">
+          <div id="spoken">Atlas ??? Co. Camp 9</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi113">Letter 8</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="114" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi114">takahashi-114</a></td>
+        <td class="words">
+          <div id="spoken">Rocky Mt. House, Alta.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="115" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi115">takahashi-115</a></td>
+        <td class="words">
+          <div id="spoken">February 16, 1945</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="116" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi116">takahashi-116</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="117" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi117">takahashi-117</a></td>
+        <td class="words">
+          <div id="spoken">The last time I wrote must have been around December of 1943 or the beginning of 44. A year has gone by and it sure did go fast.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="118" class="Labour-conditions  education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi118">takahashi-118</a></td>
+        <td class="words">
+          <div id="spoken">I must have been still going to school when I wrote the last time. Last March I stopped school again before I finished grade 10 and went to work on a farm and worked there most of the summer and fall. The summer past [sic] without much change. Fall came and passed by November the tenth I left with my brother to camp. I’ve been up here in the wilderness since then and intend to stay till the end of March.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br> education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="119" class="Living-conditions  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi119">takahashi-119</a></td>
+        <td class="words">
+          <div id="spoken">Life isn’t very exciting up here. Work day after day and no where to spend our money or have a little fun once in a while. Rocky Mt. House Town is about 35 miles from here so we can’t go there when we feel like going. Two weeks ago was the first time I saw the town since I came here and most of the boys here haven’t had the chance. I had to see the dentist so i got off a couple of days. Lumber trucks have lumber every day so there is transportation if you get off. Rocky town is right at the foothills of the Rockies and is only a small town just like Magrath or any of the Southern Alberta towns.</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="120" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi120">takahashi-120</a></td>
+        <td class="words">
+          <div id="spoken">After work hours are spent by reading, writing, or playing cards or just sitting around talking. Sitting</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="121" class="Recreation">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi121">takahashi-121</a></td>
+        <td class="words">
+          <div id="spoken">around and talking is the favorite pastime. Sometimes we listen to records or listen to the radio. No there isn’t much here to do to pass time. Sundays are spent like any evening -- nothing to do.</div>
+        </td>
+        <td class="timestamp"><br />Recreation</td>
+      </tr>
+
+      
+  
+  
+      <tr id="122" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi122">takahashi-122</a></td>
+        <td class="words">
+          <div id="spoken">The work here isn’t bad at all for I really like the trees and woods for I’ve always lived in it. The trees only average 20 inches and a few 3 ft so they can’t be compared with B.C. logs.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="123" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi123">takahashi-123</a></td>
+        <td class="words">
+          <div id="spoken">The logs are small so most of the work is done by hand here. First the trees are fallen, branches cut off, and cut to length of 12, 14, 15, 18 or 20 feet. Then the logs are hauled out by horses to skidways and loaded on sleighs (that’s my job - been at it about 2 months) and sent to the mill and cut. The loading is done all by hand so when large logs come out we have quite a time loading them. Soon they intend to drag out long logs with catipillars [sic] and cut them up at once place then send them to the mill. This way they wouldn’t use as much [sic] horses as the way we are doing it.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="124" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi124">takahashi-124</a></td>
+        <td class="words">
+          <div id="spoken">Each day we are supposed to put in 8 hrs but the bush crew only put in about 7 hrs while the mill crew has to put 9 hrs in. Working hours are supposed to be from 7:30 to 12:00 then from 1:00 to 5:30. We start from 8:00 and stop about 5:00. Dinner time we stop work around 11:30 and don't’ start work till about 1:30.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="125" class="Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi125">takahashi-125</a></td>
+        <td class="words">
+          <div id="spoken">The weather all along has been pretty fair some days it got a little cold but most of the time it has been warm. Yesterday it turned</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="126" class="Labour-conditions  Living-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi126">takahashi-126</a></td>
+        <td class="words">
+          <div id="spoken">awfully cold and this morning it dropped to 38 degrees below zero so we didn’t have to go out to work. When it goes till below 30 below we don’t have to work. This is the first time it got so cold. Just last week it was up to around 40 above with the snow melting. We have still about 10 inches of snow around the bush in places.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions<br> Living-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="127" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi127">takahashi-127</a></td>
+        <td class="words">
+          <div id="spoken">Although I’m fed up with everything here, I intend to stick here till end of March so I’m waiting for the day to return back to civilization.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="128" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi128">takahashi-128</a></td>
+        <td class="words">
+          <div id="spoken">The best regards to you and all and thanks for the Christmas card - sorta late to thank you but later is better than never I guess. Well I’ll say good bye now.</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="129" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi129">takahashi-129</a></td>
+        <td class="words">
+          <div id="spoken">Yours Sincerely</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="130" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi130">takahashi-130</a></td>
+        <td class="words">
+          <div id="spoken">Jackie Takahashi</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="131" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi131">takahashi-131</a></td>
+        <td class="words">
+          <div id="spoken">Magrath Alta.,</div>
+        </td>
+        <td class="timestamp">
+          <a target="_blank" href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi131">Letter 9</a><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="132" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi132">takahashi-132</a></td>
+        <td class="words">
+          <div id="spoken">February 24, 1947</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="133" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi133">takahashi-133</a></td>
+        <td class="words">
+          <div id="spoken">Dear Joan,</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="134" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi134">takahashi-134</a></td>
+        <td class="words">
+          <div id="spoken">Hello Joan -- I think that’s a better way than just saying Dear Joan --</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="135" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi135">takahashi-135</a></td>
+        <td class="words">
+          <div id="spoken">I hope except [sic] my apologies for not answering your letter sooner. To tell you the truth I started one before but didn’t answer it - it’s just like me - plenty of time to do everything but to [sic] lazy to do anything --</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="136" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi136">takahashi-136</a></td>
+        <td class="words">
+          <div id="spoken">Well it sure has been a long time since I have corresponded with you. I’m still alive and living yet if you didn’t know. I don’t remember the last time I wrote but things are much the same -- I’ve kept myself busy doing [???] -- working in a cannery and going to the bush in the north --</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="137" class="Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi137">takahashi-137</a></td>
+        <td class="words">
+          <div id="spoken">I was there in the bush for only 2 months this winter -- came home a month ago with a few dollars to show -- I’m living a life of ease at present but I find it sure is hard on my pocketbook. I had a job with a carpenter for 2 days but cold weather ended that. We had good weather after but I had other business so never got to working -- I stay home in the hotel and with my pal but since I can’t get to work I guess I’ll go home again.</div>
+        </td>
+        <td class="timestamp"><br />Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="138" class="Forced-dispersal  Labour-conditions">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi138">takahashi-138</a></td>
+        <td class="words">
+          <div id="spoken">We’ve been here for four long years now and most of us not knowing what our future will be. This winter a great many Japanese have went east hoping to find a better future. Last week I went to Brooks-(about 100 miles from here) to see a farm-- We’re now intending to go there try our luck in farming -- I found the town of Brooks a fairly nice place. My dad’s getting on</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br> Labour-conditions</td>
+      </tr>
+
+      
+  
+  
+      <tr id="139" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi139">takahashi-139</a></td>
+        <td class="words">
+          <div id="spoken">age now and my brothers coming up mechanics so I have to take over the family and that I don’t like.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="140" class="Education  Photographs">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi140">takahashi-140</a></td>
+        <td class="words">
+          <div id="spoken">My brothers are still going to school yet. My twin brothers are just in 10 now. They should be in 11 but they had to one year back when we came for the school wouldn't let them up for they never finished their term when we left. Henry is in 8 I think. -- I’m enclosing a snap of me and my brothers -- it’s not a very clear picture though but I thought maybe you would like to see it. Sometime if I ever get a good one of myself I’ll send it to you -- Say Joan I sure would like to get one of you. --</div>
+        </td>
+        <td class="timestamp"><br />Education<br> Photographs</td>
+      </tr>
+
+      
+  
+  
+      <tr id="141" class="Living-conditions  Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi141">takahashi-141</a></td>
+        <td class="words">
+          <div id="spoken">I sure hate to leave Magrath for the people here are sure treating us as citizens. This is the only town in Alberta they gave us the right to vote in a town election. Some of us have joined into the clubs and they sure treat us swell. -- But the future here sure doesn’t look very good here I tried to rent a farm here too but with no success so we’ll be going to Brooks as far as I know. We have regulations upon us so we can’t do everything we please -- though they have cancelled many of the regulations. --</div>
+        </td>
+        <td class="timestamp"><br />Living-conditions<br> Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="142" class="Forced-dispersal  Education">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi142">takahashi-142</a></td>
+        <td class="words">
+          <div id="spoken">You ask me about the other fellows you know -- well I don’t know much about them either for you know how my correspondence is. I read about Tom Hashibo [?] a few weeks ago. Sure wish I could send you that article from the paper -- He got the highest honor in a university in Montreal I think and now is attending one in Ohio now. He sure is getting places. Sure wish I were in his shoes -- Other fellows I don’t know</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br> Education</td>
+      </tr>
+
+      
+  
+  
+      <tr id="143" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi143">takahashi-143</a></td>
+        <td class="words">
+          <div id="spoken">much about.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="144" class="Forced-dispersal  Homesickness">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi144">takahashi-144</a></td>
+        <td class="words">
+          <div id="spoken">Say Joan -- You do sound a little -- can’t think of a right word -- my vocabulary isn’t very good. You said foul tempered but I would say that -- anyways cheer up chum -- life isn’t that bad is it -- I guess everyone gets lonesome for home and other things but one has to some work to live so I’ve found out -- I think when you get to know a place for a while you start to like it even if it is a dead place -- Magrath is just a small store on a road but now I hate to leave it -- I sure hated the place the first few years --.</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal<br> Homesickness</td>
+      </tr>
+
+      
+  
+  
+      <tr id="145" class="Joan">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi145">takahashi-145</a></td>
+        <td class="words">
+          <div id="spoken">You say you are a terrible teacher -- I wouldn’t say that for I know your intelegent [sic] enough -- I think -- (don’t take that serious - I like tickeling [sic] people) -- for I sure couldn’t keep up to your marks ever. -- good old school days. --</div>
+        </td>
+        <td class="timestamp"><br />Joan</td>
+      </tr>
+
+      
+  
+  
+      <tr id="146" class="Forced-dispersal">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi146">takahashi-146</a></td>
+        <td class="words">
+          <div id="spoken">Say Joan you say you are nineteen and you hate getting old -- I wouldn’t call that old. I myself am a year older but I don’t mind and feel fine although a woman is suppose [sic] to be a few years older than a man the same age -- I was fourteen when I came here and those five years have sure changed me a lot in way of life. I guess I grew a little too -- I’m 5ft 6 now and have been for the last 4 years -- My brothers that is the twins are getting bigger than me. Soon I’ll be the smallest. My older brother is about 5 ft 9. --</div>
+        </td>
+        <td class="timestamp"><br />Forced-dispersal</td>
+      </tr>
+
+      
+  
+  
+      <tr id="147" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi147">takahashi-147</a></td>
+        <td class="words">
+          <div id="spoken">Can’t think of anything else to write about at present so I take this [???] to say good bye dear teacher --</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="148" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi148">takahashi-148</a></td>
+        <td class="words">
+          <div id="spoken">I wish you my best regards and say good bye again.</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="149" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi149">takahashi-149</a></td>
+        <td class="words">
+          <div id="spoken">Yours very sincerely</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="150" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi150">takahashi-150</a></td>
+        <td class="words">
+          <div id="spoken">Jackie</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      
+  
+  
+      <tr id="151" class="Writing">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi151">takahashi-151</a></td>
+        <td class="words">
+          <div id="spoken">P.S. Hoping this have found you fine and healthy. Hoping you’re able to read my small and pardon my mistakes for I never reread or rewrite my letters</div>
+        </td>
+        <td class="timestamp"><br />Writing</td>
+      </tr>
+
+      
+  
+  
+      <tr id="152" class="">
+        <td class="line"><a href="/gillis-2021_ohd/transcripts/takahashi.html#takahashi152">takahashi-152</a></td>
+        <td class="words">
+          <div id="spoken">Good night Joan --</div>
+        </td>
+        <td class="timestamp"><br /></td>
+      </tr>
+
+      </table>
+  </div>
+  
 
 
 </div>
+    </article>
+    </main>
+    <footer class="navbar nav-dark bg-dark text-white border-top mt-3">
+  <div class="container-fluid pt-3 pb-0">
+    <div class="row align-items-center pb-0 w-100">
+      <div class="col-md-8 text-md-left text-center">
+        <a class="h5" href="https://ubc-library-rbsc.github.io/gillis-2021_ohd/">Gillis Project OHD</a>
+        <br>
+        <p class="pl-1"><span class="text-light">In-progress demo of OHD as used for letters</span>
+        </p>
+      </div>
+      <div class="col-md-4"  class="text-md-right text-center">
+       
+        <p >Code and Template: <a class='text-light' href="https://github.com/ubc-library-rbsc/gillis-2021_ohd"><svg class="text-light" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" fill="white" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg></a> <a class='text-light border-bottom' href="https://github.com/uidaholib/oral-history-as-data">GitHub</a> </p>
+       
+      </div>
+      <div class="col-12 pt-2 text-center pb-0">
+      <p class="col-12 small text-center">Built with: <a class='text-light border-bottom' href="https://uidaholib.github.io/oral-history-as-data/">Oral History as Data</a>, a <a href="https://cdil.lib.uidaho.edu" target="_blank"  class='text-light border-bottom'>CDIL</a> project</p></div>
+    </div>
+    
+  </div>
+</footer>
+    <!-- Optional JS for Bootstrap: jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="/gillis-2021_ohd/assets/js/jquery-3.3.1.min.js"></script>
+<script src="/gillis-2021_ohd/assets/js/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+
+<script>
+            const url = new URL(window.location);
+            const params = url.searchParams;
+
+    function codeFilter(x) {
+              console.log(x);
+              $("rect").addClass("black");
+              $("circle").addClass("black");
+              $("tr").addClass("black");
+              $("div.contentsdiv").addClass("hidden");
+              $("div.vizdiv").addClass("hidden");
+              $('rect.' + x).toggleClass("black");
+              $('circle.' + x).toggleClass("black");
+              $('tr.' + x).toggleClass("black");
+              $("tr").not('.black').closest('div.contentsdiv').removeClass("hidden");
+              $("rect").not('.black').closest('div.vizdiv').removeClass("hidden");
+              //Add another parameter. 
+              params.set('filter', x);
+              console.log(params.toString());
+              var p = params.toString();
+              window.history.replaceState({}, '', location.pathname + '?' + p);
+          }
+          function interviewFilter(x) { 
+              $("table").removeClass("hidden");
+              $("svg").removeClass("hidden");
+              $("table").not('.' + x).toggleClass("hidden");
+              $("svg.chart").not('.' + x).toggleClass("hidden");
+              $("h3").not('.' + x).toggleClass("hidden");
+              //Add another parameter. 
+              params.set('id', x);
+              console.log(params.toString());
+              var p = params.toString();
+              window.history.replaceState({}, '', location.pathname + '?' + p);
+          }
+  
+          $(".legend").click(function () {
+              var cFilter = $(this).attr("data-id");
+              codeFilter(cFilter);
+          });
+          $("h3.toggle_int").click(function () {
+              var intFilter = $(this).attr("data-id");
+              interviewFilter(intFilter);
+          });
+          $("#reset").click(function () {
+              $("rect").removeClass("black");
+              $("circle").removeClass("black");
+              $("tr").removeClass("black");
+              $("table").removeClass("hidden");
+              $("svg").removeClass("hidden");
+              $("h3").removeClass("hidden");
+              $("div").removeClass("hidden");
+              params.set('id', '');
+              params.set('filter', '');
+              window.history.replaceState({}, '', location.pathname);
+          });
+  
+          $(document).ready(function () {
+          let url = new URL(window.location);
+          let params = url.searchParams;
+          var itemfilter = url.searchParams.get('id');
+          var datafilter = url.searchParams.get('filter');
+          if (datafilter) {
+              codeFilter(datafilter);
+          }
+          if (itemfilter) {
+              interviewFilter(itemfilter);
+          }
+          // init tooltips
+          $(function () {
+              $('[data-toggle="tooltip"]').tooltip()
+          });
+      });
+  </script>
