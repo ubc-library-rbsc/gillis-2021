@@ -17,8 +17,8 @@ permalink: /labour.html
 <p style="text-indent: 25px;"> Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Shelley Ketchell notes, “it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the [British Columbia Security Commission] and towns and cities in Alberta and Manitoba”<sup>2</sup> </p>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-6 align-self-center">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
       {% include feature/alert.html text="You can learn more about the living conditions of our correspondents on the <a href='https://ubc-library-rbsc.github.io/gillis-2021/homelife.html'>'Homelife' page.</a>" color="info" align="center"%}
     </div>
   </div>
@@ -45,8 +45,8 @@ permalink: /labour.html
 </div>
 
 <div class="container">
-  <div class="row">
-    <div class="col-md-6 align-self-center">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
       {% include feature/alert.html text="To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms'>subject visualization page.</a>" color="info" align="center"%}
     </div>
   </div>
