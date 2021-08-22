@@ -41,16 +41,14 @@ permalink: /labour.html
 
 ## Additional Sources of Work
 
-<p style="text-indent: 25px;"> Often times, the pay of sugar beet farming was not enough. Family members had to find other ways to make ends meet within the restrictions placed upon their movement and labour by the Canadian government. For some, this involved doing other work for their “boss” or helping out on larger farms that were being worked by other families. Other times this involved finding other types of work. </p>
-
-“Most of the Japanese sugar beet workers have now gone to the... work camp or to Ontario to cut pulp wood and few have landed swell jobs in Winnipeg.” Nagamori19430109-17
-
-<p style="text-indent: 25px;">The types of work that Japanese Canadians could pick up greatly depended on their gender. Men tended to find work, as Jackie Takahashi did, in logging or other farming work, while women were more likely to doing house-work or to find factory or administrative work in towns or major cities.</p>
+<p style="text-indent: 25px;">Not all forcibly displaced families worked sugar beet farms. Albert Ohama's family, for example, worked on a farm that appears from the letters to have had cows and horses and required the family to cut about 30 acres of hay. Although different from sugar beet farming, this work was no less grueling and still took up nearly all of the family's time<sup>5</sup>.</p>
+<p style="text-indent: 25px;"> Be it sugar beets or other field work, the wages paid to forcibly displaced Japanese Canadians for working these farms was not enough for families to make ends meet, especially if they were trying to pay for school. Family members ended up having to find other ways to make money within the bounds of the restrictions placed upon their movement and labour by the Canadian government. For some, this involved doing other work for their “boss” or helping out on larger farms that were being worked by other families. Other times this involved finding other types of work away from where their families were forced to live. Several of the correspondents note that members of their family, other forcibly displaced Japanese Canadians, or they themselves were either thinking about or did travel eastward to find other work.</p>
+{% include feature/card.html text="Image description: Jackie Takahashi [right], Yoshio Nakamura [left], and another Japanese Canadian boy riding a tractor. Some forcibly displaced families were able to take on additional work helping other families they knew from B.C.In one letter to Joan, Jackie mentions, "We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days." objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-2-5-test.jpg"}
+<p style="text-indent: 25px;">In addition to restrictions on location and types of labour, the types of work that Japanese Canadians could find greatly depended on their gender. Men tended to find work, as Jackie Takahashi did, in logging or other farming work, while women were more likely to doing house-work or to find factory or administrative work in towns or major cities.</p>
+{% include feature/blockquote.html text="All I have to say is that I fail my grade, I intend to quit school and go out working. Probably house-working in winter and farming in summer. That’s about all the work there is for girls out here." author="Sumi Mototsune" citation="Letter to Joan Gillis, July 18, 1943"%}
 
 ## Geography and Climate
-
 <p style="text-indent: 25px;">Weather greatly affected when and how work was able to get done. Many of the letters describe conditions in which it was impossible to keep working because of inclement weather. Other times, even when families could work, they had to do so in extreme weather conditions.</p>
-
 <div class="container">
   <div class="row">
     <div class="col-sm-6 border-right my-auto">
@@ -64,11 +62,19 @@ permalink: /labour.html
 </div>
 
 ## Describing Work in Letters
-###### Optimism
+
+<p style="text-indent: 25px;"> While they were quite candid about their experiences in their letters to Joan, it is noticeable that many of the correspondents tried to be optimistic about their situations, imagining how soon they could be home, that Joan could come visit, or that they might be able to move closer to make that happen.</p>
+
+{%include feature/blockquote.html text="Seriously, though, Joan, I’m not working that hard. The work has been hard but I’m getting use [sic] to it now. We’ve finished all the field work and there’s really not much work to do now. But there’s enough to keep us busy -- darn it. But don’t worry, Joan, I’m not working myself to death. Here pinch my arm. See, I’m alive. Ouch. (You pinched me too hard). Silly, ain’t I?" author="Albert Ohama" citation="Letter to Joan Gillis, August 12, 1942"%}
+
+<p style="text-indent: 25px;"> They also seemed to try to shield Joan from the worst of the conditions they were being forced to endure. The backbreaking labour of farming and the incredibly long hours that it required often left them with little energy to write, yet so many of them focused on hoping that Joan would forgive them for not having written back sooner, never mind the fact that the reason they hadn't was because of the monopoly that the work held over their time.</p>
+
+<p style="text-indent: 25px;"> While much of the letters demonstrate how youthful these correspondents were, the manner in which they communicated their situations to Joan shows the maturity they were forced to develop when they were forcibly displaced. Making the best of a bad situation, they used their letters to hold onto their youth, but also could not help but omit some of the harshest elements of their experiences in acknowledgement of Joan's greater innocence back home.</p>
 
 <small> Citations <br>
 1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 99. <br>
 2. Ibid. <br>
 3. Statistics Canada, "That beet is sweet!," <i>Canadian Agriculture at a Glance</i>, April 4, 2009, https://www150.statcan.gc.ca/n1/pub/96-325-x/2007000/article/10576-eng.htm. <br>
-4. Glen Hallick, "Alberta, Ontario sugar beet producers hope for good year," <i>Markets Farm</i>,  July 19th, 2019, https://www.agcanada.com/daily/alberta-ontario-sugar-beet-producers-hope-for-good-year.
+4. Glen Hallick, "Alberta, Ontario sugar beet producers hope for good year," <i>Markets Farm</i>,  July 19th, 2019, https://www.agcanada.com/daily/alberta-ontario-sugar-beet-producers-hope-for-good-year. <br>
+5. Albert Ohama, Letter to Joan Gillis - July 4, 1942.
 </small>
