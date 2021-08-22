@@ -15,6 +15,7 @@ permalink: /labour.html
 
 <p style="text-indent: 25px;"> Much of the work done by the families of the correspondents centres around sugar beet farming. The “option” to work on sugar beet farms provided an important opportunity for Japanese Canadian families to experience their forced removal from B.C. together rather than apart--options such as work camps were highly gendered in nature and led to the separation of men from women and children. According to scholars, this benefit of togetherness-in-forced-dispersal was something that was highly emphasized by the Canadian government when the sugar beet farming was presented to families <sup>1</sup></p>
 <p style="text-indent: 25px;"> Once they had agreed to the work and arrived in Alberta and Manitoba, Japanese Canadian families were met with incredibly poor living conditions, very little pay, and weather that dramatically affected their ability to work. However, although in some instances they had been promised relative freedom of movement, Shelley Ketchell notes, “it is clear that once they committed to the program, the choices were no longer their own. Choices, instead, became dictated by negotiations between the [British Columbia Security Commission] and towns and cities in Alberta and Manitoba”<sup>2</sup> </p>
+<small>You can learn more about the living conditions of our correspondents on the <a href="https://ubc-library-rbsc.github.io/gillis-2021/homelife.html">'Homelife' theme page</a>.</small>
 
 {% include feature/card.html header="Why Sugar Beets?" text="Sugar beets are high in sucrose and are commonly used in Canada and the United States for the production of white sugar. In Canada, sugar beets are particularly valuable because Canada does not have the right climate to grow sugar cane, the other most common source of raw material for sugar. Sugar beets continue to be key to the production of sugar in Canada -- in 2006, Statistics Canada estimated that farmers in Alberta produced 963,000 tonnes of sugar beets that went on to become 124,000 tonnes of beet sugar<sup>3</sup>; in 2018, 1.38 million tonnes of sugar beets were produced<sup>4</sup>." objectid="" width="100" centered=true %}
 				
@@ -25,14 +26,18 @@ permalink: /labour.html
 <div class="container">
   <div class="row">
     <div class="col-sm-6 my-auto">
-      <p style="text-indent: 25px;">There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. </p>
-      {% include feature/blockquote.html text="To [top] this sugar beet we use a heavy knife with a curved hook at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton." author="Tad Nagamori" citation="Letter to Joan Gillis, October 4, 1942" %}
-    </div>
+
+<p style="text-indent: 25px;">There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. </p>
+
+{% include feature/blockquote.html text="To [top] this sugar beet we use a heavy knife with a curved hook at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton." author="Tad Nagamori" citation="Letter to Joan Gillis, October 4, 1942" %}
+     </div>
     <div class="col-sm-6">
-      {% include feature/card.html header="Topping Knife" text="A topping knife that belonged to Roy and Lillie Yano, now held at the Nikkei National Museum (2013.57.3.4). Topping involves taking the green leaves off of the top of the sugar beet." objectid="https://nikkeimuseum.org/files/nikkeImgFMP12/JCNM%20Database/files/ARTEFACT/Image_Image%201/27336/2013-57-3-4.jpg" width="100" centered=true %}
-    </div>
+{% include feature/card.html header="Topping Knife" text="A topping knife that belonged to Roy and Lillie Yano, now held at the Nikkei National Museum (2013.57.3.4). Topping involves taking the green leaves off of the top of the sugar beet." objectid="https://nikkeimuseum.org/files/nikkeImgFMP12/JCNM%20Database/files/ARTEFACT/Image_Image%201/27336/2013-57-3-4.jpg" width="100" centered=true %}
+     </div>
   </div>
 </div>
+
+{% include feature/button.html text="To read more of what correspondents wrote about the experiences working on beet farms, check out the 'Beet-farms' tag on this exhibit's subject visualization page." link="https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms" color="primary" %}
 
 ## Additional Sources of Work
 
