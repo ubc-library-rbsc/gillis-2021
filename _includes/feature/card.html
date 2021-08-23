@@ -20,7 +20,7 @@
 {%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
 {%- capture src -%}{% if item.filename contains '/' %}{{ item.filename | relative_url }}{% else %}{{ '/objects/' | append: item.filename | relative_url }}{% endif %}{% endcapture %}
 {%- endif -%}
-<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}">
+<div class="card mb-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}{% if include.centered %} mx-auto{% endif %}" style="border-color: #A4AC86;">
     {% if src %}<img class="card-img-top" src="{{ src }}" alt="{{ item.title | default: include.title | escape }}">{%- endif -%}
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{%- endif -%}
     <div class="card-body">
