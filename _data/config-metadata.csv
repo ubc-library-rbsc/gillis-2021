@@ -1,4 +1,5 @@
 field,display_name,browse_link,external_link
+transcriptlink,Full-text Transcript,,true
 title,Title,
 creator,Creator,
 date,Date Created,
@@ -12,4 +13,3 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-transcriptlink,View Transcript,,true
