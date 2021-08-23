@@ -14,7 +14,7 @@ credits: true
 
 This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/">RBSC's Visting page</a> for additional information.
   
-###Land Acknowledgements
+<h4>Land Acknowledgements</h4>
 
 This digital exhibit was developed as a professional experience project for the Rare Books and Special Collections library of the University of British Columbia, located on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking Musqueam people. In these virtual times, we also wish to acknowledge that it was also in part developed virtually from the lands of the Tamyen and Ramaytush Ohlone (Mountain View, CA, USA).
 
