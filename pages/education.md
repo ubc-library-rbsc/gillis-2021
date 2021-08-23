@@ -17,7 +17,7 @@ Having met many of her Japanese Canadian friends through both classes and work o
 
 In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes: <br><br>
 
-<div class="card bg-light mb-3">
+<div class="card" style="background-color:#e3e4d7;">
   <div class="card-body">
     <blockquote class="blockquote mb-0">
       <p>After that life at school was swell for awhile. The reason why I say "For a while," is because in March all the boys like myself "the Japanese-Canadians" were called into a counselling room and were told that we were barred from further participation in the high school army cadet corps. In all my school career that was my first and worst heart-breaking experience. [...]<br><br>
