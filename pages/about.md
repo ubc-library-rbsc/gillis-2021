@@ -10,18 +10,25 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/ubc-library-rbsc/gillis-2021_draft/main/objects/test-feature-image.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection; Note on the Nature of Letters and Archives ; Notes on Positionality;Acknowledgements;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection; Note on the Nature of Letters and Archives ; Notes on Positionality;Acknowledgements;About the About Page; Tech" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/"RBSC's Visting page</a> for additional information.
+  
+###Land Acknowledgements
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This digital exhibit was developed as a professional experience project for the Rare Books and Special Collections library of the University of British Columbia, located on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓ speaking Musqueam people. In these virtual times, we also wish to acknowledge that it was also in part developed virtually from the lands of the Tamyen and Ramaytush Ohlone (Mountain View, CA, USA).
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+Sugar beet farming has historically taken advantage of not only forcibly uprooted Japanese Canadians; it has also been an industry that has exploited the labour of Indigenous peoples<sup>1</sup>. In addition to acknowledging the settler nature of the exhibit and its developers, we also wish to acknowledge the territories on which the correspondents lived during their forced dispersal and the Nations it traditionally belongs to.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Dryden, Ontario is on the traditional territories of the Michif Piyii (Métis)  and Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ Nations in the Treaty 3 region.
+
+Headingley and Lorette, Manitoba are on the traditional territories of the Michif Piyii (Métis), Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ, and Očhéthi Šakówiŋ Nations in the Treaty 1 region.
+
+Magrath, Rainier, and Raymond, Alberta are on the traditional territories of the Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ), Ktunaxa ɁamakɁis, Tsuu T'ina, Michif Piyii (Métis), and Očhéthi Šakówiŋ Nations in the Treaty 7 region.
+
+Rocky Mountain House, Alberta is on the traditional territories of the Métis, Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ), Tsuu T'ina, and Cree Nations in the Treaty 6 region.
 
 ## Note on the Nature of Letters and Archives 
 
@@ -37,11 +44,10 @@ We wish to acknowledge that these letters are incredibly valuable in that they e
 
 ## Notes on Positionality
 
-Insert text here.
+<small> Mya </small>
+Mya is a settler of Chinese heritage who was adopted into a German-Jewish American family shortly after her birth. She grew up on the unceded territories of the Tamyen and Ramaytush Ohlone peoples, surrounded by stories at the borders of internment and concentration camps. Her grandparents both came to Turtle Island to escape the horrors of Nazi Germany, never being interned themselves, but haunted by the stories of family members who had been, many of whom were murdered. Mya’s maternal great-grandfather, during the course of his family’s escape from Germany, was briefly interned on the Isle of Man in the UK, labeled--not unlike the Japanese Canadians in this exhibit and the Jewish refugees who came to Canada during World War II--as an “enemy alien” not because of his actions, but because of his German origins. Mya is grateful for the opportunity that this exhibit has provided to consider these personal family origins and the notion marginalized communities, regardless of origin, are similarly persecuted by the fruits of xenophobia and lack of agency. She hopes that the work being done here gives voice to those who experienced these injustices first-hand and invites learning and reflection by viewers.
+
 
 ## Acknowledgements
 
 Insert text here.
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
