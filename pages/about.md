@@ -12,7 +12,7 @@ credits: true
 
 ## About the Collection
 
-This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/"RBSC's Visting page</a> for additional information.
+This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/">RBSC's Visting page</a> for additional information.
   
 ###Land Acknowledgements
 
