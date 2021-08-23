@@ -3,7 +3,7 @@
 <div class="card mb-3" >
     <div class="card-body">
         <h5 class="card-title">Objects</h5>
-        <p class="card-text">
+        <p class="card-text h5">
             {% for t in types %}
             {%- assign count = formats | where_exp: 'item','item contains t' | size -%}
             {% if count > 0 %}
