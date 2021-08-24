@@ -123,9 +123,17 @@ permalink: /homelife.html
 
 <p style="text-indent: 25px;">Between recollections of backbreaking labour in the beet fields and experiences of discrimination in their new environments, it can be difficult to remember that most of the letter-writers in this exhibit are just teenagers. One of the greatest reminders of the young age of these correspondents, and a reflection of their resilience in spite of ongoing systemic racism, is the enthusiasm with which they write to Joan about their hobbies, passions, and the activities they turn to for fun.</p>
 
-[IMAGE: swimming or skating?]
-
-<p style="text-indent: 25px;">Sports games at school are described in startling detail. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
+<div class="container">
+	<div class="row">
+    <div class="col-md-6 my-auto">
+      <p style="text-indent: 25px;">Between recollections of backbreaking labour in the beet fields and experiences of discrimination in their new environments, it can be difficult to remember that most of the letter-writers in this exhibit are just teenagers. One of the greatest reminders of the young age of these correspondents, and a reflection of their resilience in spite of ongoing systemic racism, is the enthusiasm with which they write to Joan about their hobbies, passions, and the activities they turn to for fun.</p>
+	<p style="text-indent: 25px;">Sports games against rival schools are recounted point by point. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Accounts of weekend trips to go swimming and skating at the lakes are written in startling detail. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
+    </div>
+		<div class="col-md-6">
+      {% include feature/card.html text="<small>Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads "Kelly Inouye". 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="100" centered=true %}
+		</div>
+	</div>
+</div>
 	
 {% include feature/blockquote.html text="Music? I think I like Bing the bestest. I like smooth lingering music. Of course I classical [sic] -- but not too classical. One thing I don’t like --yet is that corny cave-man music (racket -- I mean). It actually drives me nuts." author="Albert Ohama" citation="Letter to Joan Gillis, August 12, 1942" %}
 
@@ -136,4 +144,5 @@ permalink: /homelife.html
 	2. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 189. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
 	3. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 10 May 1942. RBSC-ARC-1786-01-24. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
 	4. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 24 February 1947. RBSC-ARC-1786-01-33. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
+	5. University of British Columbia Library. Rare Books and Special Collections. Japanese Canadian Research Collection. JCPC-30-003. <a href="https://dx.doi.org/10.14288/1.0049343">https://dx.doi.org/10.14288/1.0049343</a>
 </small>
