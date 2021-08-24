@@ -127,10 +127,10 @@ permalink: /homelife.html
 	<div class="row">
     <div class="col-md-6 my-auto">
       <p style="text-indent: 25px;">Between recollections of backbreaking labour in the beet fields and experiences of discrimination in their new environments, it can be difficult to remember that most of the letter-writers in this exhibit are just teenagers. One of the greatest reminders of the young age of these correspondents, and a reflection of their resilience in spite of ongoing systemic racism, is the enthusiasm with which they write to Joan about their hobbies, passions, and the activities they turn to for fun.</p>
-	<p style="text-indent: 25px;">Sports games against rival schools are recounted point by point. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Accounts of weekend trips to go swimming and skating at the lakes are written in startling detail. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
+	    <p style="text-indent: 25px;">Sports games against rival schools are recounted point by point. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Accounts of weekend trips to go swimming and skating at the lakes are written in startling detail. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
     </div>
 		<div class="col-md-6">
-      {% include feature/card.html text="<small>Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads "Kelly Inouye". 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="100" centered=true %}
+      {% include feature/card.html text="Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads <i>Kelly Inouye<i>. 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="100" centered=true %}
 		</div>
 	</div>
 </div>
