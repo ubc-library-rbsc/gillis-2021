@@ -41,7 +41,7 @@ The fact that these are personal letters now being put on display, in dialogue w
 
 In addition to the wartime censor’s looming presence, so too do we see in these letters a self-censorship that emerges as a result of the imbalance between the life circumstances of the author and recipient. While yearning to remain close to Joan, it is highly likely that the authors of these letters did not wish to burden her with the true weight of their experiences. So, too, are we as readers of these letters saved from the harshest experiences these writers may have had to endure. It is only through conjecture and historical context that we can identify how what was written offered protection through omission as a kindness.
 
-Joan’s spectre looms large in our experience of these letters and her existence as a white teen cannot be ignored. It is, quite plainly, what made the dynamics of these writing relationships possible. At this time in Canada’s history, news from home could have never come from a Japanese Canadian friend.
+Joan’s spectre looms large in our experience of these letters and her existence as a white teen cannot be ignored. It is, quite plainly, what made the dynamics of these writing relationships possible. At that time in Canada’s history, news from home could have never come from a Japanese Canadian friend.
 
 We wish to acknowledge that these letters are incredibly valuable in that they enable us to gain a glimpse into the lives of these letters’ authors, but that our historical gain is not free of conflicting feelings about how these letters came to be material for an exhibit, and what making them into an exhibit represents.
 
