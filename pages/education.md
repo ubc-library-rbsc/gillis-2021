@@ -20,7 +20,7 @@ permalink: /education.html
 
 <p style="text-indent: 25px;">Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council<sup>1</sup> enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.</p>
 
-<p style="text-indent: 25px;">In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes:</p> <br><br>
+<p style="text-indent: 25px;">In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes:</p> <br>
 
 <div class="card" style="background-color:#e3e4d7;">
   <div class="card-body">
@@ -35,7 +35,7 @@ permalink: /education.html
   </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="container">
 	<div class="row">
