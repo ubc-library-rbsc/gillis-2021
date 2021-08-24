@@ -50,6 +50,7 @@ Many correspondents expressed a great longing for British Columbia; for most of 
     </div>
   </div>
 </div>
+
 <br><br>
 For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio reminisces about their shared time at school and compares his years pulled away from home to those of a soldier fighting on foreign soil.
 <br><br>
@@ -66,14 +67,19 @@ For others, this homesickness was more closely tied to their school community at
      </div>
   </div>
 </div>
+<br><br>
 
 ## Making a Home
 
-<p style="text-indent: 25px;">Though assignment to sugar beet farms was framed by the federal government to be a choice that allowed Japanese Canadians the “privilege” of keeping their families together, the number of members in a family who were old enough and eligible to work was a large consideration for the farmers who selected which families to employ (REF MONA). However, the housing provided by these farmers was often no more than a single-room storage shed. The B.C. Security Commission responsible for forced dispersal and the non-consensual sales of Japanese Canadian property only provided additional funds for lumber to build makeshift extensions to the shacks (REF).</p>
+<p style="text-indent: 25px;">Though assignment to sugar beet farms was framed by the federal government to be a choice that afforded Japanese Canadians the “privilege” of keeping their families together, the number of members in a family who were old enough to work in the fields was a large consideration for the farmers who selected which families to employ (REF MONA). However, the housing provided by these farmers was often no more than a single-room storage shed. The B.C. Security Commission, who was enforced the dispersal of Japanese Canadians and the non-consensual sales of their property, provided additional funds for lumber to build makeshift extensions to the shacks, but only to the land-owning farmers(REF).</p>
 
-<p style="text-indent: 25px;">Housing conditions after forced dispersal came as a shock to many of Joan’s correspondents, particularly for those whose families had owned their own farms or businesses in B.C. Jackie Takahashi describes his new quarters as a “wee shack” of “10’ by 20’”, with no room to move.[Jackie ref may 10/42]</p>
+<p style="text-indent: 25px;">Housing conditions after the forced dispersal came as a shock to many of Joan’s correspondents, particularly for those whose families had owned their own farms or businesses in B.C. Jackie Takahashi describes his new quarters as a “wee shack” of “10’ by 20’”, with no room for anyone to move.[REF may 10/42]</p>
 
-<p style="text-indent: 25px;">Not too far from Jackie was Sumi Mototsune, who was sent to live and work on a sugar beet farm near Raymond, Alberta, with her parents, three sisters, and one brother. In one letter, she says of her family's one-room home, “Only mice can have the pleasure of living in here.” [SUMI REF may 30/42]</p>
+<p style="text-indent: 25px;">Not too far from Jackie was Sumi Mototsune, who was sent to live and work on a sugar beet farm near Raymond, Alberta, with her parents, three sisters, and one brother. In a letter from May 30th, 1942, she says of her family's one-room home, “Only mice can have the pleasure of living in here.”</p>
+
+<p style="text-indent: 25px;">Despite the many difficulties of their new living conditions, we can see the ways that the correspondents and their loved ones fought to build a home. Sumi and her mother ask Joan for flower seeds from British Columbia to populate their home garden. Not long after the comment about only mice enjoying their home, Sumi also writes that her father is crafting a second-room extension to improve their house for their family.</p>
+
+<p style="text-indent: 25px;">In a much later letter from 1947, Jackie Takahashi notes that he is moving to Brooks, Alberta, to pursue better career opportunities but is hesitant to leave Magrath, which he says is one of the only towns in Alberta to grant Japanese Canadians municipal voting rights. He says, "I think when you get to know a place for a while you start to like it even if it is a dead place."</p>
 
 ## Recreation
 
