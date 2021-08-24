@@ -77,6 +77,14 @@ Of the letters from the Gillis fonds that are included in this exhibit, none of 
 {% include feature/card.html header="Example: The Old Peat Plant" text="<small>No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what?</small><br>
 Peat was used during peat was used to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason." objectid="https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png" width="75" centered=true %}
 
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about writing, mail, and censorship, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Communications'> 'Communications' tag on the subject visualization page.</a></small>" color="info" align="center"%}
+    </div>
+  </div>
+</div>
+
 <small>Citations</small><br>
 <small>1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 6.</small> <br>
 <small>2. Namiko Kunimoto, "Intimate Archives: Japanese-Canadian family photography, 1939–1949," <em> Art History</em> 27, no. 1 (2004), 133.</small>
