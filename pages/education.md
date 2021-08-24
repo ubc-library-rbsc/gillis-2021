@@ -51,7 +51,6 @@ permalink: /education.html
 </div>		
 
 ## Obstacles to Education
-<br>
 
 <p style="text-indent: 25px;">Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year.<sup>5</sup></p>
 
