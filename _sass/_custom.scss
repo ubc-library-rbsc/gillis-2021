@@ -39,3 +39,7 @@ html {
     z-index: 10000;
     overflow: visible !important;
 }
+
+.navbar-nav > .active > a {
+                background-color: #646D4A;
+            }
