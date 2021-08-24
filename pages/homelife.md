@@ -51,7 +51,7 @@ Many correspondents expressed a great longing for British Columbia; for most of 
   </div>
 </div>
 <br><br>
-For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio writes:
+For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio reminisces about their shared time at school and compares his years pulled away from home to those of a soldier fighting on foreign soil.
 
 <div class="container">
   <div class="row">
@@ -61,8 +61,7 @@ For others, this homesickness was more closely tied to their school community at
      </div>
 	  
     <div class="col-sm-6 my-auto">
-
-{% include feature/blockquote.html text="I do not know how to thank you for that swell pin. You do not know how I felt when I touched it and looked at for a long time. That pin alone brought back the memories that I have cherished for so long. It reminded me of Q.H.S. and of the students that were in it and are in it now. It brought me back to the time I shook hands with you on that last day at school. Gosh, but I wish I could live those years over again. I feel like a soldier away on a foreign shore fighting in battles, and thinking the peaceful hours spent before the tragic occurance [sic]. Thank you an awful lot Joan, for the pin. I won't forget it." %}
+<blockquote><p>I do not know how to thank you for that swell pin. You do not know how I felt when I touched it and looked at for a long time. That pin alone brought back the memories that I have cherished for so long. It reminded me of Q.H.S. and of the students that were in it and are in it now. It brought me back to the time I shook hands with you on that last day at school. Gosh, but I wish I could live those years over again. I feel like a soldier away on a foreign shore fighting in battles, and thinking the peaceful hours spent before the tragic occurance [sic]. Thank you an awful lot Joan, for the pin. I won't forget it.</p></blockquote>
      </div>
   </div>
 </div>
