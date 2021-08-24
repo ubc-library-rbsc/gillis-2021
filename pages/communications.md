@@ -46,7 +46,7 @@ When they could, the letter writers also sent photos in return. When they did no
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      {% include feature/alert.html text="<small>To read more of what correspondents wrote about photographs, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs'>'Photographs' tag on the subject visualization page.</a></small>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about photographs,<br> check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs'>'Photographs' tag on the subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
@@ -80,7 +80,7 @@ Peat was used during peat was used to pack munitions and in the construction of 
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      {% include feature/alert.html text="<small>To read more of what correspondents wrote about writing, mail, and censorship, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Communications'> 'Communications' tag on the subject visualization page.</a></small>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about writing, mail, and censorship,<br> check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Communications'> 'Communications' tag on the subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
