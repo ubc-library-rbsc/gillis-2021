@@ -11,4 +11,6 @@ permalink: /browse.html
     <li class="breadcrumb-item active" aria-current="page">Browse by Item</li>
   </ol>
 </nav>
+
+<p><a href="#">Home</a> <i class="bi-chevron-right"><i> Browse by Item</p>
 ## Browse Items
