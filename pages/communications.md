@@ -37,7 +37,13 @@ Photographs from before their forced removal offered an important way for Nikkei
 
 When they could, the letter writers also sent photos in return. When they did not have access to their own camera, traveling photographers offered a way for folks to have their photos taken.
 
-To explore more about the importance of photographs as expressed in the Gillis letters, check out the 'Photographs' tag on this exhibit's subject visualization page [link].
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about photographs, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs'>subject visualization page.</a></small>" color="info" align="center"%}
+    </div>
+  </div>
+</div>
 
 ## Letter Writing
 
