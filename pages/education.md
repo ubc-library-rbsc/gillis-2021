@@ -18,9 +18,9 @@ permalink: /education.html
 
 ## Forced Dispersal
 
-Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council<sup>1</sup> enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.
+<p style="text-indent: 25px;">Having met many of her Japanese Canadian friends through both classes and work on the school newspaper, the <i>Q.E. Vue</i>, Joan and her correspondents were all of middle- and high school-age when an Order in Council<sup>1</sup> enforced a restricted zone on the entire west coast of B.C. When subsequent Orders established the creation of internment camps in the Interior, along with agreements with the provinces of Alberta and Manitoba to employ Japanese Canadians for labour on sugar beet farms, Joan’s friends had their studies abruptly halted.</p>
 
-In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes: <br><br>
+<p style="text-indent: 25px;">In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narrative writing for Joan to edit that describes the beginning stages of forced dispersal from the first-person perspective of a student. Though it is unclear whether this narrative is meant to be precise retelling of his own experience or a fictionalized version, Yoshio indicates that he wishes for the narrative to read like a “long letter to a friend”, and not a story or essay. Yoshio writes:</p> <br><br>
 
 <div class="card" style="background-color:#e3e4d7;">
   <div class="card-body">
@@ -48,35 +48,34 @@ In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narra
       <p style="text-indent: 25px;">These correspondence courses were only offered to students interned at Hastings Park or those who had been sent to the surrounding camps in the Interior. However, most of the correspondents featured in this exhibit are part of the number of families who were sent to work on sugar beet farms in the Prairies, and were thus subject to different limitations.</p>
 		</div>
 	</div>
-</div>
-	<br>		
+</div>		
 
 ## Obstacles to Education
 <br>
 
-{% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
+<p style="text-indent: 25px;">Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year.<sup>5</sup></p>
 
-Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year<sup>5</sup>.
+	{% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
 
-Transportation also proved difficult, with most of the sugar beet farms being several miles away from towns. Sumi Mototsune mentions riding a crowded van belonging to a cheese factory to and from school in the winter months. In a later account, Yoshio notes that since Japanese Canadian students were not eligible to take the school bus as they were not considered taxpayers, he had no choice but to walk several miles to catch a Greyhound bus to school<sup>6</sup>.
+<p style="text-indent: 25px;">Transportation also proved difficult, with most of the sugar beet farms being several miles away from towns. Sumi Mototsune mentions riding a crowded van belonging to a cheese factory to and from school in the winter months. In a later account, Yoshio notes that since Japanese Canadian students were not eligible to take the school bus as they were not considered taxpayers, he had no choice but to walk several miles to catch a Greyhound bus to school.<sup>6</sup></p>
 
-Many of Joan’s correspondents also describe the difficulties of balancing school with the many demands of sugar beet farming. The assignment of Japanese Canadian families to sugar beet farms, as opposed to road camps in the Interior, was often framed by the government and media as a personal choice. However, road camps would have meant that families would be split up, and sugar beet farming was an option given primarily to families with children old enough to contribute to farm work<sup>7</sup>. The thinning and harvesting season would therefore dictate when students were available to attend school, sometimes delaying their studies by several months.
+<p style="text-indent: 25px;">Many of Joan’s correspondents also describe the difficulties of balancing school with the many demands of sugar beet farming. The assignment of Japanese Canadian families to sugar beet farms, as opposed to road camps in the Interior, was often framed by the government and media as a personal choice. However, road camps would have meant that families would be split up, and sugar beet farming was an option given primarily to families with children old enough to contribute to farm work<sup>7</sup>. The thinning and harvesting season would therefore dictate when students were available to attend school, sometimes delaying their studies by several months.</p>
 
 {% include feature/blockquote.html text="When we go back to school in September, we will have to repeat the same grade. Even if I go back to QEHS, I won’t be in the same grade as you and the pupils in the present Grade 9. I don’t know if I will be able to go back to school. It all depends on how our sugar-beets turn out. I really want to go back to school though." author="Sumi Mototsune" citation="Letter to Joan Gillis, May 30, 1942" %}
 
-Jackie Takahashi articulates similar concerns around being older than his peers, writing, “In Alberta school started on the 10th of October and I just started on the 21, that’s yesterday. It feels sort of funny to be in grade 10 with all the younger pupils.”
+<p style="text-indent: 25px;">Jackie Takahashi articulates similar concerns around being older than his peers, writing, “In Alberta school started on the 10th of October and I just started on the 21, that’s yesterday. It feels sort of funny to be in grade 10 with all the younger pupils.”</p>
 
-Though the postponement of their studies was entirely out of their control, the high school administration would regularly dock credits from the students’ records. This would not only hold students back from graduating on time with their former peers in B.C., but would also cost their parents another year of extraneous tuition fees.
+<p style="text-indent: 25px;">Though the postponement of their studies was entirely out of their control, the high school administration would regularly dock credits from the students’ records. This would not only hold students back from graduating on time with their former peers in B.C., but would also cost their parents another year of extraneous tuition fees.</p>
 
 {% include feature/blockquote.html text="They said that I cannot receive my Senior Matric this year 'cause the credits are rather on the low side. That is, they took away so much that I'll have to go back another year. Same with Tom Tsukishima." author="Yoshio Nakamura" citation="Letter to Joan Gillis, July 20, 1943" %}
 
 ## School as Community
 
-Despite the many discriminatory restrictions in place for them in their new schools, Joan’s correspondents also frequently speak about school as a source of community and hope. Jackie, Yoshio, and Teruko Ikeda all mention the joy of student socials and of the recreational activities offered through school. For many of these students, school offered a rare chance to meet old friends who had also been displaced and be reminded of the community they had once held together in B.C.
+<p style="text-indent: 25px;">Despite the many discriminatory restrictions in place for them in their new schools, Joan’s correspondents also frequently speak about school as a source of community and hope. Jackie, Yoshio, and Teruko Ikeda all mention the joy of student socials and of the recreational activities offered through school. For many of these students, school offered a rare chance to meet old friends who had also been displaced and be reminded of the community they had once held together in B.C.</p>
 
 {% include feature/blockquote.html text="I’ve seen Jackie, Johnny, Tan, Tashiko, Suzie etc a few times. I’m sure glad Sumi is with me. so you see I’m not so lonely as I thought I’d be when I first started school." author="Teruko Ikeda" citation="Letter to Joan Gillis, February 14, 1943" %}
 
-The correspondents also write romantically about their time spent with Joan and other friends at Queen Elizabeth Secondary, reminiscing about their shared classes and interest in the Q.E. Vue. Though the government sought to define these correspondents as both enemies of the state and just a source of manual labour, the content of these letters—school dances, homework, basketball teams—are a stark reminder of what they really were: school children.
+<p style="text-indent: 25px;">The correspondents also write romantically about their time spent with Joan and other friends at Queen Elizabeth Secondary, reminiscing about their shared classes and interest in the Q.E. Vue. Though the government sought to define these correspondents as both enemies of the state and just a source of manual labour, the content of these letters—school dances, homework, basketball teams—are a stark reminder of what they really were: school children.</p>
 
 <div class="card mb-3">
   <img class="card-img-top" src="https://cdn.discordapp.com/attachments/798302352737566730/878769425937989632/y_nakamura_qu1.jpg" alt="Card image cap">
