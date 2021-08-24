@@ -21,10 +21,11 @@ Many correspondents expressed a great longing for British Columbia; for most of 
 
 <div class="card-group">
   <div class="card">
+    <div class="card-body">
  	  <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
       <p class="card-text"><small class="text-muted">- Jackie Takahashi to Joan Gillis, May 10, 1942</small></p>
-    </div>
-  </div>
+    </div
+   </div>
   <div class="card">
     <div class="card-body">
       <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
