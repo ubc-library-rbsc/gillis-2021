@@ -52,6 +52,7 @@ Many correspondents expressed a great longing for British Columbia; for most of 
 </div>
 <br><br>
 For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio reminisces about their shared time at school and compares his years pulled away from home to those of a soldier fighting on foreign soil.
+<br><br>
 
 <div class="container">
   <div class="row">
@@ -61,8 +62,25 @@ For others, this homesickness was more closely tied to their school community at
      </div>
 	  
     <div class="col-sm-6 my-auto">
-<blockquote><p>I do not know how to thank you for that swell pin. You do not know how I felt when I touched it and looked at for a long time. That pin alone brought back the memories that I have cherished for so long. It reminded me of Q.H.S. and of the students that were in it and are in it now. It brought me back to the time I shook hands with you on that last day at school. Gosh, but I wish I could live those years over again. I feel like a soldier away on a foreign shore fighting in battles, and thinking the peaceful hours spent before the tragic occurance [sic]. Thank you an awful lot Joan, for the pin. I won't forget it.</p></blockquote>
+<blockquote><p>"I do not know how to thank you for that swell pin. You do not know how I felt when I touched it and looked at for a long time. That pin alone brought back the memories that I have cherished for so long. It reminded me of Q.H.S. and of the students that were in it and are in it now. It brought me back to the time I shook hands with you on that last day at school. Gosh, but I wish I could live those years over again. I feel like a soldier away on a foreign shore fighting in battles, and thinking the peaceful hours spent before the tragic occurance [sic]. Thank you an awful lot Joan, for the pin. I won't forget it."</p></blockquote>
      </div>
   </div>
 </div>
 
+## Making a Home
+
+<p style="text-indent: 25px;">Though assignment to sugar beet farms was framed by the federal government to be a choice that allowed Japanese Canadians the “privilege” of keeping their families together, the number of members in a family who were old enough and eligible to work was a large consideration for the farmers who selected which families to employ (REF MONA). However, the housing provided by these farmers was often no more than a single-room storage shed. The B.C. Security Commission responsible for forced dispersal and the non-consensual sales of Japanese Canadian property only provided additional funds for lumber to build makeshift extensions to the shacks (REF).</p>
+
+<p style="text-indent: 25px;">Housing conditions after forced dispersal came as a shock to many of Joan’s correspondents, particularly for those whose families had owned their own farms or businesses in B.C. Jackie Takahashi describes his new quarters as a “wee shack” of “10’ by 20’”, with no room to move.[Jackie ref may 10/42]</p>
+
+<p style="text-indent: 25px;">Not too far from Jackie was Sumi Mototsune, who was sent to live and work on a sugar beet farm near Raymond, Alberta, with her parents, three sisters, and one brother. In one letter, she says of her family's one-room home, “Only mice can have the pleasure of living in here.” [SUMI REF may 30/42]</p>
+
+## Recreation
+
+<p style="text-indent: 25px;">Between recollections of backbreaking labour in the beet fields and experiences of discrimination in their new environments, it can be difficult to remember that most of the letter-writers in this exhibit are just teenagers. One of the greatest reminders of the young age of these correspondents, and a reflection of their resilience in spite of ongoing systemic racism, is the enthusiasm with which they write to Joan about their hobbies, passions, and the activities they turn to for fun.</p>
+
+<p style="text-indent: 25px;">Sports games at school are described in startling detail. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
+	
+{% include feature/blockquote.html text="Music? I think I like Bing the bestest. I like smooth lingering music. Of course I classical [sic] -- but not too classical. One thing I don’t like --yet is that corny cave-man music (racket -- I mean). It actually drives me nuts." author="Albert Ohama" citation="Letter to Joan Gillis, August 12, 1942" %}
+
+<p style="text-indent: 25px;">Correspondents send detailed lists of films seen and songs recently heard on the airwaves to Joan. Perhaps more important than entertainment, these films and radio programs represented cultural links to home, a way of relating to a community of which they could not physically be a part.</p>
