@@ -52,9 +52,9 @@ permalink: /education.html
 
 ## Obstacles to Education
 
-<p style="text-indent: 25px;">Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year.<sup>5</sup></p>
-
 	{% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
+	
+<p style="text-indent: 25px;">Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year.<sup>5</sup></p>
 
 <p style="text-indent: 25px;">Transportation also proved difficult, with most of the sugar beet farms being several miles away from towns. Sumi Mototsune mentions riding a crowded van belonging to a cheese factory to and from school in the winter months. In a later account, Yoshio notes that since Japanese Canadian students were not eligible to take the school bus as they were not considered taxpayers, he had no choice but to walk several miles to catch a Greyhound bus to school.<sup>6</sup></p>
 
