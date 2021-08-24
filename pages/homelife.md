@@ -27,19 +27,18 @@ Many correspondents expressed a great longing for British Columbia; for most of 
 <div class="card-group">
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body h-100 justify-content-center">
- 	   <blockquote class="blockquote mb-0"><p>Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
-      <footer class="blockquote-footer">Jackie Takahashi to Joan Gillis, <cite title="Source Title">May 10, 1942</cite></footer>
-    </blockquote>
+ 	  <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
+      <p class="card-text"><small class="text-muted">- Jackie Takahashi to Joan Gillis, May 10, 1942</small></p>
     </div>
    </div>
-  <div class="card" style="background-color:#e3e4d7;">
-    <div class="card-body">
+    <div class="card" style="background-color:#e3e4d7;">
+   <div class="card-body h-100 justify-content-center">
       <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
       <p class="card-text"><small class="text-muted">- Tad Nagamori to Joan Gillis, Jan. 16, 1944</small></p>
     </div>
   </div>
   <div class="card" style="background-color:#e3e4d7;">
-    <div class="card-body">
+    <div class="card-body h-100 justify-content-center">
       <p class="card-text">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
       <p class="card-text"><small class="text-muted">- Sumi Mototsune to Joan Gillis, May 16, 1942</small></p>
     </div>
