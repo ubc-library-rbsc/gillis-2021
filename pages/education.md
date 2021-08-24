@@ -79,7 +79,7 @@ The correspondents also write romantically about their time spent with Joan and 
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      {% include feature/alert.html text="<small>To explore more about the experience of Japanese Canadian students during the period of forced dispersal, as expressed in the Gillis letters, check out the<a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Education'>subject visualization page.</a></small>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To explore more about the experience of Japanese Canadian students during the period of forced dispersal, as expressed in the Gillis letters, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Education'>subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
