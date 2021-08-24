@@ -38,7 +38,7 @@ In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narra
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
-      {% include feature/card.html text="<small>Image description: Kindergarten class at Lemon Creek Camp, 1944/45.<sup>2</sup>" objectid="https://open.library.ubc.ca/viewer/jphotos/1.0049174?v=oc" width="100" centered=true %}
+      {% include feature/card.html text="<small>Image description: Kindergarten class at Lemon Creek Camp, 1944/45.<sup>2</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049174.0/full/400,/0/default.jpg" width="100" centered=true %}
 		</div>
 		<div class="col-md-6 my-auto">
       <p style="text-indent: 25px;">Opportunities for education were highly dependent on the conditions of forced dispersal for each family. The federal government initially tried to shift the responsibility of maintaining schooling for Japanese Canadian children to provincial governments and Ministries of Education<sup>3</sup>. Though the B.C. Security Commission [BCSC] established by the federal government did eventually start correspondence courses for some 60 high school students in B.C., these were primarily taught by untrained volunteers, some of whom were incarcerated in the camps themselves, or who had only just graduated high school<sup>4</sup>.</p>
