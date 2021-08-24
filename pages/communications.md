@@ -10,13 +10,15 @@ permalink: /communications.html
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Home</a></li>
     <li class="breadcrumb-item">
-              <a class="dropdown-toggle" href="#collapse" id="navbardrop" data-bs-toggle="dropdown" aria-expanded="false">Explore themes</a>
+              <a class="dropdown-toggle" href="#collapse" role="button" id="navbardrop" data-bs-toggle="dropdown" aria-expanded="false">Explore themes</a>
           <div class="collapse" id="collapse">
+            <div class="container">
                     <ul class="dropdown menu" aria-labelledby="navbardrop">
                         <li><a href="/gillis-2021/education.html">Education</a></li>
                         <li><a href="/gillis-2021/homelife.html">Homelife</a></li>
                          <li><a href="/gillis-2021/labour.html">Labour</a></li>
                     </ul>
+            </div>
                 </div>
             </li>
     <li class="breadcrumb-item active" aria-current="page">Communications</li>
