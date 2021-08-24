@@ -34,8 +34,8 @@ Many correspondents expressed a great longing for British Columbia; for most of 
     </div>
   </div>
   <div class="card" style="background-color:#e3e4d7;">
-    <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 70px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+    <div class="card-body" my-auto>
+      <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
@@ -50,6 +50,8 @@ Many correspondents expressed a great longing for British Columbia; for most of 
     </div>
   </div>
 </div>
-
+<br><br>
 For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio writes:
+
+
 
