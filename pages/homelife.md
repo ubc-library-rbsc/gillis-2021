@@ -127,3 +127,4 @@ permalink: /homelife.html
 	2. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 189. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
 	3. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 10 May 1942. RBSC-ARC-1786-01-24. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
 	4. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 24 February 1947. RBSC-ARC-1786-01-33. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
+</small>
