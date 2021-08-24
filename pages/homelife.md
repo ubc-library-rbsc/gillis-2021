@@ -130,7 +130,7 @@ permalink: /homelife.html
 	    <p style="text-indent: 25px;">Sports games against rival schools are recounted point by point. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Accounts of weekend trips to go swimming and skating at the lakes are written in startling detail. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
     </div>
 		<div class="col-md-6">
-      {% include feature/card.html text="Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads <i>Kelly Inouye<i>. 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="100" centered=true %}
+      {% include feature/card.html text="Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads <i>Kelly Inouye<i>. 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="100" height="75" centered=true %}
 		</div>
 	</div>
 </div>
