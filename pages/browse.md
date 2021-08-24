@@ -12,5 +12,7 @@ permalink: /browse.html
   </ol>
 </nav>
 
-<p><a href="#">Home</a> <i class="bi-chevron-right"><i> Browse by Item</p>
+<p><a href="#">Home</a> <i class="bi-chevron-right"></i> Browse by Item</p>
+  
+  
 ## Browse Items
