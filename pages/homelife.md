@@ -55,25 +55,31 @@ permalink: /homelife.html
 <div class="row">
   <div class="col-sm-4">
     <div class="card">
+		<div class="card-header">
+ 	   Jackie Takahashi
+  		</div>
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
+		<blockquote class="blockquote mb-0">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</blockquote>
       </div>
     </div>
   </div>
   <div class="col-sm-4">
     <div class="card">
+		<div class="card-header">
+ 	   Tad Nagamori
+  		</div>
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+        <blockquote class="blockquote mb-0">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</blockquote>
       </div>
     </div>
   </div>
 	<div class="col-sm-4">
     <div class="card">
+		<div class="card-header">
+ 	   Sumi Mototsune
+  		</div>
       <div class="card-body">
-        <h5 class="card-title">Special title treatment</h5>
-        <p class="card-text">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
+        <blockquote class="blockquote mb-0">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</blockquote>
       </div>
     </div>
   </div>
