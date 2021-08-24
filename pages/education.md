@@ -35,6 +35,8 @@ In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narra
   </div>
 </div>
 
+<br><br>
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-6">
@@ -98,8 +100,8 @@ The correspondents also write romantically about their time spent with Joan and 
 <small>
 	1. Order in Council, P.C. 365, January 16, 1942.<br>
 	2. University of British Columbia Library. Rare Books and Special Collections. Japanese Canadian Research Collection. JCPC-19-033. <a href="https://dx.doi.org/10.14288/1.0049174">https://dx.doi.org/10.14288/1.0049174</a>.<br>
-	3. <br>
-	4. Ibid., [#].<br>
+	3. Oikawa, Mona. "Gendering the Subjects of the Internment: The Interior Camps of British Columbia" In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 137. Toronto: University of Toronto Press, 2012.<br>
+	4. Ishikawa, Wakako. (2003). <i>Japanese-Canadian Education during the World War II Internment</i>, 78 (Publication No. 0612781437) [Master's thesis, University of Toronto]. Theses Canada.<br>
 	5. Ketchell, Shelly Ikebuchi. "Carceral Ambivalence: Japanese Canadian ‘Internment’ and the Sugar Beet Programme during WWII." <i>Surveillance & Society</i> 7, no. 1 (2009): 25. <a href="https://doi.org/10.24908/ss.v7i1.3305">https://doi.org/10.24908/ss.v7i1.3305</a>.<br>
 	6. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 188-191. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
 	7. Oikawa, Mona. "Economies of the Carceral: The 'Self-Support' Camps, Sugar Beet Farms, and Domestic Work." In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 173. Toronto: University of Toronto Press, 2012.
