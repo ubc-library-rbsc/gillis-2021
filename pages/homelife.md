@@ -28,7 +28,7 @@ Many correspondents expressed a great longing for British Columbia; for most of 
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
       <h5 class="card-title">Jackie Takahashi</h5>
-      <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
+      <p class="card-text" style="align:center;">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Letter to Joan Gillis, May 10, 1942</small>
