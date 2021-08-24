@@ -68,17 +68,7 @@ permalink: /homelife.html
      </div>
   </div>
 </div>
-
-<div class="container">
-  <div class="row">
-	  <div class="col-sm-6">
-{% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/879579979531321354/y_nakamura_qu2.png" alt="Excerpt of typed letter from Yoshio Nakamura to Joan Gillis" width="100" %}
-	  </div>
-	<div class="col-sm-6 my-auto">
-<blockquote><p>"I do not know how to thank you for that swell pin. You do not know how I felt when I touched it and looked at for a long time. That pin alone brought back the memories that I have cherished for so long. It reminded me of Q.H.S. and of the students that were in it and are in it now. It brought me back to the time I shook hands with you on that last day at school. Gosh, but I wish I could live those years over again. I feel like a soldier away on a foreign shore fighting in battles, and thinking the peaceful hours spent before the tragic occurance [sic]. Thank you an awful lot Joan, for the pin. I won't forget it."</p></blockquote>
-     </div>
-  </div>
-</div>  
+<br><br>
 
 ## Making a Home
 
@@ -109,4 +99,3 @@ permalink: /homelife.html
 	2. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 189. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
 	3. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 10 May 1942. RBSC-ARC-1786-01-24. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
 	4. Takahashi, Jackie. Correspondence from Jackie Takahashi to Joan Gillis. 24 February 1947. RBSC-ARC-1786-01-33. Joan Gillis fonds. University of British Columbia Library Rare Books and Special Collections, Vancouver, Canada.<br>
-	</small>
