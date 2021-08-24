@@ -36,7 +36,7 @@ permalink: /homelife.html
   </div>
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 70px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+      <p class="card-text" style="align:center; padding-top: 50px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
@@ -52,46 +52,9 @@ permalink: /homelife.html
   </div>
 </div>
 
-<div class="row">
-  <div class="col-sm-4">
-    <div class="card">
-		<div class="card-header">
- 	   Jackie Takahashi
-  		</div>
-      <div class="card-body">
-		<blockquote class="blockquote mb-0">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</blockquote>
-<footer class="blockquote-footer">On<cite title="Source Title">May 10, 1942</cite></footer>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4">
-    <div class="card">
-		<div class="card-header">
- 	  Sumi Mototsune
-  		</div>
-      <div class="card-body">
-		  <blockquote class="blockquote mb-0">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</blockquote>
-		  <footer class="blockquote-footer">On<cite title="Source Title">May 16, 1942</cite></footer>
-      </div>
-    </div>
-  </div>
-	<div class="col-sm-4">
-    <div class="card">
-		<div class="card-header">
- 	  Tad Nagamori
-  		</div>
-      <div class="card-body">
-       <blockquote class="blockquote mb-0">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</blockquote>
-		<footer class="blockquote-footer">On<cite title="Source Title">Jan 16, 1944</cite></footer>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<br><br>
+<br>
 <p style="text-indent: 25px;">For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio reminisces about their shared time at school and compares his years pulled away from home to those of a soldier fighting on foreign soil.</p>
-<br><br>
+<br>
 
 <div class="container">
   <div class="row">
@@ -105,7 +68,7 @@ permalink: /homelife.html
      </div>
   </div>
 </div>
-<br><br>
+<br>
 
 ## Making a Home
 
