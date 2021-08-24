@@ -46,7 +46,7 @@ When they could, the letter writers also sent photos in return. When they did no
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      {% include feature/alert.html text="<small>To read more of what correspondents wrote about photographs, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs'>subject visualization page.</a></small>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about photographs, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Photographs'>'Photographs' tag on the subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
@@ -59,11 +59,11 @@ Just as photographs could provide visual reminders of home, letters from Joan re
 
 {% include feature/blockquote.html text="We don’t get any newspaper so we don’t know anything. Whenever Dad goes to town, he buys a “Lethbridge Herald News” paper. It has only the half of the pages from that of Sun or Province, and there is no news of Vancouver or New Westminster. The other day, I sent a letter to “The Vancouver Daily Provinces” asking them if they can send a newspaper over here to Raymond. Do you think they will?" author="Sumi Mototsune" citation="Letter to Joan Gillis, May 30, 1942" %}
 
-The news that Joan was able to provide in her letters was precious. Sumi describes her eagerness in receiving them: I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times.
+The news that Joan was able to provide in her letters was precious. Sumi describes her eagerness in receiving them in a letter to Joan dated May 16, 1942: "I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times."
 
 {% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small> <br> Postscripts asking for her to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="https://cdn.discordapp.com/attachments/798302352737566730/879616554063527997/PleaseWriteSoon_cropped.png" width="75" centered=true %}
 
-But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in New Westminster, neither her letters nor those of the letter writers were free from the scrutiny of the Canadian government.
+But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in the New Westminster area, neither her letters nor those of the correspondents were free from the scrutiny of the Canadian government.
 
 ###### Censorship
 In addition to restrictions on certain forms of communication and information exchange, letters written to and by Japanese Canadians were subject to censure beginning in March of 1942. This process, in combination with the relative remoteness of many of the farms or towns that forcibly displaced families were sent to, greatly impacted how frequently letters could be sent and received.
