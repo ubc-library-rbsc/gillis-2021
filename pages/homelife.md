@@ -24,23 +24,32 @@ Because of how quickly this uprooting took place, we can see in the corresponden
 
 Many correspondents expressed a great longing for British Columbia; for most of them, New Westminster and the areas surrounding it were the only home they had ever known. Weather comparisons and romantic descriptions of West Coast landscapes can be found in a number of the letters.
 
-<div class="card-group">
+<div class="card-deck">
   <div class="card" style="background-color:#e3e4d7;">
-    <div class="card-body h-100 justify-content-center">
- 	  <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
-      <p class="card-text"><small class="text-muted">- Jackie Takahashi to Joan Gillis, May 10, 1942</small></p>
+    <div class="card-body">
+      <h5 class="card-title">Jackie Takahashi</h5>
+      <p class="card-text">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
     </div>
-   </div>
-    <div class="card" style="background-color:#e3e4d7;">
-   <div class="card-body h-100 justify-content-center">
-      <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
-      <p class="card-text"><small class="text-muted">- Tad Nagamori to Joan Gillis, Jan. 16, 1944</small></p>
+    <div class="card-footer">
+      <small class="text-muted">Letter to Joan Gillis, May 10, 1942</small>
     </div>
   </div>
   <div class="card" style="background-color:#e3e4d7;">
-    <div class="card-body h-100 justify-content-center">
+    <div class="card-body">
+      <h5 class="card-title">Tad Nagamori</h5>
+      <p class="card-text">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Letter to Joan Gillis, Jan. 16, 1944</small>
+    </div>
+  </div>
+    <div class="card" style="background-color:#e3e4d7;">
+    <div class="card-body">
+      <h5 class="card-title">Sumi Mototsune</h5>
       <p class="card-text">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
-      <p class="card-text"><small class="text-muted">- Sumi Mototsune to Joan Gillis, May 16, 1942</small></p>
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Letter to Joan Gillis, May 16, 1942</small>
     </div>
   </div>
 </div>
