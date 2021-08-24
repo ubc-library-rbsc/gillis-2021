@@ -40,6 +40,5 @@ html {
     overflow: visible !important;
 }
 
-.navbar-nav > .active > a {
-                background-color: #646D4A;
-            }
+.dropdown-item:active{
+ background-color: #646D4A}
