@@ -35,20 +35,30 @@ In a letter sent on January 3rd, 1945, Yoshio Nakamura includes a piece of narra
   </div>
 </div>
 
-<br>Opportunities for education were highly dependent on the conditions of forced dispersal for each family. The federal government initially tried to shift the responsibility of maintaining schooling for Japanese Canadian children to provincial governments and Ministries of Education<sup>2</sup>. Though the B.C. Security Commission [BCSC] established by the federal government did eventually start correspondence courses for some 60 high school students in B.C., these were primarily taught by untrained volunteers, some of whom were incarcerated in the camps themselves, or who had only just graduated high school<sup>3</sup>.
-
-These correspondence courses were only offered to students interned at Hastings Park or those who had been sent to the surrounding camps in the Interior. However, most of the correspondents featured in this exhibit are part of the number of families who were sent to work on sugar beet farms in the Prairies, and were thus subject to different limitations.
+<div class="container">
+	<div class="row">
+		<div class="col-md-6">
+      {% include feature/card.html text="<small>Image description: Kindergarten class at Lemon Creek Camp, 1944/45.<sup>2</sup>" objectid="https://open.library.ubc.ca/viewer/jphotos/1.0049174?v=oc" width="100" centered=true %}
+		</div>
+		<div class="col-md-6 my-auto">
+      <p style="text-indent: 25px;">Opportunities for education were highly dependent on the conditions of forced dispersal for each family. The federal government initially tried to shift the responsibility of maintaining schooling for Japanese Canadian children to provincial governments and Ministries of Education<sup>3</sup>. Though the B.C. Security Commission [BCSC] established by the federal government did eventually start correspondence courses for some 60 high school students in B.C., these were primarily taught by untrained volunteers, some of whom were incarcerated in the camps themselves, or who had only just graduated high school<sup>4</sup>.</p>
+		
+      <p style="text-indent: 25px;">These correspondence courses were only offered to students interned at Hastings Park or those who had been sent to the surrounding camps in the Interior. However, most of the correspondents featured in this exhibit are part of the number of families who were sent to work on sugar beet farms in the Prairies, and were thus subject to different limitations.</p>
+		</div>
+	</div>
+</div>
+	<br>		
 
 ## Obstacles to Education
 <br>
 
 {% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
 
-Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year<sup>4</sup>.
+Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year<sup>5</sup>.
 
-Transportation also proved difficult, with most of the sugar beet farms being several miles away from towns. Sumi Mototsune mentions riding a crowded van belonging to a cheese factory to and from school in the winter months. In a later account, Yoshio notes that since Japanese Canadian students were not eligible to take the school bus as they were not considered taxpayers, he had no choice but to walk several miles to catch a Greyhound bus to school<sup>5</sup>.
+Transportation also proved difficult, with most of the sugar beet farms being several miles away from towns. Sumi Mototsune mentions riding a crowded van belonging to a cheese factory to and from school in the winter months. In a later account, Yoshio notes that since Japanese Canadian students were not eligible to take the school bus as they were not considered taxpayers, he had no choice but to walk several miles to catch a Greyhound bus to school<sup>6</sup>.
 
-Many of Joan’s correspondents also describe the difficulties of balancing school with the many demands of sugar beet farming. The assignment of Japanese Canadian families to sugar beet farms, as opposed to road camps in the Interior, was often framed by the government and media as a personal choice. However, road camps would have meant that families would be split up, and sugar beet farming was an option given primarily to families with children old enough to contribute to farm work<sup>6</sup>. The thinning and harvesting season would therefore dictate when students were available to attend school, sometimes delaying their studies by several months.
+Many of Joan’s correspondents also describe the difficulties of balancing school with the many demands of sugar beet farming. The assignment of Japanese Canadian families to sugar beet farms, as opposed to road camps in the Interior, was often framed by the government and media as a personal choice. However, road camps would have meant that families would be split up, and sugar beet farming was an option given primarily to families with children old enough to contribute to farm work<sup>7</sup>. The thinning and harvesting season would therefore dictate when students were available to attend school, sometimes delaying their studies by several months.
 
 {% include feature/blockquote.html text="When we go back to school in September, we will have to repeat the same grade. Even if I go back to QEHS, I won’t be in the same grade as you and the pupils in the present Grade 9. I don’t know if I will be able to go back to school. It all depends on how our sugar-beets turn out. I really want to go back to school though." author="Sumi Mototsune" citation="Letter to Joan Gillis, May 30, 1942" %}
 
@@ -87,9 +97,10 @@ The correspondents also write romantically about their time spent with Joan and 
 <br><br>
 <small>
 	1. Order in Council, P.C. 365, January 16, 1942.<br>
-	2. [REF]<br>
-	3. Ibid., [#].<br>
-	4. Ketchell, Shelly Ikebuchi. "Carceral Ambivalence: Japanese Canadian ‘Internment’ and the Sugar Beet Programme during WWII." <i>Surveillance & Society</i> 7, no. 1 (2009): 25. <a href="https://doi.org/10.24908/ss.v7i1.3305">https://doi.org/10.24908/ss.v7i1.3305</a>.<br>
-	5. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 188-191. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
-	6. Oikawa, Mona. "Economies of the Carceral: The 'Self-Support' Camps, Sugar Beet Farms, and Domestic Work." In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 173. Toronto: University of Toronto Press, 2012.
+	2. University of British Columbia Library. Rare Books and Special Collections. Japanese Canadian Research Collection. JCPC-19-033. <a href="https://dx.doi.org/10.14288/1.0049174">https://dx.doi.org/10.14288/1.0049174</a>.<br>
+	3. <br>
+	4. Ibid., [#].<br>
+	5. Ketchell, Shelly Ikebuchi. "Carceral Ambivalence: Japanese Canadian ‘Internment’ and the Sugar Beet Programme during WWII." <i>Surveillance & Society</i> 7, no. 1 (2009): 25. <a href="https://doi.org/10.24908/ss.v7i1.3305">https://doi.org/10.24908/ss.v7i1.3305</a>.<br>
+	6. Nakamura, Yoshio. "Richard Yoshio (Dick) Nakamura." In <i>Honouring Our People: Breaking the Silence</i>, edited by Randy Enomoto, 188-191. Burnaby, BC: Greater Vancouver Japanese Canadian Citizens' Association, 2016.<br>
+	7. Oikawa, Mona. "Economies of the Carceral: The 'Self-Support' Camps, Sugar Beet Farms, and Domestic Work." In <i>Cartographies of Violence: Japanese Canadian Women, Memory, and the Subjects of the Internment</i>, 173. Toronto: University of Toronto Press, 2012.
 </small>
