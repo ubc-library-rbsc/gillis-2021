@@ -86,7 +86,7 @@ permalink: /communications.html
 
 <p style="text-indent: 25px;">Of the letters from the Gillis fonds that are included in this exhibit, none of them were expressly censored by those that read them. It is possible that, through trial and error, the letter writers knew what not to include, or perhaps it is that there was much less concern on the part of the censor regarding what information about the conditions Japanese Canadians were living in was getting out to a white teenager in B.C. Either way, despite the fact that there are no marks of censorship on the letters, traces of their having read the letters remain in the form of stamps on the envelopes confirming their passing inspection.</p>
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 my-auto">
 {% include feature/item-figure.html objectid="gillis006" width="100" %}
     </div>
       
