@@ -10,9 +10,6 @@ permalink: /browse.html
     <li class="breadcrumb-item"><a href="#">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">Browse by Item</li>
   </ol>
-</nav>
-
-<p><a href="#">Home</a><i class="bi bi-caret-right-fill" style="font-size:.5 rem"></i> Browse by Item</p>
-  
+</nav>  
   
 ## Browse Items
