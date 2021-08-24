@@ -52,7 +52,7 @@ permalink: /education.html
 
 ## Obstacles to Education
 
-	{% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
+{% include feature/image.html objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_2_7-24_S.Mototsune-47-scaled.jpg" alt="A sepia landscape view of a high school building and trees in Raymond Alberta" caption="An image of the high school in Raymond, Alberta, sent by Sumi Mototsune in a letter dated April 24, 1943" width="50" %}
 	
 <p style="text-indent: 25px;">Though Japanese Canadian students in the Alberta and Manitoba were eventually able to enroll in local high schools, they faced a number of challenges to actually receiving their education. In Alberta, a federal grant offered to the provincial government was meant to ensure schooling for students who lived and worked on the beet farms, yet parents were expected to pay a prohibitively expensive, additional tuition fee of $70 per child each year.<sup>5</sup></p>
 
