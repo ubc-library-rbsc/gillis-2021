@@ -52,7 +52,7 @@ permalink: /labour.html
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-8">
-      {% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Beet-farms'>subject visualization page.</a></small>" color="info" align="center"%}
+      {% include feature/alert.html text="<small>To read more of what correspondents wrote about the experiences working on beet farms and elsewhere, check out the <a href='https://ubc-library-rbsc.github.io/gillis-2021_ohd/subjects.html?filter=Labour-conditions'>'Labour conditions' tag on the subject visualization page.</a></small>" color="info" align="center"%}
     </div>
   </div>
 </div>
@@ -66,7 +66,7 @@ permalink: /labour.html
       <p style="text-indent: 25px;"> Be it sugar beets or other field work, the wages paid to forcibly displaced Japanese Canadians for working these farms was not enough for families to make ends meet, especially if they were trying to pay for school. Family members ended up having to find other ways to make money within the bounds of the restrictions placed upon their movement and labour by the Canadian government. For some, this involved doing other work for their “boss” or helping out on larger farms that were being worked by other families. Other times this involved finding other types of work away from where their families were forced to live. Several of the correspondents note that members of their family, other forcibly displaced Japanese Canadians, or they themselves were either thinking about or did travel eastward to find other work.</p>
     </div>
 		<div class="col-md-6">
-      {% include feature/card.html text="<small>Image description: Yoshio Nakamura [left], Jackie Takahashi [right], and another Japanese Canadian boy riding a tractor. </small> <br> Some forcibly displaced families were able to take on additional work helping other families they knew from B.C. <br>In one letter to Joan, Jackie mentions, 'We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days.'<sup>6</sup>" objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-2-5-test.jpg" width="100" centered=true %}
+      {% include feature/card.html text="<small>Image description: Yoshio Nakamura [left], Jackie Takahashi [right], and another Japanese Canadian boy riding a tractor. </small> <p align="center">Some forcibly displaced families were able to take on additional work helping other families they knew from B.C.</p><p align="center">In one letter to Joan, Jackie mentions, 'We finished thinning on Tuesday, July 1 around 4 P.M. We went up to Yosh’s place to help them thin their beets for a couple of days.'<sup>6</sup></p>" objectid="https://library-rbsc-2017.sites.olt.ubc.ca/files/2021/08/RBSC_ARC_1786_Photographs-2-5-test.jpg" width="100" centered=true %}
 		</div>
 	</div>
 </div>
