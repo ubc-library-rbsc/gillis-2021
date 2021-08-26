@@ -36,7 +36,7 @@ permalink: /homelife.html
   </div>
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 70px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+      <p class="card-text" style="align:center; padding-top: 80px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
@@ -44,7 +44,7 @@ permalink: /homelife.html
   </div>
     <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 50px;">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
+      <p class="card-text" style="align:center; padding-top: 30px;">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Sumi Mototsune, May 16, 1942</small>
