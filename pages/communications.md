@@ -22,6 +22,8 @@ permalink: /communications.html
     <div class="row">
         <div class="col-md-6 my-auto">
             {% include feature/blockquote.html text="Oh yes we got a privilege to own a radio and a camera here. We had both radio and two cameras there but we had to leave it in the hands of the R.C.M.P. I believe the custodian is now looking after it. ... We have sent for our camera about two weeks ago but it still hasn’t arrived" author="Tad Nagamori" citation="Letter to Joan Gillis, August 3, 1942" %}
+            <hr/>
+            {% include feature/blockquote.html text="Were [sic] still allowed to have a camera yet, but since we haven’t one, we’ll have to borrow someones. We’re intending to take pictures before our cameras get banned, if they ever do." author=Sumi Mototsune" citation=Letter to Joan Gillis, July 31, 1942%}
         </div>
         <div class="col-md-6">
             {% include feature/image.html objectid="https://cdn.discordapp.com/attachments/798302352737566730/875439834196488232/kodakcameras_1_of_1.jpg" alt="Two Kodak Cameras, the Bantam Fixed Viewfinder and the Retina sit on a wooden table with a white background" caption="Cameras such as the Kodak Bantam and Kodak Retina, shown here, were models available during the 1940s. It is unknown what specific types of cameras were accessible to our correspondents when they were able to use them." width="100" %}
