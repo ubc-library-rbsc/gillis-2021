@@ -28,7 +28,7 @@ permalink: /homelife.html
 <div class="card-deck">
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text"><span class="align-middle">Gosh I will miss the cherry and other fruits and even the flowers. Anyhow I remember seeing a tulip before I came here.</span></p>
+      <p class="card-text" style="align:center; padding-top: 70px;">Gosh I will miss the cherry and other fruits and even the flowers. Anyhow I remember seeing a tulip before I came here.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Jackie Takahashi, May 10, 1942</small>
@@ -36,7 +36,7 @@ permalink: /homelife.html
   </div>
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text">span class="align-middle">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</span></p>
+      <p class="card-text" style="align:center; padding-top: 70px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
@@ -44,41 +44,12 @@ permalink: /homelife.html
   </div>
     <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 70px;">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
+      <p class="card-text" style="align:center; padding-top: 50px;">Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Sumi Mototsune, May 16, 1942</small>
     </div>
   </div>
-</div>
-
-<div class="container">
-    <div class="row bg-faded">
-        <div class="col-md-2">
-            <div class="card card-body h-100 justify-content-center">
-               Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.
-    </div>
-    <div class="card-footer">
-      <small class="text-muted">Jackie Takahashi, May 10, 1942</small>
-    </div>
-            </div>
-        </div>
-        <div class="col-md-2">
-            <div class="card card-body h-100 justify-content-center">
-             To tell you the truth I think British Columbia is the best place to live and enjoy scenery.
-            </div>
-			<div class="card-footer">
-      <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
-    </div>
-        </div>
-        <div class="col-md-2">
-            <div class="card card-body h-100 justify-content-center">
-                Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.
-            </div>
-			    <div class="card-footer">
-      <small class="text-muted">Sumi Mototsune, May 16, 1942</small>
-    </div>
-    </div>
 </div>
 
 <br>
@@ -122,7 +93,7 @@ permalink: /homelife.html
 	    <p style="text-indent: 25px;">Sports games against rival schools are recounted point by point. The same dance socials are discussed by multiple correspondents, with palpable awkwardness and excitement. Accounts of weekend trips to go swimming and skating at the lakes are written in startling detail. Below, Albert Ohama writes about one of his favourite singers, Bing Crosby.</p>
     </div>
 		<div class="col-md-6">
-      {% include feature/card.html text="Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads <i>Kelly Inouye</i>. 	<sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="50" centered=true %}
+      {% include feature/card.html text="Image description: Person on skates in unidentified camp. Handwriting on the photo possibly reads <i>Kelly Inouye</i><sup>5</sup>" objectid="https://iiif.library.ubc.ca/image/cdm.jphotos.1-0049343.0/full/400,/0/default.jpg" width="50" centered=true %}
 		</div>
 	</div>
 </div>
