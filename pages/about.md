@@ -17,7 +17,7 @@ credits: true
 
 ## About the Collection
 
-This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/">RBSC's Visting page</a> for additional information.
+This digital exhibit features photographs and letters from the Joan Gillis Fonds, housed at UBC's Rare Books and Special Collections (RBSC). The content that is made available through this exhibit has done so with the permission of the families of correspondents. Original letters are available for access virtually and in person (when visiting is possible) by appointment through RBSC. Visit the <a href="https://rbsc.library.ubc.ca/visiting/">RBSC's Visiting page</a> for additional information.
   
 <h4>Land Acknowledgements</h4>
 
@@ -43,7 +43,7 @@ In addition to the wartime censor’s looming presence, so too do we see in thes
 
 Joan’s spectre looms large in our experience of these letters and her existence as a white teen cannot be ignored. It is, quite plainly, what made the dynamics of these writing relationships possible. At that time in Canada’s history, news from home could have never come from a Japanese Canadian friend.
 
-We wish to acknowledge that these letters are incredibly valuable in that they enable us to gain a glimpse into the lives of these letters’ authors, but that our historical gain is not free of conflicting feelings about how these letters came to be material for an exhibit, and what making them into an exhibit represents.
+We wish to acknowledge that these letters are incredibly valuable in that they enable us to gain a glimpse into the lives of their authors, but that our historical gain is not free of conflicting feelings about how these letters came to be material for an exhibit, and what making them into an exhibit represents.
 
 ## Notes on Positionality
 

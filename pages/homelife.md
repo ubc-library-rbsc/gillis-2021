@@ -103,7 +103,7 @@ permalink: /homelife.html
 
 <p style="text-indent: 25px;">Though assignment to sugar beet farms was framed by the federal government to be a choice that afforded Japanese Canadians the “privilege” of keeping their families together, the number of members in a family who were old enough to work in the fields was a large consideration for the farmers who selected which families to employ.<sup>1</sup> However, the housing provided by these farmers was often no more than a single-room storage shed. The B.C. Security Commission, who enforced the dispersal of Japanese Canadians and the non-consensual sales of their property, provided some additional lumber for makeshift extensions to farm homes, but only distributed to the land-owning farmers.<sup>2</sup></p>
 
-<p style="text-indent: 25px;">Housing conditions after the forced dispersal came as a shock to many of Joan’s correspondents, particularly for those whose families had owned their own farms or businesses in B.C. Jackie Takahashi describes his new quarters as a “wee shack” of “10’ by 20’”, with no room for anyone to move.<sup>3</sup></p>
+<p style="text-indent: 25px;">Housing conditions came as a shock to many of Joan’s correspondents, particularly for those whose families had owned their own farms or businesses in B.C. Jackie Takahashi describes his new quarters as a “wee shack” of “10’ by 20’”, with no room for anyone to move.<sup>3</sup></p>
 
 <p style="text-indent: 25px;">Not too far from Jackie was Sumi Mototsune, who was sent to live and work on a sugar beet farm near Raymond, Alberta, with her parents, three sisters, and one brother. In a letter from May 30th, 1942, she says of her family's one-room home, “Only mice can have the pleasure of living in here.”</p>
 

@@ -17,7 +17,7 @@ permalink: /communications.html
 {% include feature/nav-menu.html sections="Photographs; Letter Writing; Censorship" %}
 
 
-<p style="text-indent: 25px;">When Japanese Canadians were forcibly displaced, they not only were forcibly removed from their homes, but also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, often completely denied to forcibly uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.</p>
+<p style="text-indent: 25px;">When Japanese Canadians were forcibly displaced, they were also restricted in their ability to gain and distribute information. Access to radios and cameras in particular was severely limited, often completely denied to forcibly uprooted Nikkei. Order In Council 1486 explicitly permitted the confiscation of short-wave radios and cameras by the RCMP, ostensibly because of concerns that Japanese Canadians would be using these sources of information for the benefit of Japan. It is not entirely clear in the context of these letters as to whether or not Japanese Canadians were explicitly told they were not allowed to have these materials.</p>
 <div class="container">
     <div class="row">
         <div class="col-md-6 my-auto">
@@ -31,10 +31,10 @@ permalink: /communications.html
 
 
 
-<p style="text-indent: 25px;"> Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.</p>
+<p style="text-indent: 25px;"> Having the ability to do something and yet not having the access or means to actually be able to do it is a recurrent theme throughout the letters. Just as Sumi's family wanted to take more pictures if they could, many of the teens would have progressed much further in their education if they could, and many families tried to submit requests to move to new farms but were denied<sup>1</sup>. Tad's family waiting to receive their camera, but never actually getting it from the "custodian" of their property is also reflective of the conflicting messages of freedoms and restrictions that Japanese Canadians experienced throughout this period.</p>
 
 
-<p style="text-indent: 25px;">There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during the period fo forced dispersal. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.</p>
+<p style="text-indent: 25px;">There is a theme across a large array of experiences from Japanese Canadians’ forced dispersal that relates to this idea of not quite being denied something, but also not actually being able to do something as a result of the measures and stigma associated with the Nikkei community during this period. A lack of money, a lack of agency, and a lack of resources played heavily into the quality of life that these families were able to have.</p>
 
 ## Photographs
 
@@ -42,7 +42,7 @@ permalink: /communications.html
 <p style="text-indent: 25px;">While their access to picture-making equipment may have been limited or outright denied, photographs are clearly incredibly important to the letter writers, as evidenced by their many requests that Joan send them photos of herself or of home.</p>
 
 
-<p style="text-indent: 25px;">Photographs from before their forced removal offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.</p>
+<p style="text-indent: 25px;">Photographs from before 1942, often saved in albums, offered an important way for Nikkei to remain connected with their pasts, and also to continue to foster a type of visual knowledge of changes to places and people that they missed.</p>
 
 {% include feature/blockquote.html text="As Japanese Canadians were uprooted from familiar communities throughout British Columbia and were overwhelmed by the loss of loved ones, photography was a way to re-centre themselves within a seemingly stable, yet imaginary, network of relations. Looking became an act of exchange with the subject – conflating the act of seeing with the act of knowing. At a time when all else familiar had been lost, photographs were the internee's ‘most cherished possession’" author="Namiko Kunimoto (2004)" citation="Intimate Archives: Japanese-Canadian family photography, 1939–1949<sup>2</sup>" %}
 
@@ -91,7 +91,7 @@ permalink: /communications.html
     </div>
       
 
-<p style="text-indent: 25px;">We also do see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.</p>
+<p style="text-indent: 25px;">We also see traces of censorship activity in the content of the letters themselves. While the information going to Joan may not have been censored, it appears that many of the letters that she sent to her friends were.</p>
 
 {% include feature/card.html header="Example: The Old Peat Plant" text="<small>No Joan, I do not know what kind of secret, if any, that old peat plant is, but I guess the censor does know what to censor eh what? — Letter from Yoshio Nakamura to Joan Gillis, August 26, 1942</small>
 <p>Peat was used during WWII to pack munitions and in the construction of fire bombs. It is possible that information about the peat plant that Joan was working at was censored for this reason.</p>" objectid="https://cdn.discordapp.com/attachments/798302352737566730/868167545402843136/Screen_Shot_2021-07-23_at_9.27.14_AM.png" width="75" centered=true %}
