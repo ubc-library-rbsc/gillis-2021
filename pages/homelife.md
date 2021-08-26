@@ -28,7 +28,7 @@ permalink: /homelife.html
 <div class="card-deck">
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 70px;">Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.</p>
+      <p class="card-text"><span class="align-middle">Gosh I will miss the cherry and other fruits and even the flowers. Anyhow I remember seeing a tulip before I came here.</span></p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Jackie Takahashi, May 10, 1942</small>
@@ -36,7 +36,7 @@ permalink: /homelife.html
   </div>
   <div class="card" style="background-color:#e3e4d7;">
     <div class="card-body">
-      <p class="card-text" style="align:center; padding-top: 50px;">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</p>
+      <p class="card-text">span class="align-middle">To tell you the truth I think British Columbia is the best place to live and enjoy scenery.</span></p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
