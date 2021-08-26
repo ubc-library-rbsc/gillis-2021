@@ -52,6 +52,36 @@ permalink: /homelife.html
   </div>
 </div>
 
+<div class="container">
+    <div class="row bg-faded">
+        <div class="col-md-4">
+            <div class="card card-body h-100 justify-content-center">
+               Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.
+    </div>
+    <div class="card-footer">
+      <small class="text-muted">Jackie Takahashi, May 10, 1942</small>
+    </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card card-body h-100 justify-content-center">
+             To tell you the truth I think British Columbia is the best place to live and enjoy scenery.
+            </div>
+			<div class="card-footer">
+      <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
+    </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card card-body h-100 justify-content-center">
+                Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.
+            </div>
+			    <div class="card-footer">
+      <small class="text-muted">Sumi Mototsune, May 16, 1942</small>
+    </div>
+        </div>
+    </div>
+</div>
+
 <br>
 <p style="text-indent: 25px;">For others, this homesickness was more closely tied to their school community at Queen Elizabeth Secondary. Joan received frequent requests for copies of the school newspaper, the Q.E. Vue, in addition updates on teachers and the results of school sporting events. One correspondent, Yoshio Nakamura, spends the first six months of 1944 requesting that Joan send a school pin. When Joan is able to finally fulfill this request, Yoshio reminisces about their shared time at school and compares his years pulled away from home to those of a soldier fighting on foreign soil.</p>
 <br>
