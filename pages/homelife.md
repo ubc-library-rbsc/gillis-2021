@@ -54,7 +54,7 @@ permalink: /homelife.html
 
 <div class="container">
     <div class="row bg-faded">
-        <div class="col-md-4">
+        <div class="col-md-2">
             <div class="card card-body h-100 justify-content-center">
                Gosh I will miss the cherry and other fruits and even the flowers. 	Anyhow I remember seeing a tulip before I came here.
     </div>
@@ -63,7 +63,7 @@ permalink: /homelife.html
     </div>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-2">
             <div class="card card-body h-100 justify-content-center">
              To tell you the truth I think British Columbia is the best place to live and enjoy scenery.
             </div>
@@ -71,14 +71,13 @@ permalink: /homelife.html
       <small class="text-muted">Tad Nagamori, Jan. 16, 1944</small>
     </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-2">
             <div class="card card-body h-100 justify-content-center">
                 Everywhere you look, just level plains of farming lands can be seen, while back in B.C: everywhere you look are trees and nothing but trees. Not one speck of the beautiful mountains can be seen either. We all miss our beautiful B.C. trees and mts.
             </div>
 			    <div class="card-footer">
       <small class="text-muted">Sumi Mototsune, May 16, 1942</small>
     </div>
-        </div>
     </div>
 </div>
 
