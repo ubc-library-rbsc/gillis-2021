@@ -13,7 +13,7 @@ credits: true
     <li class="breadcrumb-item active" aria-current="page">About the Exhibit</li>
   </ol>
 </nav>
-{% include feature/nav-menu.html sections="About the Collection; Note on the Nature of Letters and Archives ; Notes on Positionality;Acknowledgements;Technical Credits" %}
+{% include feature/nav-menu.html sections="About the Collection;Terminology;Note on the Nature of Letters and Archives;About the Curators and Notes on Positionality;Acknowledgements;Technical Credits" %}
 
 ## About the Collection
 
@@ -32,6 +32,10 @@ Headingley and Lorette, Manitoba are on the traditional territories of the Michi
 Magrath, Rainier, and Raymond, Alberta are on the traditional territories of the Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ), Ktunaxa ɁamakɁis, Tsuu T'ina, Michif Piyii (Métis), and Očhéthi Šakówiŋ Nations in the Treaty 7 region.
 
 Rocky Mountain House, Alberta is on the traditional territories of the Métis, Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ), Tsuu T'ina, and Cree Nations in the Treaty 6 region.
+
+## Terminology
+
+[Ongoing]
 
 ## Note on the Nature of Letters and Archives 
 
