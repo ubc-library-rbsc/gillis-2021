@@ -84,8 +84,6 @@ permalink: /homelife.html
 
 ## Recreation
 
-<p style="text-indent: 25px;">Between recollections of backbreaking labour in the beet fields and experiences of discrimination in their new environments, it can be difficult to remember that most of the letter-writers in this exhibit are just teenagers. One of the greatest reminders of the young age of these correspondents, and a reflection of their resilience in spite of ongoing systemic racism, is the enthusiasm with which they write to Joan about their hobbies, passions, and the activities they turn to for fun.</p>
-
 <div class="container">
 	<div class="row">
     <div class="col-md-6 my-auto">
