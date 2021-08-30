@@ -43,7 +43,7 @@ In addition to the wartime censor’s looming presence, so too do we see in thes
 
 Joan’s presence looms large in our experience of these letters and her existence as a white teen cannot be ignored. It is, quite plainly, what made the dynamics of these writing relationships possible. At that time in Canada’s history, news from home could have never come from a Japanese Canadian friend.
 
-We wish to acknowledge that these letters are incredibly valuable in that they enable us to gain a glimpse into the lives of their authors, but that our historical gain is not free of conflicting feelings about how these letters came to be material for an exhibit, and what making them into an exhibit represents.
+We wish to acknowledge that these letters are incredibly valuable in that they enable us to gain a glimpse into the lives of their ’ authors, but that our historical gain is not free of problematicity. We hold conflicting feelings about how these letters came to be material for our exhibit, not due to any misbehavior but rather as a result of the nature of archives, and encourage you to consider these implications as you experience the exhibit.
 
 ## About the Curators and Notes on Positionality
 
