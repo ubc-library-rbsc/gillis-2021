@@ -39,9 +39,13 @@ permalink: /labour.html
   <div class="row">
     <div class="col-sm-6 my-auto">
 
-<p style="text-indent: 25px;">There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. </p>
+    <p style="text-indent: 25px;">There are many stages to beet farming, each of which requires a significant amount of work. Activities that the correspondents mention having to carry out included planting, thinning, hoeing, and harvesting--which in and of itself has a variety of stages including pulling, piling, topping, and loading. </p>
 
-{% include feature/blockquote.html text="To [top] this sugar beet we use a heavy knife with a curved hook at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton." author="Tad Nagamori" citation="Letter to Joan Gillis, October 4, 1942" %}
+    {% include feature/blockquote.html text="To [top] this sugar beet we use a heavy knife with a curved hook at the end to pick it up. This we could only do about 1/2 acre a day or less. To every ton of beets topped we get $1.25 to 8 tons of beet topped and to anything over 8 tons an acre we get 1.00 per ton." author="Tad Nagamori" citation="Letter to Joan Gillis, October 4, 1942" %}
+
+    <p style="text-indent: 25px;">Farming in general is highly seasonal and doesn't offer much flexibility if the crop is to be successful. As a result, many of the correspondents who were able to remain in school often had to sacrifice weeks or months of their education so that they could help their families complete the harvest.</p>
+
+    {% include feature/alert.html text="<small>You can learn more about the education of our correspondents on the <a href='https://ubc-library-rbsc.github.io/gillis-2021/education.html'>'Education' page.</a></small>" color="info" align="center"%}
      </div>
     <div class="col-sm-6">
 {% include feature/card.html header="Topping Knife" text="A topping knife that belonged to Roy and Lillie Yano, now held at the Nikkei National Museum (2013.57.3.4). Topping involves taking the green leaves off of the top of the sugar beet." objectid="https://nikkeimuseum.org/files/nikkeImgFMP12/JCNM%20Database/files/ARTEFACT/Image_Image%201/27336/2013-57-3-4.jpg" width="100" centered=true %}
