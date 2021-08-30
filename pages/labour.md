@@ -97,7 +97,7 @@ permalink: /labour.html
 
 <p style="text-indent: 25px;"> They also seemed to try to shield Joan from the worst of the conditions they were being forced to endure. The backbreaking labour of farming and the incredibly long hours that it required often left them with little energy to write, yet so many of them focused on hoping that Joan would forgive them for not having written back sooner, never mind the fact that the reason they hadn't was because of the monopoly that the work held over their time.</p>
 
-<p style="text-indent: 25px;"> While much of the letters demonstrate how youthful these correspondents were, the manner in which they communicated their situations to Joan shows the maturity they were forced to develop when they were forcibly displaced. Making the best of a bad situation, they used their letters to hold onto their youth, but also could not help but omit some of the harshest elements of their experiences in acknowledgement of Joan's greater innocence back home.</p>
+<p style="text-indent: 25px;"> While many of the letters demonstrate how youthful these correspondents were, the manner in which they communicated their situations to Joan shows the maturity they were forced to develop when they were forcibly displaced. Making the best of a bad situation, they used their letters to hold onto their youth, but also could not help but omit some of the harshest elements of their experiences in acknowledgement of Joan's greater innocence back home.</p>
 
 <small> Citations </small> <br>
 <small>1. Shelly D. Ketchell, “Re-locating Japanese Canadian History: Sugar Beet Farms as Carceral Sites in Alberta and Manitoba, February 1942 – January 1943,” (MA Thesis, University of British Columbia, 2005), 99.</small> <br>
