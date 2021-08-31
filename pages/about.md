@@ -43,7 +43,7 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
     </div>
     </div>
 
-<small>1. Definition from the Xi Copani Eleventh Pan-American Nikkei Conference 2001, as seen in: Nikkei National Museum & Cultural Centre. (2019). <i>Nikkei 日系 Exhibit Brief: July 2019-2020</i>. https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf</small>
+<small>1. Definition from the Xi Copani Eleventh Pan-American Nikkei Conference 2001, as seen in: Nikkei National Museum & Cultural Centre. (2019). <i>Nikkei 日系 Exhibit Brief: July 2019-2020</i>. <a href="https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf">https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf</a></small>
 
 ## Note on the Nature of Letters and Archives 
 
