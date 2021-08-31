@@ -25,7 +25,7 @@ This digital exhibit was developed as a professional experience project for Rare
 
 Sugar beet farming has historically taken advantage of not only forcibly uprooted Japanese Canadians; it has also been an industry that has exploited the labour of Indigenous peoples<sup>1</sup>. In addition to acknowledging the settler nature of the exhibit and its developers, we also wish to acknowledge the territories on which the correspondents lived during their forced dispersal and the Nations it traditionally belongs to.
 
-Dryden, Ontario is on the traditional territories of the Michif Piyii (Métis)  and Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ Nations in the Treaty 3 region.
+Dryden, Ontario is on the traditional territories of the Michif Piyii (Métis) and Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ Nations in the Treaty 3 region.
 
 Headingley and Lorette, Manitoba are on the traditional territories of the Michif Piyii (Métis), Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ, and Očhéthi Šakówiŋ Nations in the Treaty 1 region.
 
@@ -35,7 +35,36 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
 
 ## Terminology
 
-[Ongoing]
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Term used</th>
+      <th scope="col">Description</th>
+      <th scope="col">Related terms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Forced dispersal</th>
+      <td>The forced removal of Japanese Canadians from their homes and businesses, primarily in British Columbia, and subsequent incarceration in internment and labour camps, employment on sugar beet farms, or exile to Japan during the 1940s.</td>
+      <td>Forced uprooting; Forced removal; Internment; Incarceration</td>
+    </tr>
+    <tr>
+      <th scope="row">Nikkei</th>
+      <td>Anyone with one or more
+ancestors from Japan, and/or anyone who
+		  self-identifies as <i>nikkei</i><sup>1</sup></td>
+      <td>Nisei (Second generation Japanese Canadian)</td>
+    </tr>
+    <tr>
+      <th scope="row">Sugar beet farms</th>
+      <td>The government rhetoric around sugar beet farms often depicted them as a "project" that Japanese Canadians were able to willingly volunteer for. In reality, this was the only viable alternative to labour camps for families that did not want to be split up and who had enough members eligible to perform farm work. </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+<small>1. Definition from the Xi Copani Eleventh Pan-American Nikkei Conference 2001, as seen in: Nikkei National Museum & Cultural Centre. (2019). <i>Nikkei 日系 Exhibit Brief: July 2019-2020</i>. https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf</small>
 
 ## Note on the Nature of Letters and Archives 
 
