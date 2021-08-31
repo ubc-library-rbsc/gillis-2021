@@ -35,46 +35,13 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
 
 ## Terminology
 
-<div class="table-responsive">
-<table class="table">
-  <thead class="thead-light">
-    <tr>
-      <th scope="col">Exhibit Term</th>
-      <th scope="col">Description</th>
-      <th scope="col">Related Terms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Forced dispersal</th>
-      <td>The forced removal of Japanese Canadians from their homes and businesses, primarily in British Columbia, and subsequent incarceration in internment and labour camps, employment on sugar beet farms, or exile to Japan during the 1940s.</td>
-      <td>Forced uprooting; Forced removal; Internment; Incarceration</td>
-    </tr>
-    <tr>
-      <th scope="row">Nikkei</th>
-      <td>Anyone with one or more
-ancestors from Japan, and/or anyone who
-		  self-identifies as <i>nikkei</i> <sup>1</sup></td>
-      <td>Nisei (Second generation Japanese Canadian)</td>
-    </tr>
-    <tr>
-      <th scope="row">Sugar beet farms</th>
-      <td>The government rhetoric around sugar beet farms often depicted them as a "project" that Japanese Canadians volunteered for of their own volition. In reality, this was the only viable alternative to labour camps for families that did not want to be split up, and who had enough members eligible to perform farm work. </td>
-      <td></td>
-    </tr>
-	  <tr>
-      <th scope="row">Farm owners</th>
-      <td>The farmers and owners of the fields where Japanese Canadians laboured to harvest sugar beets. Most of the correspondents refer to these individuals simply as "boss," or simply use their title and surname throughout the letters.</td>
-      <td></td>
-    </tr>
-	    <tr>
-      <th scope="row">Restricted Zone</th>
-      <td>A 160-kilometre strip along the west coast of British Columbia from which Japanese Canadians were forcibly removed and forbidden from re-entering as of March 1942.</td>
-      <td>Protected Zone</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<div class="container">
+    <div class="row">
+         <div class="col-md-10 mx-auto">
+        {% include feature/table.html %}
+        </div>
+    </div>
+    </div>
 
 <small>1. Definition from the Xi Copani Eleventh Pan-American Nikkei Conference 2001, as seen in: Nikkei National Museum & Cultural Centre. (2019). <i>Nikkei 日系 Exhibit Brief: July 2019-2020</i>. https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf</small>
 
