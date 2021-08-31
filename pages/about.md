@@ -35,12 +35,12 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
 
 ## Terminology
 
-<table class="table">
+<table class="table table-sm">
   <thead class="thead-light">
     <tr>
-      <th scope="col">Term used</th>
+      <th scope="col">Exhibit Term</th>
       <th scope="col">Description</th>
-      <th scope="col">Related terms</th>
+      <th scope="col">Related Terms</th>
     </tr>
   </thead>
   <tbody>
@@ -53,13 +53,23 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
       <th scope="row">Nikkei</th>
       <td>Anyone with one or more
 ancestors from Japan, and/or anyone who
-		  self-identifies as <i>nikkei</i><sup>1</sup></td>
+		  self-identifies as <i>nikkei</i> <sup>1</sup></td>
       <td>Nisei (Second generation Japanese Canadian)</td>
     </tr>
     <tr>
       <th scope="row">Sugar beet farms</th>
-      <td>The government rhetoric around sugar beet farms often depicted them as a "project" that Japanese Canadians were able to willingly volunteer for. In reality, this was the only viable alternative to labour camps for families that did not want to be split up and who had enough members eligible to perform farm work. </td>
+      <td>The government rhetoric around sugar beet farms often depicted them as a "project" that Japanese Canadians volunteered for of their own volition. In reality, this was the only viable alternative to labour camps for families that did not want to be split up, and who had enough members eligible to perform farm work. </td>
       <td></td>
+    </tr>
+	  <tr>
+      <th scope="row">Farm owners</th>
+      <td>The farmers and owners of the fields where Japanese Canadians laboured to harvest sugar beets. Most of the correspondents refer to these individuals simply as "boss," or simply use their title and surname throughout the letters.</td>
+      <td></td>
+    </tr>
+	    <tr>
+      <th scope="row">Restricted Zone</th>
+      <td>A 160-kilometre strip along the west coast of British Columbia from which Japanese Canadians were forcibly removed and forbidden from re-entering as of March 1942.</td>
+      <td>Protected Zone</td>
     </tr>
   </tbody>
 </table>
