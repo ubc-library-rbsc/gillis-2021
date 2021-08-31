@@ -35,6 +35,7 @@ Rocky Mountain House, Alberta is on the traditional territories of the Métis, N
 
 ## Terminology
 
+<div class="table-responsive">
 <table class="table">
   <thead class="thead-light">
     <tr>
@@ -73,6 +74,7 @@ ancestors from Japan, and/or anyone who
     </tr>
   </tbody>
 </table>
+</div>
 
 <small>1. Definition from the Xi Copani Eleventh Pan-American Nikkei Conference 2001, as seen in: Nikkei National Museum & Cultural Centre. (2019). <i>Nikkei 日系 Exhibit Brief: July 2019-2020</i>. https://centre.nikkeiplace.org/wp-content/uploads/2020/05/Nikkei-exhibit-brochure_E.pdf</small>
 
