@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  I Know We'll Meet Again: Correspondence and the
+  forced dispersal of Japanese Canadians
+message: >-
+  Please cite this exhibit using the metadata from
+  this file.
+type: interactive-resource
+authors:
+  - given-names: Mya
+    family-names: Ballin
+    affiliation: University of British Columbia
+    orcid: 'https://orcid.org/0000-0002-0910-9198'
+  - given-names: Sasha
+    family-names: Gaylie
+    affiliation: University of British Columbia
+    orcid: 'https://orcid.org/0000-0002-5189-103X'
+url: 'https://ubc-library-rbsc.github.io/gillis-2021/'
+repository: 'https://github.com/ubc-library-rbsc/gillis-2021'
+abstract: >-
+  “I Know We’ll Meet Again” is a virtual exhibit
+  built with CollectionBuilder and Oral History (as)
+  Data—two open source tools developed by the Centre
+  for Digital Inquiry and Learning (CDIL) at the
+  University of Idaho—which use a GitHub-based
+  workflow proposed by the tool creators. The exhibit
+  was created as part of a reflective, commemorative
+  event planned by the University of British Columbia
+  Library for the 80th anniversary of the forced
+  displacement of Japanese Canadians during and
+  following the events of World War II. The
+  exhibition features a selection of letters from
+  displaced Japanese Canadian youth detailing their
+  deep homesickness and sense of isolation from their
+  friends and communities, the new living and labour
+  conditions they had to endure, their continued
+  sense of Canadian identity even as the government
+  labeled them “alien,” the bright spots they were
+  able to find in their present conditions, and their
+  imaginations for the future.
+date-released: '2021-08-31'
