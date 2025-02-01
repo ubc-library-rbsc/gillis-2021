@@ -70,8 +70,7 @@ permalink: /communications.html
 
 <p style="text-indent: 25px;">The news that Joan was able to provide in her letters was precious. Sumi describes her eagerness in receiving them in a letter to Joan dated May 16, 1942: "I recognized your writing on the envelope and ripped it open & read it immediately. The way how I threw down my hoe to read it, my mother knew who the letter was from. I read your letters, I don’t know how many times."</p>
 
-{% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small><br>Postscripts asking Joan to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="objects
-/PleaseWriteSoon.jpg" width="75" centered=true %}
+{% include feature/card.html header="Example: Please Write Soon" text="<small>Image description: A series of excerpts from multiple letters written by multiple authors featuring instances in which the correspondents asked Joan to write to them soon. </small><br>Postscripts asking Joan to write as soon as she could are common throughout the letters, as are descriptions of how her letters were able to give them a slice of the life they were missing." objectid="objects/PleaseWriteSoon.jpg" width="75" centered=true %}
 
 
 <p style="text-indent: 25px;">But while Joan was able to provide many tales of Queen Elizabeth High School and what it was like at home in the New Westminster area, neither her letters nor those of the correspondents were free from the scrutiny of the Canadian government.</p>
