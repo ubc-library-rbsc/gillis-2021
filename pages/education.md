@@ -77,7 +77,7 @@ permalink: /education.html
 <p style="text-indent: 25px;">The correspondents also write romantically about their time spent with Joan and other friends at Queen Elizabeth Secondary, reminiscing about their shared classes and interest in the <i>Q.E. Vue</i>. Though the government sought to define these correspondents as both enemies of the state and just a source of manual labour, the content of these letters—school dances, homework, basketball teams—are a stark reminder of what they really were: school children.</p>
 
 <div class="card mb-3">
-  <img class="card-img-top" src="https://cdn.discordapp.com/attachments/798302352737566730/878769425937989632/y_nakamura_qu1.jpg" alt="Card image cap">
+  <img class="card-img-top" src="https://raw.githubusercontent.com/ubc-library-rbsc/gillis-2021/refs/heads/main/objects/y_nakamura_qu1.jpg" alt="Card image cap">
   <div class="card-body">
     <blockquote class="blockquote mb-0">
       <p>"Say, thanks for sending me the Q.E. Vue Joan, it sure was swell. To tell you the utmost truth I just about felt like crying when I read about the graduation and to think that I would have been there too. Gosh! I sure had a swell time while I attended good old, I mean new Q.E."</p>
