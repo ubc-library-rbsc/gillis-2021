@@ -60,7 +60,7 @@ permalink: /homelife.html
   <div class="row">
 	  
 	      <div class="col-sm-6">
-			  {% include feature/card.html text="Yoshio Nakamura to Joan Gillis, <i>June 26, 1944</i>" objectid="https://cdn.discordapp.com/attachments/798302352737566730/879579979531321354/y_nakamura_qu2.png" width="100" centered=true %}
+			  {% include feature/card.html text="Yoshio Nakamura to Joan Gillis, <i>June 26, 1944</i>" objectid="https://raw.githubusercontent.com/ubc-library-rbsc/gillis-2021/refs/heads/main/objects/y_nakamura_qu2.png" width="100" centered=true %}
      </div>
 	  
     <div class="col-sm-6 my-auto">
